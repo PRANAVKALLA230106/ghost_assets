@@ -1,0 +1,81 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_1942",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 240.0,
+   "amount_kind": "debit",
+   "date": "2021-10-14",
+   "nominee": null,
+   "quote": "Rs.240.00 debited from A/c XX8812 on 14-10-21 to VPA freshmart@ybl. UPI Ref 956217530058. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_1943",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 760.0,
+   "amount_kind": "debit",
+   "date": "2021-10-15",
+   "nominee": null,
+   "quote": "Rs.760.00 debited from A/c XX8812 on 15-10-21 to VPA bescom.pay@ybl. UPI Ref 587328413513. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_1945",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 1840.0,
+   "amount_kind": "debit",
+   "date": "2021-10-24",
+   "nominee": null,
+   "quote": "Rs.1,840.00 debited from A/c XX8812 on 24-10-21 to VPA medplus.jayanagar@ybl. UPI Ref 486260407870. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_1960",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 60.0,
+   "amount_kind": "debit",
+   "date": "2021-11-29",
+   "nominee": null,
+   "quote": "Rs.60.00 debited from A/c XX8812 on 29-11-21 to VPA chaiwala@ybl. UPI Ref 708117155426. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_1971",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 2300.0,
+   "amount_kind": "debit",
+   "date": "2021-12-15",
+   "nominee": null,
+   "quote": "Rs.2,300.00 debited from A/c XX8812 on 15-12-21 to VPA chaiwala@ybl. UPI Ref 877693993558. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_1973",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 760.0,
+   "amount_kind": "debit",
+   "date": "2021-12-19",
+   "nominee": null,
+   "quote": "Rs.760.00 debited from A/c XX8812 on 19-12-21 to VPA medplus.jayanagar@ybl. UPI Ref 334962281102. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_1977",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 350.0,
+   "amount_kind": "debit",
+   "date": "2021-12-26",
+   "nominee": null,
+   "quote": "Rs.350.00 debited from A/c XX8812 on 26-12-21 to VPA auto.ravi@ybl. UPI Ref 226380009561. Not you? Call 1800111109 -SBI"
+  }
+ ]
+}

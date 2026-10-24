@@ -1,0 +1,74 @@
+{
+ "text": "",
+ "reasoning": "Need to call with no args.",
+ "tool_call": {
+  "id": "fc_0881d78a-ac3a-407f-ad21-76bb8fdc0002",
+  "name": "build_asset_map",
+  "args": {
+   "asset_map": [
+    {
+     "account_no": "8812",
+     "id": "as_01",
+     "institution": "SBI",
+     "last_activity": "2025-12-01",
+     "nominee": "N/A",
+     "status": "active",
+     "type": "savings_account"
+    },
+    {
+     "account_no": "FD123",
+     "id": "as_02",
+     "institution": "SBI",
+     "last_activity": "2024-06-15",
+     "nominee": "N/A",
+     "status": "matured",
+     "type": "fixed_deposit"
+    },
+    {
+     "id": "as_03",
+     "institution": "LIC",
+     "last_activity": "2026-01-20",
+     "nominee": "N/A",
+     "policy_no": "LIC12345",
+     "status": "active",
+     "type": "life_insurance"
+    },
+    {
+     "id": "as_04",
+     "institution": "KAVERI MF",
+     "last_activity": "2025-11-30",
+     "nav": "10.5",
+     "nominee": "N/A",
+     "scheme": "KAVERI 2025",
+     "status": "active",
+     "type": "mutual_fund",
+     "units": "500"
+    },
+    {
+     "id": "as_05",
+     "institution": "VM-CANBNK",
+     "last_activity": "2024-03-10",
+     "nominee": "N/A",
+     "shares": "100",
+     "status": "active",
+     "symbol": "CAN",
+     "type": "shares"
+    }
+   ]
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_0881d78a-ac3a-407f-ad21-76bb8fdc0002",
+    "type": "function",
+    "function": {
+     "name": "build_asset_map",
+     "arguments": "{\"asset_map\":[{\"account_no\":\"8812\",\"id\":\"as_01\",\"institution\":\"SBI\",\"last_activity\":\"2025-12-01\",\"nominee\":\"N/A\",\"status\":\"active\",\"type\":\"savings_account\"},{\"account_no\":\"FD123\",\"id\":\"as_02\",\"institution\":\"SBI\",\"last_activity\":\"2024-06-15\",\"nominee\":\"N/A\",\"status\":\"matured\",\"type\":\"fixed_deposit\"},{\"id\":\"as_03\",\"institution\":\"LIC\",\"last_activity\":\"2026-01-20\",\"nominee\":\"N/A\",\"policy_no\":\"LIC12345\",\"status\":\"active\",\"type\":\"life_insurance\"},{\"id\":\"as_04\",\"institution\":\"KAVERI MF\",\"last_activity\":\"2025-11-30\",\"nav\":\"10.5\",\"nominee\":\"N/A\",\"scheme\":\"KAVERI 2025\",\"status\":\"active\",\"type\":\"mutual_fund\",\"units\":\"500\"},{\"id\":\"as_05\",\"institution\":\"VM-CANBNK\",\"last_activity\":\"2024-03-10\",\"nominee\":\"N/A\",\"shares\":\"100\",\"status\":\"active\",\"symbol\":\"CAN\",\"type\":\"shares\"}]}"
+    }
+   }
+  ]
+ }
+}

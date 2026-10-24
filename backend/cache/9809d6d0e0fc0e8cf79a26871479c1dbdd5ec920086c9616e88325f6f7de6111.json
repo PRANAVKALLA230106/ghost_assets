@@ -1,0 +1,26 @@
+{
+ "text": "",
+ "tool_call": {
+  "id": "fc_df647914-30d3-4d36-86c8-c7a8a4a41185",
+  "name": "check_portal",
+  "args": {
+   "institution": "State Bank of India",
+   "name": "Ramesh Kumar",
+   "portal": "UDGAM"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_df647914-30d3-4d36-86c8-c7a8a4a41185",
+    "type": "function",
+    "function": {
+     "name": "check_portal",
+     "arguments": "{\"institution\":\"State Bank of India\",\"name\":\"Ramesh Kumar\",\"portal\":\"UDGAM\"}"
+    }
+   }
+  ]
+ }
+}

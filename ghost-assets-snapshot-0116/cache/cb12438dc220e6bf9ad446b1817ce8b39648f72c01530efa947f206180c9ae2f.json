@@ -1,0 +1,37 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_2367",
+   "institution_raw": "AD-SURKSH",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX0903",
+   "amount": 12450,
+   "amount_kind": "premium",
+   "date": "2023-09-05",
+   "nominee": null,
+   "quote": "premium of Rs 12,450.00 for policy XXXXX0903"
+  },
+  {
+   "evidence_id": "sms_2376",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 32500,
+   "amount_kind": "credit",
+   "date": "2023-09-01",
+   "nominee": null,
+   "quote": "your A/c XX8812 is credited by Rs.32,500.00 on 01-09-23"
+  },
+  {
+   "evidence_id": "sms_2384",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 5000,
+   "amount_kind": "debit",
+   "date": "2023-09-05",
+   "nominee": null,
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-09-23 for SIP KAVERI MF Folio XXXXXX3312"
+  }
+ ]
+}

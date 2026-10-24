@@ -1,0 +1,92 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_2414",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "1840.00",
+   "amount_kind": "debit",
+   "date": "2023-10-04",
+   "nominee": null,
+   "quote": "Rs.1,840.00 debited from A/c XX8812 on 04-10-23 to VPA milk.nandini@ybl."
+  },
+  {
+   "evidence_id": "sms_2416",
+   "institution_raw": "VM-KAVRMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": "5000.00",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.5,000.00 in Kaveri Flexi Cap Fund - Growth, Folio XXXXXX3312 is processed."
+  },
+  {
+   "evidence_id": "sms_2417",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "240.00",
+   "amount_kind": "debit",
+   "date": "2023-10-05",
+   "nominee": null,
+   "quote": "Rs.240.00 debited from A/c XX8812 on 05-10-23 to VPA pharmacy.apollo@ybl."
+  },
+  {
+   "evidence_id": "sms_2419",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "2300.00",
+   "amount_kind": "debit",
+   "date": "2023-10-07",
+   "nominee": null,
+   "quote": "Rs.2,300.00 debited from A/c XX8812 on 07-10-23 to VPA milk.nandini@ybl."
+  },
+  {
+   "evidence_id": "sms_2427",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "1840.00",
+   "amount_kind": "debit",
+   "date": "2023-10-19",
+   "nominee": null,
+   "quote": "Rs.1,840.00 debited from A/c XX8812 on 19-10-23 to VPA bescom.pay@ybl."
+  },
+  {
+   "evidence_id": "sms_2434",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "2300.00",
+   "amount_kind": "debit",
+   "date": "2023-10-31",
+   "nominee": null,
+   "quote": "Rs.2,300.00 debited from A/c XX8812 on 31-10-23 to VPA kirana.manju@ybl."
+  },
+  {
+   "evidence_id": "sms_2436",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "240.00",
+   "amount_kind": "debit",
+   "date": "2023-11-01",
+   "nominee": null,
+   "quote": "Rs.240.00 debited from A/c XX8812 on 01-11-23 to VPA milk.nandini@ybl."
+  },
+  {
+   "evidence_id": "sms_2437",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "32500.00",
+   "amount_kind": "credit",
+   "date": "2023-11-01",
+   "nominee": null,
+   "quote": "your A/c XX8812 is credited by Rs.32,500.00 on 01-11-23 by PENSION."
+  }
+ ]
+}

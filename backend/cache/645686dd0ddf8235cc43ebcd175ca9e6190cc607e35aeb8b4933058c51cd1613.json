@@ -1,0 +1,136 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_2027",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 480.0,
+   "amount_kind": "debit",
+   "date": "2022-03-13",
+   "nominee": null,
+   "quote": "Rs.480.00 debited from A/c XX8812 on 13-03-22 to VPA kirana.manju@ybl. UPI Ref 110977038883. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_2045",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 760.0,
+   "amount_kind": "debit",
+   "date": "2022-04-29",
+   "nominee": null,
+   "quote": "Rs.760.00 debited from A/c XX8812 on 29-04-22 to VPA pharmacy.apollo@ybl. UPI Ref 599263022595. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_2047",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 1200.0,
+   "amount_kind": "debit",
+   "date": "2022-05-03",
+   "nominee": null,
+   "quote": "Rs.1,200.00 debited from A/c XX8812 on 03-05-22 to VPA kirana.manju@ybl. UPI Ref 397359885684. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_2060",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 350.0,
+   "amount_kind": "debit",
+   "date": "2022-05-28",
+   "nominee": null,
+   "quote": "Rs.350.00 debited from A/c XX8812 on 28-05-22 to VPA pharmacy.apollo@ybl. UPI Ref 266925023221. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_2063",
+   "institution_raw": "VM-LICIND",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX5271",
+   "amount": 9850,
+   "amount_kind": "premium",
+   "date": "2022-06-15",
+   "nominee": null,
+   "quote": "LIC: Premium of Rs.9,850 for Policy No. XXXXX5271 is due on 15/06/2022. Pay online. Ignore if already paid."
+  },
+  {
+   "evidence_id": "sms_2064",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 1200.0,
+   "amount_kind": "debit",
+   "date": "2022-06-02",
+   "nominee": null,
+   "quote": "Rs.1,200.00 debited from A/c XX8812 on 02-06-22 to VPA pharmacy.apollo@ybl. UPI Ref 303326783773. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_2067",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 9850.0,
+   "amount_kind": "debit",
+   "date": "2022-06-05",
+   "nominee": null,
+   "quote": "Rs.9,850.00 debited from A/c XX8812 on 05-06-22 towards LIC PREMIUM Policy XXXXX5271 -SBI"
+  },
+  {
+   "evidence_id": "sms_2067",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX5271",
+   "amount": 9850,
+   "amount_kind": "premium",
+   "date": "2022-06-05",
+   "nominee": null,
+   "quote": "Rs.9,850.00 debited from A/c XX8812 on 05-06-22 towards LIC PREMIUM Policy XXXXX5271 -SBI"
+  },
+  {
+   "evidence_id": "sms_2076",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 350.0,
+   "amount_kind": "debit",
+   "date": "2022-06-14",
+   "nominee": null,
+   "quote": "Rs.350.00 debited from A/c XX8812 on 14-06-22 to VPA pharmacy.apollo@ybl. UPI Ref 851924991536. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_2077",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 760.0,
+   "amount_kind": "debit",
+   "date": "2022-06-14",
+   "nominee": null,
+   "quote": "Rs.760.00 debited from A/c XX8812 on 14-06-22 to VPA chaiwala@ybl. UPI Ref 196442742929. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_2085",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 120.0,
+   "amount_kind": "debit",
+   "date": "2022-06-26",
+   "nominee": null,
+   "quote": "Rs.120.00 debited from A/c XX8812 on 26-06-22 to VPA pharmacy.apollo@ybl. UPI Ref 727117904706. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_2097",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 240.0,
+   "amount_kind": "debit",
+   "date": "2022-07-10",
+   "nominee": null,
+   "quote": "Rs.240.00 debited from A/c XX8812 on 10-07-22 to VPA chaiwala@ybl. UPI Ref 446809914267. Not you? Call 1800111109 -SBI"
+  }
+ ]
+}

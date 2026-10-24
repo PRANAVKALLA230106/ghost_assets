@@ -1,0 +1,25 @@
+{
+ "text": "",
+ "reasoning": "Need to apply claim rules to all assets.",
+ "tool_call": {
+  "id": "fc_5e11da16-082d-4268-aafd-259b320b9987",
+  "name": "apply_claim_rules",
+  "args": {
+   "asset_id": "all"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_5e11da16-082d-4268-aafd-259b320b9987",
+    "type": "function",
+    "function": {
+     "name": "apply_claim_rules",
+     "arguments": "{\"asset_id\":\"all\"}"
+    }
+   }
+  ]
+ }
+}

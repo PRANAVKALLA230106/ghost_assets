@@ -1,0 +1,26 @@
+{
+ "clues": [
+  {
+   "evidence_id": "photo_policy_bond",
+   "institution_raw": "LIC",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX5271",
+   "amount": 180000,
+   "amount_kind": "sum_assured",
+   "date": "2010-06-15",
+   "nominee": "SUNITA KUMAR",
+   "quote": "Sum Assured\nRs 1,80,000"
+  },
+  {
+   "evidence_id": "photo_policy_bond",
+   "institution_raw": "LIC",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX5271",
+   "amount": 9850,
+   "amount_kind": "premium",
+   "date": null,
+   "nominee": null,
+   "quote": "Annual Premium\nRs 9,850"
+  }
+ ]
+}

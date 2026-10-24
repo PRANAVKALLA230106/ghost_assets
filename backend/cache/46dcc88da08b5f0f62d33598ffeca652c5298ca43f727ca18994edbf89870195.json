@@ -1,0 +1,27 @@
+{
+ "text": "",
+ "reasoning": "We need to investigate gaps: assets with weak evidence, old assets. We have as_06 and as_07 need portal checks. Also nominee unknown for some. Let's check portals.",
+ "tool_call": {
+  "id": "fc_2f0eda0c-ec77-4fa0-9bb3-ae920cd8c69c",
+  "name": "check_portal",
+  "args": {
+   "institution": "Ganga Tech Ltd",
+   "name": "Ramesh Kumar",
+   "portal": "IEPF"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_2f0eda0c-ec77-4fa0-9bb3-ae920cd8c69c",
+    "type": "function",
+    "function": {
+     "name": "check_portal",
+     "arguments": "{\"institution\":\"Ganga Tech Ltd\",\"name\":\"Ramesh Kumar\",\"portal\":\"IEPF\"}"
+    }
+   }
+  ]
+ }
+}

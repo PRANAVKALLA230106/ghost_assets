@@ -1,0 +1,9 @@
+{
+ "text": "**Finish**\n\nAll assets have been identified, gaps investigated, claim paths applied, and claim packs generated.  \nThe heir now has the following claim documents ready for submission:\n\n| Asset ID | Type | Claim Path | File |\n|----------|------|------------|------|\n| as_01 | SBI Savings | Nominee claim | 1e0d4807_as_01.docx |\n| as_02 | SBI Fixed Deposit | Simplified no‑nominee claim | 1e0d4807_as_02.docx |\n| as_03 | LIC Life Insurance | Insurance death claim | 1e0d4807_as_03.docx |\n| as_04 | Kaveri Mutual Fund | Transmission claim | 1e0d4807_as_04.docx |\n| as_05 | Suraksha Life Insurance | Insurance death claim | 1e0d4807_as_05.docx |\n| as_06 | Ganga Tech Shares | IEPF refund claim | 1e0d4807_as_06.docx |\n| as_07 | SBI Savings (DEB) | DEA claim via bank | 1e0d4807_as_07.docx |\n\nAll missing documents are listed in each pack. The heir can now proceed to submit these claim packs to the respective institutions.",
+ "reasoning": "",
+ "tool_call": null,
+ "raw": {
+  "role": "assistant",
+  "content": "**Finish**\n\nAll assets have been identified, gaps investigated, claim paths applied, and claim packs generated.  \nThe heir now has the following claim documents ready for submission:\n\n| Asset ID | Type | Claim Path | File |\n|----------|------|------------|------|\n| as_01 | SBI Savings | Nominee claim | 1e0d4807_as_01.docx |\n| as_02 | SBI Fixed Deposit | Simplified no‑nominee claim | 1e0d4807_as_02.docx |\n| as_03 | LIC Life Insurance | Insurance death claim | 1e0d4807_as_03.docx |\n| as_04 | Kaveri Mutual Fund | Transmission claim | 1e0d4807_as_04.docx |\n| as_05 | Suraksha Life Insurance | Insurance death claim | 1e0d4807_as_05.docx |\n| as_06 | Ganga Tech Shares | IEPF refund claim | 1e0d4807_as_06.docx |\n| as_07 | SBI Savings (DEB) | DEA claim via bank | 1e0d4807_as_07.docx |\n\nAll missing documents are listed in each pack. The heir can now proceed to submit these claim packs to the respective institutions."
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "clues": [
+  {
+   "evidence_id": "photo_passbook",
+   "institution_raw": "STATE BANK OF INDIA",
+   "asset_type": "savings_account",
+   "identifier": "XXXXXXXX3307",
+   "amount": null,
+   "amount_kind": null,
+   "date": null,
+   "nominee": "not registered",
+   "quote": "STATE BANK OF INDIA - SAVINGS BANK PASSBOOK\nBranch: Jayanagar 4th Block, Bengaluru A/c No: XXXXXXXX3307\nName: RAMESH KUMAR Nomination: ___ (not registered)"
+  },
+  {
+   "evidence_id": "photo_passbook",
+   "institution_raw": "STATE BANK OF INDIA",
+   "asset_type": "savings_account",
+   "identifier": "XXXXXXXX3307",
+   "amount": 30000,
+   "amount_kind": "credit",
+   "date": "2012-07-18",
+   "nominee": null,
+   "quote": "18-07-2012 BY TRANSFER 30,000.00 55,000.00"
+  },
+  {
+   "evidence_id": "photo_passbook",
+   "institution_raw": "STATE BANK OF INDIA",
+   "asset_type": "savings_account",
+   "identifier": "XXXXXXXX3307",
+   "amount": 1000,
+   "amount_kind": "interest",
+   "date": "2013-09-30",
+   "nominee": null,
+   "quote": "30-09-2013 INT. CREDIT 1,000.00 72,000.00"
+  }
+ ]
+}

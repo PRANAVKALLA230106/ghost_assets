@@ -1,0 +1,25 @@
+{
+ "text": "",
+ "reasoning": "We already finished. Probably need to call finish.",
+ "tool_call": {
+  "id": "fc_4e2784bc-8d70-4085-b604-2bc181249028",
+  "name": "finish",
+  "args": {
+   "summary": "All assets identified, gaps investigated, claim paths applied, and claim packs generated for each asset. The heir should now submit the packs to the respective institutions and track progress."
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_4e2784bc-8d70-4085-b604-2bc181249028",
+    "type": "function",
+    "function": {
+     "name": "finish",
+     "arguments": "{\"summary\":\"All assets identified, gaps investigated, claim paths applied, and claim packs generated for each asset. The heir should now submit the packs to the respective institutions and track progress.\"}"
+    }
+   }
+  ]
+ }
+}

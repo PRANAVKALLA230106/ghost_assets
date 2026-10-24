@@ -1,0 +1,136 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_2310",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "5000",
+   "amount_kind": "debit",
+   "date": "2023-06-05",
+   "nominee": "not registered",
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-06-23 for SIP KAVERI MF Folio XXXXXX3312 -SBI"
+  },
+  {
+   "evidence_id": "sms_2310",
+   "institution_raw": "VM-KAVRMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": "5000",
+   "amount_kind": "sip_instalment",
+   "date": "2023-06-05",
+   "nominee": "not registered",
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-06-23 for SIP KAVERI MF Folio XXXXXX3312 -SBI"
+  },
+  {
+   "evidence_id": "sms_2316",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "9850",
+   "amount_kind": "debit",
+   "date": "2023-06-09",
+   "nominee": "not registered",
+   "quote": "Rs.9,850.00 debited from A/c XX8812 on 09-06-23 towards LIC PREMIUM Policy XXXXX5271 -SBI"
+  },
+  {
+   "evidence_id": "sms_2316",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX5271",
+   "amount": "9850",
+   "amount_kind": "premium",
+   "date": "2023-06-09",
+   "nominee": "not registered",
+   "quote": "Rs.9,850.00 debited from A/c XX8812 on 09-06-23 towards LIC PREMIUM Policy XXXXX5271 -SBI"
+  },
+  {
+   "evidence_id": "sms_2317",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "1840",
+   "amount_kind": "debit",
+   "date": "2023-06-09",
+   "nominee": "not registered",
+   "quote": "Rs.1,840.00 debited from A/c XX8812 on 09-06-23 to VPA pharmacy.apollo@ybl. UPI Ref 157609459666. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_2318",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "240",
+   "amount_kind": "debit",
+   "date": "2023-06-10",
+   "nominee": "not registered",
+   "quote": "Rs.240.00 debited from A/c XX8812 on 10-06-23 to VPA bescom.pay@ybl. UPI Ref 707623027059. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_2325",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "1200",
+   "amount_kind": "debit",
+   "date": "2023-07-01",
+   "nominee": "not registered",
+   "quote": "Rs.1,200.00 debited from A/c XX8812 on 01-07-23 to VPA chaiwala@ybl. UPI Ref 820151617123. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_2326",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "32500",
+   "amount_kind": "credit",
+   "date": "2023-07-01",
+   "nominee": "not registered",
+   "quote": "Dear Customer, your A/c XX8812 is credited by Rs.32,500.00 on 01-07-23 by PENSION. Avl Bal Rs.1,09,339.59 -SBI"
+  },
+  {
+   "evidence_id": "sms_2327",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "240",
+   "amount_kind": "debit",
+   "date": "2023-07-03",
+   "nominee": "not registered",
+   "quote": "Rs.240.00 debited from A/c XX8812 on 03-07-23 to VPA medplus.jayanagar@ybl. UPI Ref 872180893759. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_2329",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "5000",
+   "amount_kind": "debit",
+   "date": "2023-07-05",
+   "nominee": "not registered",
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-07-23 for SIP KAVERI MF Folio XXXXXX3312 -SBI"
+  },
+  {
+   "evidence_id": "sms_2329",
+   "institution_raw": "VM-KAVRMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": "5000",
+   "amount_kind": "sip_instalment",
+   "date": "2023-07-05",
+   "nominee": "not registered",
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-07-23 for SIP KAVERI MF Folio XXXXXX3312 -SBI"
+  },
+  {
+   "evidence_id": "sms_2330",
+   "institution_raw": "VM-KAVRMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": "5000",
+   "amount_kind": "sip_instalment",
+   "date": "2023-07-05",
+   "nominee": "not registered",
+   "quote": "Your SIP of Rs.5,000.00 in Kaveri Flexi Cap Fund - Growth, Folio XXXXXX3312 is processed. Units: 33.977 @ NAV 147.16. -Kaveri MF"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_2601",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 9850,
+   "amount_kind": "debit",
+   "date": "2024-06-10",
+   "nominee": null,
+   "quote": "Rs.9,850.00 debited from A/c XX8812 on 10-06-24 towards LIC PREMIUM Policy XXXXX5271 -SBI"
+  },
+  {
+   "evidence_id": "sms_2601",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX5271",
+   "amount": 9850,
+   "amount_kind": "premium",
+   "date": "2024-06-10",
+   "nominee": null,
+   "quote": "Rs.9,850.00 debited from A/c XX8812 on 10-06-24 towards LIC PREMIUM Policy XXXXX5271 -SBI"
+  },
+  {
+   "evidence_id": "sms_2612",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 32500,
+   "amount_kind": "credit",
+   "date": "2024-07-01",
+   "nominee": null,
+   "quote": "your A/c XX8812 is credited by Rs.32,500.00 on 01-07-24"
+  }
+ ]
+}

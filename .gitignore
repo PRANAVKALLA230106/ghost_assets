@@ -1,0 +1,9 @@
+.env
+.venv/
+__pycache__/
+node_modules/
+frontend/dist/
+out/
+data/uploads/
+*.pyc
+# backend/cache/ is NOT ignored on purpose: commit it before the demo

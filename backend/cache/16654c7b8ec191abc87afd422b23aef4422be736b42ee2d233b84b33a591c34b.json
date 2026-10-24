@@ -1,0 +1,25 @@
+{
+ "text": "",
+ "reasoning": "Need generate for all assets.",
+ "tool_call": {
+  "id": "fc_0b77e258-be3b-40c6-b7b6-824cc6577490",
+  "name": "generate_claim_pack",
+  "args": {
+   "asset_id": "as_02"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_0b77e258-be3b-40c6-b7b6-824cc6577490",
+    "type": "function",
+    "function": {
+     "name": "generate_claim_pack",
+     "arguments": "{\"asset_id\":\"as_02\"}"
+    }
+   }
+  ]
+ }
+}

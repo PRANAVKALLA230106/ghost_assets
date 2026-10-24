@@ -1,0 +1,30 @@
+{
+ "text": "",
+ "reasoning": "We must ask family for nominee info.",
+ "tool_call": {
+  "id": "fc_ac043307-fc52-4ce1-9835-229dddb1e6a2",
+  "name": "ask_family",
+  "args": {
+   "asset_id": "as_02",
+   "options": [
+    "Yes",
+    "No"
+   ],
+   "question": "Is there a nominee for the fixed deposit account FD123?"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_ac043307-fc52-4ce1-9835-229dddb1e6a2",
+    "type": "function",
+    "function": {
+     "name": "ask_family",
+     "arguments": "{\"asset_id\":\"as_02\",\"options\":[\"Yes\",\"No\"],\"question\":\"Is there a nominee for the fixed deposit account FD123?\"}"
+    }
+   }
+  ]
+ }
+}

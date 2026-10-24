@@ -1,0 +1,125 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_2648",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 760.0,
+   "amount_kind": "debit",
+   "date": "2024-08-15",
+   "nominee": null,
+   "quote": "Rs.760.00 debited from A/c XX8812 on 15-08-24"
+  },
+  {
+   "evidence_id": "sms_2652",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 240.0,
+   "amount_kind": "debit",
+   "date": "2024-08-18",
+   "nominee": null,
+   "quote": "Rs.240.00 debited from A/c XX8812 on 18-08-24"
+  },
+  {
+   "evidence_id": "sms_2654",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 2300.0,
+   "amount_kind": "debit",
+   "date": "2024-08-23",
+   "nominee": null,
+   "quote": "Rs.2,300.00 debited from A/c XX8812 on 23-08-24"
+  },
+  {
+   "evidence_id": "sms_2657",
+   "institution_raw": "AD-SURKSH",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX0903",
+   "amount": 12450.0,
+   "amount_kind": "premium",
+   "date": "2024-09-05",
+   "nominee": null,
+   "quote": "premium of Rs 12,450.00 for policy XXXXX0903 (Suraksha Smart Protect) is due on 05-09-2024"
+  },
+  {
+   "evidence_id": "sms_2660",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 32500.0,
+   "amount_kind": "credit",
+   "date": "2024-09-01",
+   "nominee": null,
+   "quote": "Your a/c no. XX8812 is credited by Rs32,500.00 on 01-09-24"
+  },
+  {
+   "evidence_id": "sms_2661",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 12450.0,
+   "amount_kind": "debit",
+   "date": "2024-09-05",
+   "nominee": null,
+   "quote": "INR 12450.00 debited from A/c XX8812 on 05-09-24 towards SURAKSHA LIFE premium policy XXXXX0903"
+  },
+  {
+   "evidence_id": "sms_2661",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX0903",
+   "amount": 12450.0,
+   "amount_kind": "premium",
+   "date": "2024-09-05",
+   "nominee": null,
+   "quote": "INR 12450.00 debited from A/c XX8812 on 05-09-24 towards SURAKSHA LIFE premium policy XXXXX0903"
+  },
+  {
+   "evidence_id": "sms_2663",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 5000.0,
+   "amount_kind": "debit",
+   "date": "2024-09-05",
+   "nominee": null,
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-09-24 for SIP KAVERI MF Folio XXXXXX3312"
+  },
+  {
+   "evidence_id": "sms_2663",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": 5000.0,
+   "amount_kind": "sip_instalment",
+   "date": "2024-09-05",
+   "nominee": null,
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-09-24 for SIP KAVERI MF Folio XXXXXX3312"
+  },
+  {
+   "evidence_id": "sms_2664",
+   "institution_raw": "VM-KAVRMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": 5000.0,
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.5,000.00 in Kaveri Flexi Cap Fund - Growth, Folio XXXXXX3312 is processed."
+  },
+  {
+   "evidence_id": "sms_2666",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 120.0,
+   "amount_kind": "debit",
+   "date": "2024-09-08",
+   "nominee": null,
+   "quote": "Rs.120.00 debited from A/c XX8812 on 08-09-24"
+  }
+ ]
+}

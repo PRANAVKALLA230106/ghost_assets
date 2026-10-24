@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_1850",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 760,
+   "amount_kind": "debit",
+   "date": "2021-05-26",
+   "nominee": null,
+   "quote": "Rs.760.00 debited from A/c XX8812 on 26-05-21"
+  }
+ ]
+}

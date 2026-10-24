@@ -1,0 +1,27 @@
+{
+ "text": "",
+ "reasoning": "Need to investigate gaps: as_02 nominee unknown, as_04 nominee unknown, as_05 nominee unknown, as_06 transfer inferred, as_07 transfer inferred. Also check portals.",
+ "tool_call": {
+  "id": "fc_05b67055-6dbf-4ddb-bc2d-ce08c3f243da",
+  "name": "check_portal",
+  "args": {
+   "institution": "Canara Bank",
+   "name": "Ramesh Kumar",
+   "portal": "UDGAM"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_05b67055-6dbf-4ddb-bc2d-ce08c3f243da",
+    "type": "function",
+    "function": {
+     "name": "check_portal",
+     "arguments": "{\"institution\":\"Canara Bank\",\"name\":\"Ramesh Kumar\",\"portal\":\"UDGAM\"}"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,9 @@
+{
+ "text": "Need nominee info for as_02, as_04, as_05. Ask family.",
+ "reasoning": "",
+ "tool_call": null,
+ "raw": {
+  "role": "assistant",
+  "content": "Need nominee info for as_02, as_04, as_05. Ask family."
+ }
+}

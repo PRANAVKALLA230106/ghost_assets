@@ -1,0 +1,136 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_2964",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "32500",
+   "amount_kind": "credit",
+   "date": "2025-12-01",
+   "nominee": null,
+   "quote": "Your a/c no. XX8812 is credited by Rs32,500.00 on 01-12-25 (PENSION CR)."
+  },
+  {
+   "evidence_id": "sms_2967",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "5000",
+   "amount_kind": "debit",
+   "date": "2025-12-05",
+   "nominee": null,
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-12-25 for SIP KAVERI MF Folio XXXXXX3312 -SBI"
+  },
+  {
+   "evidence_id": "sms_2967",
+   "institution_raw": "VM-KAVRMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": "5000",
+   "amount_kind": "sip_instalment",
+   "date": "2025-12-05",
+   "nominee": null,
+   "quote": "Your SIP of Rs.5,000.00 in Kaveri Flexi Cap Fund - Growth, Folio XXXXXX3312 is processed."
+  },
+  {
+   "evidence_id": "sms_2968",
+   "institution_raw": "VM-KAVRMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": "5000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.5,000.00 in Kaveri Flexi Cap Fund - Growth, Folio XXXXXX3312 is processed."
+  },
+  {
+   "evidence_id": "sms_2969",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "350",
+   "amount_kind": "debit",
+   "date": "2025-12-06",
+   "nominee": null,
+   "quote": "Rs.350.00 debited from A/c XX8812 on 06-12-25 to VPA medplus.jayanagar@ybl."
+  },
+  {
+   "evidence_id": "sms_2971",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "240",
+   "amount_kind": "debit",
+   "date": "2025-12-07",
+   "nominee": null,
+   "quote": "Rs.240.00 debited from A/c XX8812 on 07-12-25 to VPA milk.nandini@ybl."
+  },
+  {
+   "evidence_id": "sms_2984",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "32500",
+   "amount_kind": "credit",
+   "date": "2026-01-01",
+   "nominee": null,
+   "quote": "your A/c XX8812 is credited by Rs.32,500.00 on 01-01-26 by PENSION."
+  },
+  {
+   "evidence_id": "sms_2986",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "5000",
+   "amount_kind": "debit",
+   "date": "2026-01-05",
+   "nominee": null,
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-01-26 for SIP KAVERI MF Folio XXXXXX3312 -SBI"
+  },
+  {
+   "evidence_id": "sms_2986",
+   "institution_raw": "VM-KAVRMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": "5000",
+   "amount_kind": "sip_instalment",
+   "date": "2026-01-05",
+   "nominee": null,
+   "quote": "Your SIP of Rs.5,000.00 in Kaveri Flexi Cap Fund - Growth, Folio XXXXXX3312 is processed."
+  },
+  {
+   "evidence_id": "sms_2987",
+   "institution_raw": "VM-KAVRMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": "5000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.5,000.00 in Kaveri Flexi Cap Fund - Growth, Folio XXXXXX3312 is processed."
+  },
+  {
+   "evidence_id": "sms_2990",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "760",
+   "amount_kind": "debit",
+   "date": "2026-01-11",
+   "nominee": null,
+   "quote": "Rs.760.00 debited from A/c XX8812 on 11-01-26 to VPA auto.ravi@ybl."
+  },
+  {
+   "evidence_id": "sms_3000",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "480",
+   "amount_kind": "debit",
+   "date": "2026-02-07",
+   "nominee": null,
+   "quote": "Rs.480.00 debited from A/c XX8812 on 07-02-26 to VPA kirana.manju@ybl."
+  }
+ ]
+}

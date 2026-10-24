@@ -1,0 +1,21 @@
+{
+  "_note": "SAMPLE DATA. Mock records standing in for RBI UDGAM, MCA IEPF and IRDAI Bima Bharosa lookups.",
+  "UDGAM": [
+    {"name": "RAMESH KUMAR", "bank": "State Bank of India", "branch": "Jayanagar 4th Block, Bengaluru",
+     "account_masked": "XXXXXXX3307", "amount": 72000, "udrn": "UDRN2026SBI0004417", "transferred_to_dea": "2024-01-31"},
+    {"name": "RAMESH K", "bank": "Punjab National Bank", "branch": "Lucknow Main",
+     "account_masked": "XXXXXXX9021", "amount": 4300, "udrn": "UDRN2026PNB0081122", "transferred_to_dea": "2021-06-30"},
+    {"name": "SUNITA RAO", "bank": "Canara Bank", "branch": "Malleswaram",
+     "account_masked": "XXXXXXX1188", "amount": 15600, "udrn": "UDRN2026CNB0005531", "transferred_to_dea": "2023-03-31"}
+  ],
+  "IEPF": [
+    {"holder": "RAMESH KUMAR", "company": "Ganga Tech Ltd", "folio": "GT004217", "shares": 400,
+     "share_value": 182640, "unclaimed_dividend": 7360, "total": 190000, "transferred_on": "2025-11-15"},
+    {"holder": "RAMESH KUMAR SHARMA", "company": "Narmada Cements Ltd", "folio": "NC118830", "shares": 50,
+     "share_value": 9800, "unclaimed_dividend": 450, "total": 10250, "transferred_on": "2020-02-10"}
+  ],
+  "BIMA_BHAROSA": [
+    {"policyholder": "SURESH KUMAR", "insurer": "Suraksha Life Insurance", "policy_masked": "XXXXX7712",
+     "unclaimed_amount": 23100}
+  ]
+}

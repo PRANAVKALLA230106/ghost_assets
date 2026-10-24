@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_2246",
+   "institution_raw": "SBI",
+   "asset_type": "provident_fund",
+   "identifier": "XX8812",
+   "amount": "32500",
+   "amount_kind": "credit",
+   "date": "2023-03-01",
+   "nominee": "not registered",
+   "quote": "Your a/c no. XX8812 is credited by Rs32,500.00 on 01-03-23 (PENSION CR)."
+  }
+ ]
+}

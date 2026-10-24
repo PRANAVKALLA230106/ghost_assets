@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "photo_policy_bond",
+   "institution_raw": "LIC",
+   "asset_type": "life_insurance",
+   "identifier": "Policy No. XXXXX5271",
+   "amount": "180000",
+   "amount_kind": "sum_assured",
+   "date": "2010-06-15",
+   "nominee": "SUNITA KUMAR (Wife)",
+   "quote": "Policy No. XXXXX5271\n\nLife Assured RAMESH KUMAR\n\nDate of Commencement 15-06-2010\n\nPlan Endowment, 20 years\n\nSum Assured Rs 1,80,000\n\nAnnual Premium Rs 9,850\n\nNominee SUNITA KUMAR (Wife)"
+  }
+ ]
+}

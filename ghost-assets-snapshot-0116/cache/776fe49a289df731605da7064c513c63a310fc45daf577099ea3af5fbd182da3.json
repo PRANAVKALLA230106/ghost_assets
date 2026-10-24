@@ -1,0 +1,25 @@
+{
+ "text": "",
+ "reasoning": "Now extract clues.",
+ "tool_call": {
+  "id": "fc_5669f4dd-c5fe-44a9-bf80-257d9aaa1cf7",
+  "name": "extract_clues",
+  "args": {
+   "source": "all"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_5669f4dd-c5fe-44a9-bf80-257d9aaa1cf7",
+    "type": "function",
+    "function": {
+     "name": "extract_clues",
+     "arguments": "{\"source\":\"all\"}"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "clues": [
+  {
+   "evidence_id": "email_001",
+   "institution_raw": "Ganga Tech Ltd",
+   "asset_type": "shares",
+   "identifier": "GT004217",
+   "amount": null,
+   "amount_kind": null,
+   "date": null,
+   "nominee": null,
+   "quote": "Folio No.: GT004217\nShareholder: RAMESH KUMAR\nHolding: 400 equity shares of Rs 10 each"
+  },
+  {
+   "evidence_id": "email_014",
+   "institution_raw": "sbi.example",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": null,
+   "amount_kind": null,
+   "date": null,
+   "nominee": "SUNITA KUMAR (Wife)",
+   "quote": "Nomination registered for your savings account XX8812.\nNominee: SUNITA KUMAR (Wife)"
+  }
+ ]
+}

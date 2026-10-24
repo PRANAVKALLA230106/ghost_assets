@@ -1,0 +1,70 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0560",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "1500",
+   "amount_kind": "debit",
+   "date": "2020-12-16",
+   "nominee": "not registered",
+   "quote": "Rs.1,500.00 debited from A/c XX2290 on 16-12-20 to VPA bigbasket@ybl"
+  },
+  {
+   "evidence_id": "sms_0562",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "320",
+   "amount_kind": "debit",
+   "date": "2021-01-07",
+   "nominee": "not registered",
+   "quote": "Rs.320.00 debited from A/c XX2290 on 07-01-21 to VPA metro@ybl"
+  },
+  {
+   "evidence_id": "sms_0563",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "540",
+   "amount_kind": "debit",
+   "date": "2021-01-08",
+   "nominee": "not registered",
+   "quote": "Rs.540.00 debited from A/c XX2290 on 08-01-21 to VPA auto.suresh@ybl"
+  },
+  {
+   "evidence_id": "sms_0571",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "45",
+   "amount_kind": "debit",
+   "date": "2021-03-23",
+   "nominee": "not registered",
+   "quote": "Rs.45.00 debited from A/c XX2290 on 23-03-21 to VPA auto.suresh@ybl"
+  },
+  {
+   "evidence_id": "sms_0572",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "540",
+   "amount_kind": "debit",
+   "date": "2021-03-30",
+   "nominee": "not registered",
+   "quote": "Rs.540.00 debited from A/c XX2290 on 30-03-21 to VPA pharmacy.med@ybl"
+  },
+  {
+   "evidence_id": "sms_0575",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "90",
+   "amount_kind": "debit",
+   "date": "2021-04-10",
+   "nominee": "not registered",
+   "quote": "Rs.90.00 debited from A/c XX2290 on 10-04-21 to VPA pharmacy.med@ybl"
+  }
+ ]
+}

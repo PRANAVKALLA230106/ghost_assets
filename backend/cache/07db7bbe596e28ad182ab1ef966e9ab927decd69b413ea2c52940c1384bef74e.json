@@ -1,0 +1,23 @@
+{
+ "text": "",
+ "reasoning": "Need to scan sources.",
+ "tool_call": {
+  "id": "fc_dee402ac-fdbd-41d6-b72d-dbeea7ca003b",
+  "name": "scan_sources",
+  "args": {}
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_dee402ac-fdbd-41d6-b72d-dbeea7ca003b",
+    "type": "function",
+    "function": {
+     "name": "scan_sources",
+     "arguments": "{}"
+    }
+   }
+  ]
+ }
+}

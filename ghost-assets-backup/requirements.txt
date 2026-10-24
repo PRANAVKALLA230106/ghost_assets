@@ -1,0 +1,19 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+sse-starlette>=2.1
+pydantic>=2.7
+python-dotenv>=1.0
+pyyaml>=6.0
+pdfplumber>=0.11
+rapidfuzz>=3.9
+networkx>=3.3
+python-docx>=1.1
+fpdf2>=2.7
+pillow>=10.3
+httpx>=0.27
+pytest>=8.2
+pytest-asyncio>=0.23
+# Pick ONE provider SDK and uncomment it:
+# anthropic
+# google-genai
+# openai

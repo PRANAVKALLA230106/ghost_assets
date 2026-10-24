@@ -1,0 +1,26 @@
+{
+ "text": "",
+ "tool_call": {
+  "id": "fc_9fa86337-4958-4195-95cb-015e82a738de",
+  "name": "check_portal",
+  "args": {
+   "institution": "Ganga Tech Ltd",
+   "name": "Ramesh Kumar",
+   "portal": "IEPF"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_9fa86337-4958-4195-95cb-015e82a738de",
+    "type": "function",
+    "function": {
+     "name": "check_portal",
+     "arguments": "{\"institution\":\"Ganga Tech Ltd\",\"name\":\"Ramesh Kumar\",\"portal\":\"IEPF\"}"
+    }
+   }
+  ]
+ }
+}

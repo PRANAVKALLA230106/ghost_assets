@@ -1,0 +1,147 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0716",
+   "institution_raw": "SBI",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 1840.0,
+   "amount_kind": "credit",
+   "date": "2015-08-22",
+   "nominee": null,
+   "quote": "Your A/c XX8812 is credited by Rs.1,840.00 on 22-08-15 - GANGA TECH LTD DIV. Avl Bal Rs.58,550.58 -SBI"
+  },
+  {
+   "evidence_id": "sms_0813",
+   "institution_raw": "Canara Bank",
+   "asset_type": "fixed_deposit",
+   "identifier": "XX4521",
+   "amount": 172500.0,
+   "amount_kind": "principal",
+   "date": null,
+   "nominee": null,
+   "quote": "Term Deposit A/c XX4521 opened for Rs.1,72,500.00 for 36 months. -Canara Bank"
+  },
+  {
+   "evidence_id": "sms_0874",
+   "institution_raw": "SBI",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 1840.0,
+   "amount_kind": "credit",
+   "date": "2016-08-22",
+   "nominee": null,
+   "quote": "Your A/c XX8812 is credited by Rs.1,840.00 on 22-08-16 - GANGA TECH LTD DIV. Avl Bal Rs.69,367.02 -SBI"
+  },
+  {
+   "evidence_id": "sms_1067",
+   "institution_raw": "SBI",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 1840.0,
+   "amount_kind": "credit",
+   "date": "2017-08-22",
+   "nominee": null,
+   "quote": "Your A/c XX8812 is credited by Rs.1,840.00 on 22-08-17 - GANGA TECH LTD DIV. Avl Bal Rs.72,746.09 -SBI"
+  },
+  {
+   "evidence_id": "sms_1359",
+   "institution_raw": "Canara Bank",
+   "asset_type": "fixed_deposit",
+   "identifier": "XX4521",
+   "amount": 200000.0,
+   "amount_kind": "principal",
+   "date": "2022-03-15",
+   "nominee": null,
+   "quote": "your FD A/c XX4521 of Rs.2,00,000 has been renewed for 36 months. Maturity date 15-03-2022. -Canara Bank"
+  },
+  {
+   "evidence_id": "sms_1394",
+   "institution_raw": "LIC",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX5271",
+   "amount": 9850.0,
+   "amount_kind": "premium",
+   "date": "2019-06-15",
+   "nominee": null,
+   "quote": "Premium of Rs.9,850 for Policy No. XXXXX5271 is due on 15/06/2019."
+  },
+  {
+   "evidence_id": "sms_1402",
+   "institution_raw": "SBI",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 9850.0,
+   "amount_kind": "debit",
+   "date": "2019-06-12",
+   "nominee": null,
+   "quote": "Rs.9,850.00 debited from A/c XX8812 on 12-06-19 towards LIC PREMIUM Policy XXXXX5271 -SBI"
+  },
+  {
+   "evidence_id": "sms_1402",
+   "institution_raw": "LIC",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX5271",
+   "amount": 9850.0,
+   "amount_kind": "premium",
+   "date": "2019-06-12",
+   "nominee": null,
+   "quote": "towards LIC PREMIUM Policy XXXXX5271"
+  },
+  {
+   "evidence_id": "sms_1562",
+   "institution_raw": "SBI",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 1840.0,
+   "amount_kind": "debit",
+   "date": "2020-02-12",
+   "nominee": null,
+   "quote": "Rs.1,840.00 debited from A/c XX8812 on 12-02-20 to VPA freshmart@ybl."
+  },
+  {
+   "evidence_id": "sms_1564",
+   "institution_raw": "SBI",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 1840.0,
+   "amount_kind": "debit",
+   "date": "2020-02-13",
+   "nominee": null,
+   "quote": "Rs.1,840.00 debited from A/c XX8812 on 13-02-20 to VPA kirana.manju@ybl."
+  },
+  {
+   "evidence_id": "sms_1581",
+   "institution_raw": "SBI",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 60.0,
+   "amount_kind": "debit",
+   "date": "2020-03-21",
+   "nominee": null,
+   "quote": "Rs.60.00 debited from A/c XX8812 on 21-03-20 to VPA chaiwala@ybl."
+  },
+  {
+   "evidence_id": "sms_1603",
+   "institution_raw": "SBI",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 760.0,
+   "amount_kind": "debit",
+   "date": "2020-05-03",
+   "nominee": null,
+   "quote": "Rs.760.00 debited from A/c XX8812 on 03-05-20 to VPA bescom.pay@ybl."
+  },
+  {
+   "evidence_id": "sms_1607",
+   "institution_raw": "SBI",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 350.0,
+   "amount_kind": "debit",
+   "date": "2020-05-09",
+   "nominee": null,
+   "quote": "Rs.350.00 debited from A/c XX8812 on 09-05-20 to VPA chaiwala@ybl."
+  }
+ ]
+}

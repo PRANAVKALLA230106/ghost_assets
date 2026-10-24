@@ -1,0 +1,422 @@
+[
+  {
+    "from": "secretarial@gangatech.example",
+    "date": "2014-08-20T10:12:00",
+    "subject": "Ganga Tech Ltd - Notice of 21st Annual General Meeting",
+    "body": "Dear Shareholder,\nNotice is hereby given that the 21st AGM of Ganga Tech Ltd will be held on 18 September 2014.\nFolio No.: GT004217\nShareholder: RAMESH KUMAR\nHolding: 400 equity shares of Rs 10 each\nPlease update your bank mandate to receive dividends electronically.",
+    "attachment_text": ""
+  },
+  {
+    "from": "offers@creditcards.example",
+    "date": "2016-01-20T02:41:50",
+    "subject": "Exclusive card offer for you",
+    "body": "Get a lifetime-free card. Limited period offer.",
+    "attachment_text": ""
+  },
+  {
+    "from": "billing@bescom.example",
+    "date": "2016-03-28T16:58:02",
+    "subject": "Electricity bill for RR No. JY84349",
+    "body": "Your bill of Rs 780 is due on the 20th.",
+    "attachment_text": "BESCOM BILL\nAmount due: Rs 780"
+  },
+  {
+    "from": "community@rwajayanagar.example",
+    "date": "2016-05-08T20:10:22",
+    "subject": "RWA meeting minutes",
+    "body": "Minutes of the residents' welfare meeting are attached.",
+    "attachment_text": ""
+  },
+  {
+    "from": "alerts@healthlab.example",
+    "date": "2016-06-18T22:51:36",
+    "subject": "Your lab report is ready",
+    "body": "Your HbA1c report is ready to download.",
+    "attachment_text": "LAB REPORT\nHbA1c: 6.8%"
+  },
+  {
+    "from": "offers@creditcards.example",
+    "date": "2016-10-09T19:13:20",
+    "subject": "Exclusive card offer for you",
+    "body": "Get a lifetime-free card. Limited period offer.",
+    "attachment_text": ""
+  },
+  {
+    "from": "billing@bescom.example",
+    "date": "2017-02-16T09:23:56",
+    "subject": "Electricity bill for RR No. JY44205",
+    "body": "Your bill of Rs 2373 is due on the 20th.",
+    "attachment_text": "BESCOM BILL\nAmount due: Rs 2373"
+  },
+  {
+    "from": "newsletter@morningbrief.example",
+    "date": "2017-05-12T16:33:58",
+    "subject": "Your morning brief",
+    "body": "Markets, monsoon and more. Read today's top stories.",
+    "attachment_text": ""
+  },
+  {
+    "from": "alerts@healthlab.example",
+    "date": "2017-06-08T10:29:01",
+    "subject": "Your lab report is ready",
+    "body": "Your HbA1c report is ready to download.",
+    "attachment_text": "LAB REPORT\nHbA1c: 6.8%"
+  },
+  {
+    "from": "alerts@healthlab.example",
+    "date": "2017-09-15T20:04:19",
+    "subject": "Your lab report is ready",
+    "body": "Your HbA1c report is ready to download.",
+    "attachment_text": "LAB REPORT\nHbA1c: 6.8%"
+  },
+  {
+    "from": "alerts@healthlab.example",
+    "date": "2017-11-19T15:53:59",
+    "subject": "Your lab report is ready",
+    "body": "Your HbA1c report is ready to download.",
+    "attachment_text": "LAB REPORT\nHbA1c: 6.8%"
+  },
+  {
+    "from": "community@rwajayanagar.example",
+    "date": "2017-12-27T00:45:02",
+    "subject": "RWA meeting minutes",
+    "body": "Minutes of the residents' welfare meeting are attached.",
+    "attachment_text": ""
+  },
+  {
+    "from": "billing@bescom.example",
+    "date": "2018-03-19T08:52:01",
+    "subject": "Electricity bill for RR No. JY42716",
+    "body": "Your bill of Rs 2415 is due on the 20th.",
+    "attachment_text": "BESCOM BILL\nAmount due: Rs 2415"
+  },
+  {
+    "from": "alerts@sbi.example",
+    "date": "2018-05-03T11:20:00",
+    "subject": "Nomination registered for your account XX8812",
+    "body": "Dear Customer,\nAs requested, nomination has been registered for your savings account XX8812.\nNominee: SUNITA KUMAR (Wife)\nIf you did not request this, contact your branch.",
+    "attachment_text": ""
+  },
+  {
+    "from": "community@rwajayanagar.example",
+    "date": "2018-06-25T20:34:32",
+    "subject": "RWA meeting minutes",
+    "body": "Minutes of the residents' welfare meeting are attached.",
+    "attachment_text": ""
+  },
+  {
+    "from": "offers@creditcards.example",
+    "date": "2018-07-12T11:56:31",
+    "subject": "Exclusive card offer for you",
+    "body": "Get a lifetime-free card. Limited period offer.",
+    "attachment_text": ""
+  },
+  {
+    "from": "alerts@healthlab.example",
+    "date": "2018-07-28T22:14:02",
+    "subject": "Your lab report is ready",
+    "body": "Your HbA1c report is ready to download.",
+    "attachment_text": "LAB REPORT\nHbA1c: 6.8%"
+  },
+  {
+    "from": "temple@sriramtemple.example",
+    "date": "2018-09-22T14:48:58",
+    "subject": "Donation receipt",
+    "body": "Thank you for your donation of Rs 3820 towards the temple renovation.",
+    "attachment_text": ""
+  },
+  {
+    "from": "alerts@healthlab.example",
+    "date": "2018-10-22T04:10:14",
+    "subject": "Your lab report is ready",
+    "body": "Your HbA1c report is ready to download.",
+    "attachment_text": "LAB REPORT\nHbA1c: 6.8%"
+  },
+  {
+    "from": "newsletter@morningbrief.example",
+    "date": "2019-02-15T17:14:17",
+    "subject": "Your morning brief",
+    "body": "Markets, monsoon and more. Read today's top stories.",
+    "attachment_text": ""
+  },
+  {
+    "from": "noreply@trains.example",
+    "date": "2019-03-22T15:52:57",
+    "subject": "Booking confirmed: Bengaluru to Mysuru",
+    "body": "PNR 47089. 2 passengers. Have a safe journey.",
+    "attachment_text": ""
+  },
+  {
+    "from": "orders@shopkart.example",
+    "date": "2019-06-16T07:13:59",
+    "subject": "Your ShopKart order has shipped",
+    "body": "Order #39423: 1 item(s) shipped. Expected delivery in 3 days.",
+    "attachment_text": ""
+  },
+  {
+    "from": "community@rwajayanagar.example",
+    "date": "2019-07-07T19:18:47",
+    "subject": "RWA meeting minutes",
+    "body": "Minutes of the residents' welfare meeting are attached.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@morningbrief.example",
+    "date": "2019-11-22T03:17:46",
+    "subject": "Your morning brief",
+    "body": "Markets, monsoon and more. Read today's top stories.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@morningbrief.example",
+    "date": "2019-12-30T06:05:39",
+    "subject": "Your morning brief",
+    "body": "Markets, monsoon and more. Read today's top stories.",
+    "attachment_text": ""
+  },
+  {
+    "from": "temple@sriramtemple.example",
+    "date": "2020-01-03T02:24:30",
+    "subject": "Donation receipt",
+    "body": "Thank you for your donation of Rs 669 towards the temple renovation.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@morningbrief.example",
+    "date": "2020-01-03T06:09:42",
+    "subject": "Your morning brief",
+    "body": "Markets, monsoon and more. Read today's top stories.",
+    "attachment_text": ""
+  },
+  {
+    "from": "orders@shopkart.example",
+    "date": "2020-01-08T19:49:23",
+    "subject": "Your ShopKart order has shipped",
+    "body": "Order #80111: 1 item(s) shipped. Expected delivery in 3 days.",
+    "attachment_text": ""
+  },
+  {
+    "from": "orders@shopkart.example",
+    "date": "2020-06-14T15:56:06",
+    "subject": "Your ShopKart order has shipped",
+    "body": "Order #70610: 1 item(s) shipped. Expected delivery in 3 days.",
+    "attachment_text": ""
+  },
+  {
+    "from": "temple@sriramtemple.example",
+    "date": "2020-06-26T22:26:04",
+    "subject": "Donation receipt",
+    "body": "Thank you for your donation of Rs 3697 towards the temple renovation.",
+    "attachment_text": ""
+  },
+  {
+    "from": "temple@sriramtemple.example",
+    "date": "2020-10-24T00:54:34",
+    "subject": "Donation receipt",
+    "body": "Thank you for your donation of Rs 2061 towards the temple renovation.",
+    "attachment_text": ""
+  },
+  {
+    "from": "community@rwajayanagar.example",
+    "date": "2021-03-13T14:33:04",
+    "subject": "RWA meeting minutes",
+    "body": "Minutes of the residents' welfare meeting are attached.",
+    "attachment_text": ""
+  },
+  {
+    "from": "temple@sriramtemple.example",
+    "date": "2022-03-04T16:52:25",
+    "subject": "Donation receipt",
+    "body": "Thank you for your donation of Rs 3169 towards the temple renovation.",
+    "attachment_text": ""
+  },
+  {
+    "from": "termdeposits@canarabank.example",
+    "date": "2022-03-16T09:40:00",
+    "subject": "Term Deposit XX4521 - maturity and auto-renewal advice",
+    "body": "Dear Customer,\nPlease find attached the advice for your term deposit ending 4521.",
+    "attachment_text": "CANARA BANK - TERM DEPOSIT ADVICE\nDeposit A/c: XX4521\nDepositor: RAMESH KUMAR\nMatured on: 15-03-2022\nMaturity value: Rs 2,38,000.00\nAction: auto-renewed for 60 months"
+  },
+  {
+    "from": "temple@sriramtemple.example",
+    "date": "2022-04-05T04:13:48",
+    "subject": "Donation receipt",
+    "body": "Thank you for your donation of Rs 664 towards the temple renovation.",
+    "attachment_text": ""
+  },
+  {
+    "from": "temple@sriramtemple.example",
+    "date": "2022-04-23T16:47:52",
+    "subject": "Donation receipt",
+    "body": "Thank you for your donation of Rs 3049 towards the temple renovation.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@morningbrief.example",
+    "date": "2022-06-25T01:32:37",
+    "subject": "Your morning brief",
+    "body": "Markets, monsoon and more. Read today's top stories.",
+    "attachment_text": ""
+  },
+  {
+    "from": "noreply@trains.example",
+    "date": "2022-07-18T09:09:47",
+    "subject": "Booking confirmed: Bengaluru to Mysuru",
+    "body": "PNR 43158. 2 passengers. Have a safe journey.",
+    "attachment_text": ""
+  },
+  {
+    "from": "welcome@surakshalife.example",
+    "date": "2022-09-07T18:05:00",
+    "subject": "Welcome to Suraksha Life - Policy XXXXX0903",
+    "body": "Dear Ramesh Kumar,\nThank you for choosing Suraksha Smart Protect.\nPolicy No.: XXXXX0903\nSum Assured: Rs 4,00,000\nAnnual premium: Rs 12,450.00, due every 5 September\nPolicy term: 20 years",
+    "attachment_text": ""
+  },
+  {
+    "from": "offers@creditcards.example",
+    "date": "2022-09-07T20:45:51",
+    "subject": "Exclusive card offer for you",
+    "body": "Get a lifetime-free card. Limited period offer.",
+    "attachment_text": ""
+  },
+  {
+    "from": "community@rwajayanagar.example",
+    "date": "2022-09-11T02:06:17",
+    "subject": "RWA meeting minutes",
+    "body": "Minutes of the residents' welfare meeting are attached.",
+    "attachment_text": ""
+  },
+  {
+    "from": "billing@bescom.example",
+    "date": "2022-10-06T07:39:21",
+    "subject": "Electricity bill for RR No. JY52368",
+    "body": "Your bill of Rs 3138 is due on the 20th.",
+    "attachment_text": "BESCOM BILL\nAmount due: Rs 3138"
+  },
+  {
+    "from": "offers@creditcards.example",
+    "date": "2022-11-29T14:10:47",
+    "subject": "Exclusive card offer for you",
+    "body": "Get a lifetime-free card. Limited period offer.",
+    "attachment_text": ""
+  },
+  {
+    "from": "offers@creditcards.example",
+    "date": "2023-01-10T01:15:18",
+    "subject": "Exclusive card offer for you",
+    "body": "Get a lifetime-free card. Limited period offer.",
+    "attachment_text": ""
+  },
+  {
+    "from": "noreply@trains.example",
+    "date": "2023-03-15T05:43:16",
+    "subject": "Booking confirmed: Bengaluru to Mysuru",
+    "body": "PNR 60265. 2 passengers. Have a safe journey.",
+    "attachment_text": ""
+  },
+  {
+    "from": "billing@bescom.example",
+    "date": "2023-04-19T02:42:20",
+    "subject": "Electricity bill for RR No. JY16525",
+    "body": "Your bill of Rs 1942 is due on the 20th.",
+    "attachment_text": "BESCOM BILL\nAmount due: Rs 1942"
+  },
+  {
+    "from": "offers@creditcards.example",
+    "date": "2023-12-18T13:52:29",
+    "subject": "Exclusive card offer for you",
+    "body": "Get a lifetime-free card. Limited period offer.",
+    "attachment_text": ""
+  },
+  {
+    "from": "offers@creditcards.example",
+    "date": "2023-12-23T12:41:36",
+    "subject": "Exclusive card offer for you",
+    "body": "Get a lifetime-free card. Limited period offer.",
+    "attachment_text": ""
+  },
+  {
+    "from": "community@rwajayanagar.example",
+    "date": "2024-02-20T11:01:48",
+    "subject": "RWA meeting minutes",
+    "body": "Minutes of the residents' welfare meeting are attached.",
+    "attachment_text": ""
+  },
+  {
+    "from": "community@rwajayanagar.example",
+    "date": "2024-05-28T12:50:40",
+    "subject": "RWA meeting minutes",
+    "body": "Minutes of the residents' welfare meeting are attached.",
+    "attachment_text": ""
+  },
+  {
+    "from": "noreply@trains.example",
+    "date": "2024-05-28T15:41:51",
+    "subject": "Booking confirmed: Bengaluru to Mysuru",
+    "body": "PNR 44891. 2 passengers. Have a safe journey.",
+    "attachment_text": ""
+  },
+  {
+    "from": "alerts@healthlab.example",
+    "date": "2024-06-28T23:40:58",
+    "subject": "Your lab report is ready",
+    "body": "Your HbA1c report is ready to download.",
+    "attachment_text": "LAB REPORT\nHbA1c: 6.8%"
+  },
+  {
+    "from": "billing@bescom.example",
+    "date": "2024-07-27T04:09:20",
+    "subject": "Electricity bill for RR No. JY44116",
+    "body": "Your bill of Rs 995 is due on the 20th.",
+    "attachment_text": "BESCOM BILL\nAmount due: Rs 995"
+  },
+  {
+    "from": "billing@bescom.example",
+    "date": "2025-01-08T22:31:49",
+    "subject": "Electricity bill for RR No. JY21750",
+    "body": "Your bill of Rs 1599 is due on the 20th.",
+    "attachment_text": "BESCOM BILL\nAmount due: Rs 1599"
+  },
+  {
+    "from": "alerts@healthlab.example",
+    "date": "2025-04-26T11:04:44",
+    "subject": "Your lab report is ready",
+    "body": "Your HbA1c report is ready to download.",
+    "attachment_text": "LAB REPORT\nHbA1c: 6.8%"
+  },
+  {
+    "from": "temple@sriramtemple.example",
+    "date": "2025-06-23T01:51:24",
+    "subject": "Donation receipt",
+    "body": "Thank you for your donation of Rs 690 towards the temple renovation.",
+    "attachment_text": ""
+  },
+  {
+    "from": "billing@bescom.example",
+    "date": "2025-11-16T00:28:56",
+    "subject": "Electricity bill for RR No. JY83342",
+    "body": "Your bill of Rs 468 is due on the 20th.",
+    "attachment_text": "BESCOM BILL\nAmount due: Rs 468"
+  },
+  {
+    "from": "offers@creditcards.example",
+    "date": "2025-12-01T00:48:24",
+    "subject": "Exclusive card offer for you",
+    "body": "Get a lifetime-free card. Limited period offer.",
+    "attachment_text": ""
+  },
+  {
+    "from": "statements@cas.example",
+    "date": "2026-01-12T07:30:00",
+    "subject": "Consolidated Account Statement - December 2025",
+    "body": "Dear Investor, your Consolidated Account Statement for December 2025 is attached.",
+    "attachment_text": "CONSOLIDATED ACCOUNT STATEMENT - DEC 2025\nInvestor: RAMESH KUMAR  PAN: XXXXX1234K\nKaveri Flexi Cap Fund - Growth | Folio XXXXXX3312 | Units 1,624.552 | NAV 160.05 | Market Value Rs 2,60,000.00\nTotal portfolio value: Rs 2,60,000.00"
+  },
+  {
+    "from": "billing@bescom.example",
+    "date": "2026-02-01T21:36:49",
+    "subject": "Electricity bill for RR No. JY44167",
+    "body": "Your bill of Rs 1010 is due on the 20th.",
+    "attachment_text": "BESCOM BILL\nAmount due: Rs 1010"
+  }
+]

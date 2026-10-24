@@ -1,0 +1,136 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_2562",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "120.00",
+   "amount_kind": "debit",
+   "date": "2024-04-28",
+   "nominee": "not registered",
+   "quote": "Rs.120.00 debited from A/c XX8812 on 28-04-24"
+  },
+  {
+   "evidence_id": "sms_2567",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "32500.00",
+   "amount_kind": "credit",
+   "date": "2024-05-01",
+   "nominee": "not registered",
+   "quote": "Your a/c no. XX8812 is credited by Rs32,500.00 on 01-05-24 (PENSION CR)."
+  },
+  {
+   "evidence_id": "sms_2573",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "5000.00",
+   "amount_kind": "debit",
+   "date": "2024-05-05",
+   "nominee": "not registered",
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-05-24 for SIP KAVERI MF Folio XXXXXX3312"
+  },
+  {
+   "evidence_id": "sms_2573",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": "5000.00",
+   "amount_kind": "sip_instalment",
+   "date": "2024-05-05",
+   "nominee": "not registered",
+   "quote": "for SIP KAVERI MF Folio XXXXXX3312"
+  },
+  {
+   "evidence_id": "sms_2574",
+   "institution_raw": "VM-KAVRMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": "5000.00",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": "not registered",
+   "quote": "Your SIP of Rs.5,000.00 in Kaveri Flexi Cap Fund - Growth, Folio XXXXXX3312 is processed"
+  },
+  {
+   "evidence_id": "sms_2577",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "60.00",
+   "amount_kind": "debit",
+   "date": "2024-05-07",
+   "nominee": "not registered",
+   "quote": "Rs.60.00 debited from A/c XX8812 on 07-05-24 to VPA auto.ravi@ybl"
+  },
+  {
+   "evidence_id": "sms_2589",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "240.00",
+   "amount_kind": "debit",
+   "date": "2024-05-24",
+   "nominee": "not registered",
+   "quote": "Rs.240.00 debited from A/c XX8812 on 24-05-24 to VPA auto.ravi@ybl"
+  },
+  {
+   "evidence_id": "sms_2593",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "32500.00",
+   "amount_kind": "credit",
+   "date": "2024-06-01",
+   "nominee": "not registered",
+   "quote": "Your a/c no. XX8812 is credited by Rs32,500.00 on 01-06-24 (PENSION CR)."
+  },
+  {
+   "evidence_id": "sms_2594",
+   "institution_raw": "VM-LICIND",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX5271",
+   "amount": "9850.00",
+   "amount_kind": "premium",
+   "date": "2024-06-15",
+   "nominee": "not registered",
+   "quote": "LIC: Premium of Rs.9,850 for Policy No. XXXXX5271 is due on 15/06/2024"
+  },
+  {
+   "evidence_id": "sms_2596",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "5000.00",
+   "amount_kind": "debit",
+   "date": "2024-06-05",
+   "nominee": "not registered",
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-06-24 for SIP KAVERI MF Folio XXXXXX3312"
+  },
+  {
+   "evidence_id": "sms_2596",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": "5000.00",
+   "amount_kind": "sip_instalment",
+   "date": "2024-06-05",
+   "nominee": "not registered",
+   "quote": "for SIP KAVERI MF Folio XXXXXX3312"
+  },
+  {
+   "evidence_id": "sms_2597",
+   "institution_raw": "VM-KAVRMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": "5000.00",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": "not registered",
+   "quote": "Your SIP of Rs.5,000.00 in Kaveri Flexi Cap Fund - Growth, Folio XXXXXX3312 is processed"
+  }
+ ]
+}

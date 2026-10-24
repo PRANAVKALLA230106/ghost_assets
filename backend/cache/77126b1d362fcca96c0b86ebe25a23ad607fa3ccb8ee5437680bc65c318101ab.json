@@ -1,0 +1,59 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_1980",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 350.0,
+   "amount_kind": "debit",
+   "date": "2021-12-30",
+   "nominee": null,
+   "quote": "Rs.350.00 debited from A/c XX8812 on 30-12-21"
+  },
+  {
+   "evidence_id": "sms_1995",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 120.0,
+   "amount_kind": "debit",
+   "date": "2022-01-28",
+   "nominee": null,
+   "quote": "Rs.120.00 debited from A/c XX8812 on 28-01-22"
+  },
+  {
+   "evidence_id": "sms_2002",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 240.0,
+   "amount_kind": "debit",
+   "date": "2022-02-07",
+   "nominee": null,
+   "quote": "Rs.240.00 debited from A/c XX8812 on 07-02-22"
+  },
+  {
+   "evidence_id": "sms_2010",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 40.0,
+   "amount_kind": "debit",
+   "date": "2022-02-19",
+   "nominee": null,
+   "quote": "Rs.40.00 debited from A/c XX8812 on 19-02-22"
+  },
+  {
+   "evidence_id": "sms_2023",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 480.0,
+   "amount_kind": "debit",
+   "date": "2022-03-07",
+   "nominee": null,
+   "quote": "Rs.480.00 debited from A/c XX8812 on 07-03-22"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "text": "",
+ "reasoning": "Need check IEPF for shares.",
+ "tool_call": {
+  "id": "fc_036d835b-9171-4627-ae6a-1a789119957d",
+  "name": "check_portal",
+  "args": {
+   "institution": "Ganga Tech Ltd",
+   "name": "Ramesh Kumar",
+   "portal": "IEPF"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_036d835b-9171-4627-ae6a-1a789119957d",
+    "type": "function",
+    "function": {
+     "name": "check_portal",
+     "arguments": "{\"institution\":\"Ganga Tech Ltd\",\"name\":\"Ramesh Kumar\",\"portal\":\"IEPF\"}"
+    }
+   }
+  ]
+ }
+}

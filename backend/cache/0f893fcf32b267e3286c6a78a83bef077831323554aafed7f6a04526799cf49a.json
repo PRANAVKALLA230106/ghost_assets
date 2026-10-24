@@ -1,0 +1,59 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0743",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "6000",
+   "amount_kind": "debit",
+   "date": "2023-07-07",
+   "nominee": null,
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-07-23 for SIP ADITYA MF Folio XXXXXX7701 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0743",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "sip_instalment",
+   "date": "2023-07-07",
+   "nominee": null,
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-07-23 for SIP ADITYA MF Folio XXXXXX7701 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0755",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "6000",
+   "amount_kind": "debit",
+   "date": "2023-08-07",
+   "nominee": null,
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-08-23 for SIP ADITYA MF Folio XXXXXX7701 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0755",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "sip_instalment",
+   "date": "2023-08-07",
+   "nominee": null,
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-08-23 for SIP ADITYA MF Folio XXXXXX7701 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0753",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "28000",
+   "amount_kind": "credit",
+   "date": "2023-08-01",
+   "nominee": null,
+   "quote": "Dear Customer, your A/c XX2290 is credited by Rs.28,000.00 on 01-08-23 by PENSION. Avl Bal Rs.91,978.18 -HDFC Bank"
+  }
+ ]
+}

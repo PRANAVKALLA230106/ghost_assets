@@ -1,0 +1,30 @@
+{
+ "text": "",
+ "reasoning": "Need ask family for nominee info for as_02, as_04, as_05. Also maybe for as_06? nominee unknown but IEPF refund may need nominee? We'll ask.",
+ "tool_call": {
+  "id": "fc_c610d317-b016-4376-bcc6-c5b78c184d2b",
+  "name": "ask_family",
+  "args": {
+   "asset_id": "as_02",
+   "options": [
+    "Yes",
+    "No"
+   ],
+   "question": "Is there a nominee named for the fixed deposit in Canara Bank (XX4521)?"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_c610d317-b016-4376-bcc6-c5b78c184d2b",
+    "type": "function",
+    "function": {
+     "name": "ask_family",
+     "arguments": "{\"asset_id\":\"as_02\",\"options\":[\"Yes\",\"No\"],\"question\":\"Is there a nominee named for the fixed deposit in Canara Bank (XX4521)?\"}"
+    }
+   }
+  ]
+ }
+}

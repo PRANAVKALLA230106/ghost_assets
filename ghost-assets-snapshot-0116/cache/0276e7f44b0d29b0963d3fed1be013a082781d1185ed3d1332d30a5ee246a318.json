@@ -1,0 +1,26 @@
+{
+ "clues": [
+  {
+   "evidence_id": "email_034",
+   "institution_raw": "termdeposits@canarabank.example",
+   "asset_type": "fixed_deposit",
+   "identifier": "XX4521",
+   "amount": "238000",
+   "amount_kind": "maturity_value",
+   "date": "2022-03-15",
+   "nominee": "not registered",
+   "quote": "Deposit A/c: XX4521\nMatured on: 15-03-2022\nMaturity value: Rs 2,38,000.00"
+  },
+  {
+   "evidence_id": "email_039",
+   "institution_raw": "welcome@surakshalife.example",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX0903",
+   "amount": "400000",
+   "amount_kind": "sum_assured",
+   "date": null,
+   "nominee": "not registered",
+   "quote": "Policy No.: XXXXX0903\nSum Assured: Rs 4,00,000"
+  }
+ ]
+}

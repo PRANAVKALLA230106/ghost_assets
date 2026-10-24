@@ -1,0 +1,27 @@
+{
+ "text": "",
+ "reasoning": "Need investigate gaps: assets with weak evidence or old. as_06 shares last activity 2014, status transferred_iepf. need check IEPF. as_07 transferred_dea, need check UDGAM. Also nominee unknown for as_02, as_04, as_05. Ask family for nominee info. Also check UDGAM for as_07. Let's check portal.",
+ "tool_call": {
+  "id": "fc_31d73f5d-5f56-466e-ade5-be29099d0f36",
+  "name": "check_portal",
+  "args": {
+   "institution": "State Bank of India",
+   "name": "Ramesh Kumar",
+   "portal": "UDGAM"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_31d73f5d-5f56-466e-ade5-be29099d0f36",
+    "type": "function",
+    "function": {
+     "name": "check_portal",
+     "arguments": "{\"institution\":\"State Bank of India\",\"name\":\"Ramesh Kumar\",\"portal\":\"UDGAM\"}"
+    }
+   }
+  ]
+ }
+}

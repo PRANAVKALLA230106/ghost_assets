@@ -1,0 +1,8 @@
+{
+ "text": "I need to review the evidence you have (SMS, emails, AIS statements, photos, etc.) to identify all financial assets left by Ramesh Kumar. Please upload the relevant documents or files so I can start the investigation.",
+ "tool_call": null,
+ "raw": {
+  "role": "assistant",
+  "content": "I need to review the evidence you have (SMS, emails, AIS statements, photos, etc.) to identify all financial assets left by Ramesh Kumar. Please upload the relevant documents or files so I can start the investigation."
+ }
+}

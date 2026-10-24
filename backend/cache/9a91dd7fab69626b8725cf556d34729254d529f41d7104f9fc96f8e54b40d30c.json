@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_2664",
+   "institution_raw": "VM-KAVRMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": "5000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": "not registered",
+   "quote": "Your SIP of Rs.5,000.00 in Kaveri Flexi Cap Fund - Growth, Folio XXXXXX3312 is processed. Units: 33.474 @ NAV 149.37. -Kaveri MF"
+  }
+ ]
+}

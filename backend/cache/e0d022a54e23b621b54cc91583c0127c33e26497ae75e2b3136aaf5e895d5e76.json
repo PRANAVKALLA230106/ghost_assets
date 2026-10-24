@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_2749",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 2300,
+   "amount_kind": "debit",
+   "date": "2025-01-22",
+   "nominee": null,
+   "quote": "Rs.2,300.00 debited from A/c XX8812 on 22-01-25 to VPA pharmacy.apollo@ybl."
+  }
+ ]
+}

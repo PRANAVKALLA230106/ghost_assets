@@ -1,0 +1,25 @@
+{
+ "text": "",
+ "reasoning": "Need to generate for as_06 and as_07, then finish.",
+ "tool_call": {
+  "id": "fc_d63daa20-2acf-46eb-9dc5-e4ab94f654cb",
+  "name": "generate_claim_pack",
+  "args": {
+   "asset_id": "as_06"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_d63daa20-2acf-46eb-9dc5-e4ab94f654cb",
+    "type": "function",
+    "function": {
+     "name": "generate_claim_pack",
+     "arguments": "{\"asset_id\":\"as_06\"}"
+    }
+   }
+  ]
+ }
+}

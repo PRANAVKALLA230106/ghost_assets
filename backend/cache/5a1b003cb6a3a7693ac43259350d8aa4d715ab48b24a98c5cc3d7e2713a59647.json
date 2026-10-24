@@ -1,0 +1,37 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0512",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "fixed_deposit",
+   "identifier": "XX5512",
+   "amount": "165000",
+   "amount_kind": "principal",
+   "date": "2023-05-10",
+   "nominee": null,
+   "quote": "your FD A/c XX5512 of Rs.1,65,000 has been renewed for 36 months. Maturity date 10-05-2023."
+  },
+  {
+   "evidence_id": "sms_0523",
+   "institution_raw": "VM-LICIND",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX8841",
+   "amount": "11200",
+   "amount_kind": "premium",
+   "date": "2020-07-20",
+   "nominee": "not registered",
+   "quote": "LIC: Premium of Rs.11,200 for Policy No. XXXXX8841 is due on 20/07/2020."
+  },
+  {
+   "evidence_id": "sms_0526",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "11200",
+   "amount_kind": "debit",
+   "date": "2020-07-14",
+   "nominee": null,
+   "quote": "Rs.11,200.00 debited from A/c XX2290 on 14-07-20 towards LIC PREMIUM Policy XXXXX8841"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "text": "",
+ "tool_call": {
+  "id": "fc_8383f1c3-0616-4e02-bf81-b468aee06533",
+  "name": "scan_sources",
+  "args": {}
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_8383f1c3-0616-4e02-bf81-b468aee06533",
+    "type": "function",
+    "function": {
+     "name": "scan_sources",
+     "arguments": "{}"
+    }
+   }
+  ]
+ }
+}

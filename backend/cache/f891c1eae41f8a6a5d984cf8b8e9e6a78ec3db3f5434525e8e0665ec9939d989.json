@@ -1,0 +1,9 @@
+{
+ "text": "{\"name\": \"check_portal\", \"arguments\": We have confirmed share value.Now check UDGAM.{\"institution\":\"State Bank of India\",\"name\":\"Ramesh Kumar\",\"portal\":\"UDGAM\"}\"}",
+ "reasoning": "",
+ "tool_call": null,
+ "raw": {
+  "role": "assistant",
+  "content": "{\"name\": \"check_portal\", \"arguments\": We have confirmed share value.Now check UDGAM.{\"institution\":\"State Bank of India\",\"name\":\"Ramesh Kumar\",\"portal\":\"UDGAM\"}\"}"
+ }
+}

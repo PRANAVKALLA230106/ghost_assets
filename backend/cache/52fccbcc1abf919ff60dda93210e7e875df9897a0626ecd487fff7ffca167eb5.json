@@ -1,0 +1,125 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_1857",
+   "institution_raw": "VM-LICIND",
+   "asset_type": "life_insurance",
+   "identifier": "Policy No. XXXXX5271",
+   "amount": "9850",
+   "amount_kind": "premium",
+   "date": "2021-06-15",
+   "nominee": null,
+   "quote": "LIC: Premium of Rs.9,850 for Policy No. XXXXX5271 is due on 15/06/2021. Pay online. Ignore if already paid."
+  },
+  {
+   "evidence_id": "sms_1861",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "A/c XX8812",
+   "amount": "9850",
+   "amount_kind": "debit",
+   "date": "2021-06-06",
+   "nominee": null,
+   "quote": "Rs.9,850.00 debited from A/c XX8812 on 06-06-21 towards LIC PREMIUM Policy XXXXX5271 -SBI"
+  },
+  {
+   "evidence_id": "sms_1861",
+   "institution_raw": "VM-LICIND",
+   "asset_type": "life_insurance",
+   "identifier": "Policy No. XXXXX5271",
+   "amount": "9850",
+   "amount_kind": "premium",
+   "date": "2021-06-06",
+   "nominee": null,
+   "quote": "Rs.9,850.00 debited from A/c XX8812 on 06-06-21 towards LIC PREMIUM Policy XXXXX5271 -SBI"
+  },
+  {
+   "evidence_id": "sms_1864",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "A/c XX8812",
+   "amount": "60",
+   "amount_kind": "debit",
+   "date": "2021-06-11",
+   "nominee": null,
+   "quote": "Rs.60.00 debited from A/c XX8812 on 11-06-21 to VPA bescom.pay@ybl. UPI Ref 998049259818. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_1873",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "A/c XX8812",
+   "amount": "1840",
+   "amount_kind": "debit",
+   "date": "2021-06-24",
+   "nominee": null,
+   "quote": "Rs.1,840.00 debited from A/c XX8812 on 24-06-21 to VPA medplus.jayanagar@ybl. UPI Ref 546688090938. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_1877",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "A/c XX8812",
+   "amount": "1200",
+   "amount_kind": "debit",
+   "date": "2021-06-28",
+   "nominee": null,
+   "quote": "Rs.1,200.00 debited from A/c XX8812 on 28-06-21 to VPA pharmacy.apollo@ybl. UPI Ref 408877180672. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_1879",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "A/c XX8812",
+   "amount": "760",
+   "amount_kind": "debit",
+   "date": "2021-07-04",
+   "nominee": null,
+   "quote": "Rs.760.00 debited from A/c XX8812 on 04-07-21 to VPA medplus.jayanagar@ybl. UPI Ref 960420184902. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_1885",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "A/c XX8812",
+   "amount": "2300",
+   "amount_kind": "debit",
+   "date": "2021-07-17",
+   "nominee": null,
+   "quote": "Rs.2,300.00 debited from A/c XX8812 on 17-07-21 to VPA pharmacy.apollo@ybl. UPI Ref 202946308354. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_1897",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "A/c XX8812",
+   "amount": "1840",
+   "amount_kind": "debit",
+   "date": "2021-08-05",
+   "nominee": null,
+   "quote": "Rs.1,840.00 debited from A/c XX8812 on 05-08-21 to VPA pharmacy.apollo@ybl. UPI Ref 588017414546. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_1900",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "A/c XX8812",
+   "amount": "60",
+   "amount_kind": "debit",
+   "date": "2021-08-14",
+   "nominee": null,
+   "quote": "Rs.60.00 debited from A/c XX8812 on 14-08-21 to VPA milk.nandini@ybl. UPI Ref 565378164447. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_1903",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "A/c XX8812",
+   "amount": "480",
+   "amount_kind": "debit",
+   "date": "2021-08-21",
+   "nominee": null,
+   "quote": "Rs.480.00 debited from A/c XX8812 on 21-08-21 to VPA medplus.jayanagar@ybl. UPI Ref 337045863496. Not you? Call 1800111109 -SBI"
+  }
+ ]
+}

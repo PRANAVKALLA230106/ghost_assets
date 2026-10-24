@@ -1,0 +1,114 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_2806",
+   "institution_raw": "SBI",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 5000,
+   "amount_kind": "debit",
+   "date": "2025-04-05",
+   "nominee": null,
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-04-25 for SIP KAVERI MF Folio XXXXXX3312 -SBI"
+  },
+  {
+   "evidence_id": "sms_2806",
+   "institution_raw": "KAVERI MF",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXX3312",
+   "amount": 5000,
+   "amount_kind": "premium",
+   "date": "2025-04-05",
+   "nominee": null,
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-04-25 for SIP KAVERI MF Folio XXXXXX3312 -SBI"
+  },
+  {
+   "evidence_id": "sms_2821",
+   "institution_raw": "SBI",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 32500,
+   "amount_kind": "credit",
+   "date": "2025-05-01",
+   "nominee": null,
+   "quote": "credited by Rs.32,500.00 on 01-05-25 by PENSION"
+  },
+  {
+   "evidence_id": "sms_2828",
+   "institution_raw": "SBI",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 5000,
+   "amount_kind": "debit",
+   "date": "2025-05-05",
+   "nominee": null,
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-05-25 for SIP KAVERI MF Folio XXXXXX3312 -SBI"
+  },
+  {
+   "evidence_id": "sms_2828",
+   "institution_raw": "KAVERI MF",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXX3312",
+   "amount": 5000,
+   "amount_kind": "premium",
+   "date": "2025-05-05",
+   "nominee": null,
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-05-25 for SIP KAVERI MF Folio XXXXXX3312 -SBI"
+  },
+  {
+   "evidence_id": "sms_2835",
+   "institution_raw": "SBI",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 2300,
+   "amount_kind": "debit",
+   "date": "2025-05-10",
+   "nominee": null,
+   "quote": "Rs.2,300.00 debited from A/c XX8812 on 10-05-25 to VPA milk.nandini@ybl."
+  },
+  {
+   "evidence_id": "sms_2836",
+   "institution_raw": "SBI",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 40,
+   "amount_kind": "debit",
+   "date": "2025-05-14",
+   "nominee": null,
+   "quote": "Rs.40.00 debited from A/c XX8812 on 14-05-25 to VPA freshmart@ybl."
+  },
+  {
+   "evidence_id": "sms_2843",
+   "institution_raw": "LIC",
+   "asset_type": "life_insurance",
+   "identifier": "Policy No. XXXXX5271",
+   "amount": 9850,
+   "amount_kind": "premium",
+   "date": "2025-06-15",
+   "nominee": null,
+   "quote": "Premium of Rs.9,850 for Policy No. XXXXX5271 is due on 15/06/2025"
+  },
+  {
+   "evidence_id": "sms_2844",
+   "institution_raw": "SBI",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 32500,
+   "amount_kind": "credit",
+   "date": "2025-06-01",
+   "nominee": null,
+   "quote": "Your a/c no. XX8812 is credited by Rs32,500.00 on 01-06-25 (PENSION CR)."
+  },
+  {
+   "evidence_id": "sms_2845",
+   "institution_raw": "SBI",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 350,
+   "amount_kind": "debit",
+   "date": "2025-06-04",
+   "nominee": null,
+   "quote": "Rs.350.00 debited from A/c XX8812 on 04-06-25 to VPA pharmacy.apollo@ybl."
+  }
+ ]
+}

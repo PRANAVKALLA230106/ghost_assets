@@ -1,0 +1,30 @@
+{
+ "text": "",
+ "reasoning": "Need ask family for nominee info for as_02, as_04, as_05. Also maybe confirm as_07? but status transferred_dea no nominee. Ask.",
+ "tool_call": {
+  "id": "fc_729f6a79-cda3-40e8-9467-75bfe569af70",
+  "name": "ask_family",
+  "args": {
+   "asset_id": "as_02",
+   "options": [
+    "Yes",
+    "No"
+   ],
+   "question": "Is there a nominee named for the fixed deposit account XX4521 at Canara Bank?"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_729f6a79-cda3-40e8-9467-75bfe569af70",
+    "type": "function",
+    "function": {
+     "name": "ask_family",
+     "arguments": "{\"asset_id\":\"as_02\",\"options\":[\"Yes\",\"No\"],\"question\":\"Is there a nominee named for the fixed deposit account XX4521 at Canara Bank?\"}"
+    }
+   }
+  ]
+ }
+}

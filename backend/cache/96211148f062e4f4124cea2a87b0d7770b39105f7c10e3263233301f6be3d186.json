@@ -1,0 +1,24 @@
+{
+ "text": "",
+ "tool_call": {
+  "id": "fc_6e06d5ce-f150-41f6-a169-f2940676a0a0",
+  "name": "generate_claim_pack",
+  "args": {
+   "asset_id": "as_02"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_6e06d5ce-f150-41f6-a169-f2940676a0a0",
+    "type": "function",
+    "function": {
+     "name": "generate_claim_pack",
+     "arguments": "{\"asset_id\":\"as_02\"}"
+    }
+   }
+  ]
+ }
+}

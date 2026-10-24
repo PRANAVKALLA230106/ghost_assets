@@ -1,0 +1,25 @@
+{
+ "text": "",
+ "reasoning": "Now apply claim rules all.",
+ "tool_call": {
+  "id": "fc_fd5807c1-635e-4802-bba8-18a77c5e04c9",
+  "name": "apply_claim_rules",
+  "args": {
+   "asset_id": "all"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_fd5807c1-635e-4802-bba8-18a77c5e04c9",
+    "type": "function",
+    "function": {
+     "name": "apply_claim_rules",
+     "arguments": "{\"asset_id\":\"all\"}"
+    }
+   }
+  ]
+ }
+}

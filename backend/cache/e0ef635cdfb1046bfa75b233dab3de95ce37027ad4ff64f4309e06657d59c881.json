@@ -1,0 +1,9 @@
+{
+ "text": "{\"name\":\"finish\",\"arguments\":{\"summary\":\"All assets identified and claim packs generated. Nominee status confirmed for FD123, KAVERI 2025 MF, and Suraksha Life Insurance – none have nominees. Claim paths: as_01 (nominee), as_02 (simplified no‑nominee), as_03 & as_05 (insurance death claim), as_04 (transmission), as_06 (IEPF refund), as_07 (DEA claim via bank). All claim packs are ready for submission. Good luck!\"}}",
+ "reasoning": "",
+ "tool_call": null,
+ "raw": {
+  "role": "assistant",
+  "content": "{\"name\":\"finish\",\"arguments\":{\"summary\":\"All assets identified and claim packs generated. Nominee status confirmed for FD123, KAVERI 2025 MF, and Suraksha Life Insurance – none have nominees. Claim paths: as_01 (nominee), as_02 (simplified no‑nominee), as_03 & as_05 (insurance death claim), as_04 (transmission), as_06 (IEPF refund), as_07 (DEA claim via bank). All claim packs are ready for submission. Good luck!\"}}"
+ }
+}

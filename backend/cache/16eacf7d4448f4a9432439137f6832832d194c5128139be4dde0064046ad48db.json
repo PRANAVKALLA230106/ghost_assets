@@ -1,0 +1,30 @@
+{
+ "text": "",
+ "reasoning": "Now need nominee for as_04 and as_05.",
+ "tool_call": {
+  "id": "fc_b1661166-255f-48e3-9808-5186f1170c11",
+  "name": "ask_family",
+  "args": {
+   "asset_id": "as_04",
+   "options": [
+    "Yes",
+    "No"
+   ],
+   "question": "Is there a nominee for the mutual fund KAVERI 2025?"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_b1661166-255f-48e3-9808-5186f1170c11",
+    "type": "function",
+    "function": {
+     "name": "ask_family",
+     "arguments": "{\"asset_id\":\"as_04\",\"options\":[\"Yes\",\"No\"],\"question\":\"Is there a nominee for the mutual fund KAVERI 2025?\"}"
+    }
+   }
+  ]
+ }
+}

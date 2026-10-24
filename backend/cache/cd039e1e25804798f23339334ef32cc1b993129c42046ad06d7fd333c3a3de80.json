@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "email_034",
+   "institution_raw": "termdeposits@canarabank.example",
+   "asset_type": "fixed_deposit",
+   "identifier": "XX4521",
+   "amount": "238000",
+   "amount_kind": "maturity_value",
+   "date": "2022-03-15",
+   "nominee": "not registered",
+   "quote": "Deposit A/c: XX4521\nDepositor: RAMESH KUMAR\nMatured on: 15-03-2022\nMaturity value: Rs 2,38,000.00"
+  }
+ ]
+}

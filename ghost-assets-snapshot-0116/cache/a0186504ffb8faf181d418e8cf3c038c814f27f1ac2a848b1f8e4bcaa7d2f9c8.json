@@ -1,0 +1,92 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_2276",
+   "institution_raw": "VM-KAVRMF",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXX3312",
+   "amount": 5000,
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.5,000.00 in Kaveri Flexi Cap Fund - Growth, Folio XXXXXX3312 is processed. Units: 38.4 @ NAV 130.21. -Kaveri MF"
+  },
+  {
+   "evidence_id": "sms_2288",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "A/c XX8812",
+   "amount": 32500,
+   "amount_kind": "credit",
+   "date": "2023-05-01",
+   "nominee": null,
+   "quote": "Dear Customer, your A/c XX8812 is credited by Rs.32,500.00 on 01-05-23 by PENSION. Avl Bal Rs.98,286.69 -SBI"
+  },
+  {
+   "evidence_id": "sms_2290",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "A/c XX8812",
+   "amount": 5000,
+   "amount_kind": "debit",
+   "date": "2023-05-05",
+   "nominee": null,
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-05-23 for SIP KAVERI MF Folio XXXXXX3312 -SBI"
+  },
+  {
+   "evidence_id": "sms_2290",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXX3312",
+   "amount": 5000,
+   "amount_kind": "sip_instalment",
+   "date": "2023-05-05",
+   "nominee": null,
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-05-23 for SIP KAVERI MF Folio XXXXXX3312 -SBI"
+  },
+  {
+   "evidence_id": "sms_2291",
+   "institution_raw": "VM-KAVRMF",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXX3312",
+   "amount": 5000,
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.5,000.00 in Kaveri Flexi Cap Fund - Growth, Folio XXXXXX3312 is processed. Units: 39.37 @ NAV 127.0. -Kaveri MF"
+  },
+  {
+   "evidence_id": "sms_2303",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "A/c XX8812",
+   "amount": 1200,
+   "amount_kind": "debit",
+   "date": "2023-05-29",
+   "nominee": null,
+   "quote": "Rs.1,200.00 debited from A/c XX8812 on 29-05-23 to VPA chaiwala@ybl. UPI Ref 263860419795. Not you? Call 1800111109 -SBI"
+  },
+  {
+   "evidence_id": "sms_2306",
+   "institution_raw": "VM-LICIND",
+   "asset_type": "life_insurance",
+   "identifier": "Policy No. XXXXX5271",
+   "amount": 9850,
+   "amount_kind": "premium",
+   "date": "2023-06-15",
+   "nominee": null,
+   "quote": "LIC: Premium of Rs.9,850 for Policy No. XXXXX5271 is due on 15/06/2023. Pay online. Ignore if already paid."
+  },
+  {
+   "evidence_id": "sms_2307",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "a/c no. XX8812",
+   "amount": 32500,
+   "amount_kind": "credit",
+   "date": "2023-06-01",
+   "nominee": null,
+   "quote": "Your a/c no. XX8812 is credited by Rs32,500.00 on 01-06-23 (PENSION CR). Avl Bal: Rs 1,03,232.67. -SBI"
+  }
+ ]
+}

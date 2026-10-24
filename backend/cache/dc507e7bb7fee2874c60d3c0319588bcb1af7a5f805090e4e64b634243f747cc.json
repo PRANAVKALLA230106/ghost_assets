@@ -1,0 +1,30 @@
+{
+ "text": "",
+ "reasoning": "Now ask for as_05.",
+ "tool_call": {
+  "id": "fc_22157c74-bdc9-48e6-8303-b34c43aa713d",
+  "name": "ask_family",
+  "args": {
+   "asset_id": "as_05",
+   "options": [
+    "Yes",
+    "No"
+   ],
+   "question": "Is there a nominee for the Suraksha Life Insurance policy?"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_22157c74-bdc9-48e6-8303-b34c43aa713d",
+    "type": "function",
+    "function": {
+     "name": "ask_family",
+     "arguments": "{\"asset_id\":\"as_05\",\"options\":[\"Yes\",\"No\"],\"question\":\"Is there a nominee for the Suraksha Life Insurance policy?\"}"
+    }
+   }
+  ]
+ }
+}

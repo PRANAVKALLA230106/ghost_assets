@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0327",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "fixed_deposit",
+   "identifier": "XX5512",
+   "amount": "150000",
+   "amount_kind": "principal",
+   "date": null,
+   "nominee": "not registered",
+   "quote": "Term Deposit A/c XX5512 opened for Rs.1,50,000.00 for 36 months"
+  }
+ ]
+}

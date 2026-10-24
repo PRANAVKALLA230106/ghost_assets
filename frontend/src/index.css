@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+/* Ghost Assets theme: bg-page, bg-card, text-ink, text-muted, text-accent, border-accent, ... */
+@theme {
+  --color-page: #1f1f1f;
+  --color-card: #2f2f2f;
+  --color-ink: #fdf9e0;
+  --color-muted: #cfc9b4;
+  --color-accent: #ffb54d;
+}
+
+@keyframes fadein {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: none; }
+}
+
+@keyframes slideup {
+  from { opacity: 0; transform: translateY(60px); }
+  to { opacity: 1; transform: none; }
+}
+
+@keyframes drawerin {
+  from { transform: translateX(100%); }
+  to { transform: none; }
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  background-color: var(--color-page);
+  color: var(--color-ink);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}

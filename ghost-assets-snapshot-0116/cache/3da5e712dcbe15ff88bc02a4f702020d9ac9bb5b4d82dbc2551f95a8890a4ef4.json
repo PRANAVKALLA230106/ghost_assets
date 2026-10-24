@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_2067",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX5271",
+   "amount": "9850",
+   "amount_kind": "premium",
+   "date": "2022-06-05",
+   "nominee": null,
+   "quote": "Rs.9,850.00 debited from A/c XX8812 on 05-06-22 towards LIC PREMIUM Policy XXXXX5271 -SBI"
+  }
+ ]
+}

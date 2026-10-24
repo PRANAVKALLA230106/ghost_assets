@@ -1,0 +1,24 @@
+{
+ "text": "",
+ "tool_call": {
+  "id": "fc_9e1a7f21-7544-48fc-97f3-12631c623cc1",
+  "name": "apply_claim_rules",
+  "args": {
+   "asset_id": "all"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_9e1a7f21-7544-48fc-97f3-12631c623cc1",
+    "type": "function",
+    "function": {
+     "name": "apply_claim_rules",
+     "arguments": "{\"asset_id\":\"all\"}"
+    }
+   }
+  ]
+ }
+}

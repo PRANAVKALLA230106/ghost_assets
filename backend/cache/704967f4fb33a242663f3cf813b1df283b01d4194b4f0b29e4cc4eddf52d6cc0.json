@@ -1,0 +1,81 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0613",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "90",
+   "amount_kind": "debit",
+   "date": "2021-11-26",
+   "nominee": null,
+   "quote": "Rs.90.00 debited from A/c XX2290 on 26-11-21"
+  },
+  {
+   "evidence_id": "sms_0616",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "90",
+   "amount_kind": "debit",
+   "date": "2021-12-05",
+   "nominee": null,
+   "quote": "Rs.90.00 debited from A/c XX2290 on 05-12-21"
+  },
+  {
+   "evidence_id": "sms_0623",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "1500",
+   "amount_kind": "debit",
+   "date": "2022-01-17",
+   "nominee": null,
+   "quote": "Rs.1,500.00 debited from A/c XX2290 on 17-01-22"
+  },
+  {
+   "evidence_id": "sms_0640",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "45",
+   "amount_kind": "debit",
+   "date": "2022-04-24",
+   "nominee": null,
+   "quote": "Rs.45.00 debited from A/c XX2290 on 24-04-22"
+  },
+  {
+   "evidence_id": "sms_0653",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "11200",
+   "amount_kind": "debit",
+   "date": "2022-07-08",
+   "nominee": null,
+   "quote": "Rs.11,200.00 debited from A/c XX2290 on 08-07-22 towards LIC PREMIUM Policy XXXXX8841"
+  },
+  {
+   "evidence_id": "sms_0653",
+   "institution_raw": "VM-LICIND",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX8841",
+   "amount": "11200",
+   "amount_kind": "premium",
+   "date": "2022-07-08",
+   "nominee": null,
+   "quote": "Rs.11,200.00 debited from A/c XX2290 on 08-07-22 towards LIC PREMIUM Policy XXXXX8841"
+  },
+  {
+   "evidence_id": "sms_0662",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "1500",
+   "amount_kind": "debit",
+   "date": "2022-07-29",
+   "nominee": null,
+   "quote": "Rs.1,500.00 debited from A/c XX2290 on 29-07-22"
+  }
+ ]
+}

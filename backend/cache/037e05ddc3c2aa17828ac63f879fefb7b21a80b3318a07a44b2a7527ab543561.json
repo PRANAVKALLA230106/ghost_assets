@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0163",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "2100.00",
+   "amount_kind": "credit",
+   "date": "2014-08-18",
+   "nominee": "not registered",
+   "quote": "Your A/c XX2290 is credited by Rs.2,100.00 on 18-08-14"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_1612",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 40.0,
+   "amount_kind": "debit",
+   "date": "2020-05-16",
+   "nominee": null,
+   "quote": "Rs.40.00 debited from A/c XX8812 on 16-05-20 to VPA medplus.jayanagar@ybl. UPI Ref 277218748445."
+  },
+  {
+   "evidence_id": "sms_1615",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 240.0,
+   "amount_kind": "debit",
+   "date": "2020-05-23",
+   "nominee": null,
+   "quote": "Rs.240.00 debited from A/c XX8812 on 23-05-20 to VPA freshmart@ybl. UPI Ref 557222530916."
+  },
+  {
+   "evidence_id": "sms_1620",
+   "institution_raw": "VM-LICIND",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX5271",
+   "amount": 9850.0,
+   "amount_kind": "premium",
+   "date": "2020-06-15",
+   "nominee": null,
+   "quote": "LIC: Premium of Rs.9,850 for Policy No. XXXXX5271 is due on 15/06/2020. Pay online. Ignore if already paid."
+  },
+  {
+   "evidence_id": "sms_1623",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 9850.0,
+   "amount_kind": "debit",
+   "date": "2020-06-07",
+   "nominee": null,
+   "quote": "Rs.9,850.00 debited from A/c XX8812 on 07-06-20 towards LIC PREMIUM Policy XXXXX5271 -SBI"
+  },
+  {
+   "evidence_id": "sms_1623",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX5271",
+   "amount": 9850.0,
+   "amount_kind": "premium",
+   "date": "2020-06-07",
+   "nominee": null,
+   "quote": "Rs.9,850.00 debited from A/c XX8812 on 07-06-20 towards LIC PREMIUM Policy XXXXX5271 -SBI"
+  },
+  {
+   "evidence_id": "sms_1624",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 350.0,
+   "amount_kind": "debit",
+   "date": "2020-06-08",
+   "nominee": null,
+   "quote": "Rs.350.00 debited from A/c XX8812 on 08-06-20 to VPA freshmart@ybl. UPI Ref 172250436572."
+  },
+  {
+   "evidence_id": "sms_1626",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 240.0,
+   "amount_kind": "debit",
+   "date": "2020-06-09",
+   "nominee": null,
+   "quote": "Rs.240.00 debited from A/c XX8812 on 09-06-20 to VPA medplus.jayanagar@ybl. UPI Ref 417516936790."
+  },
+  {
+   "evidence_id": "sms_1637",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 40.0,
+   "amount_kind": "debit",
+   "date": "2020-06-26",
+   "nominee": null,
+   "quote": "Rs.40.00 debited from A/c XX8812 on 26-06-20 to VPA pharmacy.apollo@ybl. UPI Ref 683482989002."
+  },
+  {
+   "evidence_id": "sms_1648",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 760.0,
+   "amount_kind": "debit",
+   "date": "2020-07-18",
+   "nominee": null,
+   "quote": "Rs.760.00 debited from A/c XX8812 on 18-07-20 to VPA bescom.pay@ybl. UPI Ref 613431605339."
+  }
+ ]
+}

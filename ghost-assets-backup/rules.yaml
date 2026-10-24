@@ -1,0 +1,70 @@
+# Claim rules. First matching rule wins. Read by rules.py.
+# Sources: RBI (Settlement of Claims in respect of Deceased Customers of Banks) Directions, 2025;
+# RBI inoperative-account rules (2 years no customer transactions = inoperative; 10 years = transferred to DEA Fund);
+# Companies Act: dividends unclaimed 7 consecutive years -> shares transferred to IEPF.
+
+status:
+  - if: {asset_type: [savings_account, fixed_deposit], years_inactive_gte: 10}
+    then: transferred_dea
+  - if: {asset_type: [shares], years_inactive_gte: 7}
+    then: transferred_iepf
+  - if: {asset_type: [savings_account, fixed_deposit], years_inactive_gte: 2}
+    then: dormant
+  - else: active
+
+claim_paths:
+  - if: {asset_type: [savings_account, fixed_deposit], status: [transferred_dea]}
+    then:
+      path: dea_claim_via_bank
+      where: "Home branch of the bank (search UDGAM first for the reference number)"
+      docs: [claim_form, death_certificate, claimant_id, legal_heir_certificate_or_affidavit, udgam_reference]
+  - if: {asset_type: [savings_account, fixed_deposit], nominee: [yes]}
+    then:
+      path: nominee
+      where: "Home branch of the bank"
+      docs: [claim_form, death_certificate, nominee_id]
+      deadline: "Bank must settle within 15 calendar days of receiving all documents"
+  - if: {asset_type: [savings_account, fixed_deposit], nominee: [no], bank_total_lt: 1500000}
+    then:
+      path: simplified_no_nominee
+      where: "Home branch of the bank"
+      docs: [claim_form, death_certificate, claimant_id, legal_heir_certificate_or_affidavit, no_objection_other_heirs]
+      deadline: "Bank must settle within 15 calendar days of receiving all documents"
+  - if: {asset_type: [savings_account, fixed_deposit], nominee: [no]}
+    then:
+      path: standard_succession
+      where: "Home branch of the bank"
+      docs: [claim_form, death_certificate, claimant_id, succession_certificate_or_probate]
+  - if: {asset_type: [savings_account, fixed_deposit], nominee: [unknown]}
+    then:
+      path: needs_nominee_answer
+      where: "Ask the family whether a nominee was registered"
+      docs: []
+  - if: {asset_type: [life_insurance]}
+    then:
+      path: insurance_death_claim
+      where: "Insurer's claims desk"
+      docs: [claim_form, death_certificate, policy_document_or_number, claimant_id, claimant_bank_proof]
+  - if: {asset_type: [shares], status: [transferred_iepf]}
+    then:
+      path: iepf_refund
+      where: "IEPF Authority (online form IEPF-5), verified by the company"
+      docs: [iepf_5_form, death_certificate, claimant_id, transmission_documents, original_share_details]
+  - if: {asset_type: [mutual_fund, shares]}
+    then:
+      path: transmission
+      where: "Fund house / registrar, or depository participant"
+      docs: [transmission_request_form, death_certificate, claimant_kyc, claimant_bank_proof]
+  - if: {asset_type: [provident_fund]}
+    then:
+      path: epf_claim
+      where: "EPFO (online or employer)"
+      docs: [claim_form, death_certificate, claimant_id, claimant_bank_proof]
+  - else:
+      path: manual_review
+      where: "Review with a CA or lawyer"
+      docs: [death_certificate]
+
+simplified_threshold:
+  commercial_bank: 1500000
+  cooperative_bank: 500000

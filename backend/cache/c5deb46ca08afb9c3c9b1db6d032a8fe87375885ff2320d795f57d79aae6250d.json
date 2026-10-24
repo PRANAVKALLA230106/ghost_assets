@@ -1,0 +1,59 @@
+{
+ "clues": [
+  {
+   "evidence_id": "email_059",
+   "institution_raw": "Kaveri Flexi Cap Fund - Growth",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": 260000,
+   "amount_kind": "market_value",
+   "date": "2025-12-31",
+   "nominee": "not registered",
+   "quote": "Kaveri Flexi Cap Fund - Growth | Folio XXXXXX3312 | Units 1,624.552 | NAV 160.05 | Market Value Rs 2,60,000.00"
+  },
+  {
+   "evidence_id": "ais_01",
+   "institution_raw": "STATE BANK OF INDIA (A/C XX8812)",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 3100,
+   "amount_kind": "interest",
+   "date": null,
+   "nominee": "not registered",
+   "quote": "Interest from savings bank | STATE BANK OF INDIA (A/C XX8812) | 3,100.00"
+  },
+  {
+   "evidence_id": "ais_02",
+   "institution_raw": "CANARA BANK",
+   "asset_type": "fixed_deposit",
+   "identifier": null,
+   "amount": 18200,
+   "amount_kind": "interest",
+   "date": null,
+   "nominee": "not registered",
+   "quote": "Interest from deposit | CANARA BANK | 18,200.00"
+  },
+  {
+   "evidence_id": "ais_03",
+   "institution_raw": "KAVERI MUTUAL FUND",
+   "asset_type": "mutual_fund",
+   "identifier": null,
+   "amount": 60000,
+   "amount_kind": "unknown",
+   "date": null,
+   "nominee": "not registered",
+   "quote": "Purchase of mutual fund units | KAVERI MUTUAL FUND | 60,000.00"
+  },
+  {
+   "evidence_id": "ais_04",
+   "institution_raw": "STATE BANK OF INDIA (PENSION)",
+   "asset_type": "provident_fund",
+   "identifier": null,
+   "amount": 390000,
+   "amount_kind": "unknown",
+   "date": null,
+   "nominee": "not registered",
+   "quote": "Pension | STATE BANK OF INDIA (PENSION) | 3,90,000.00"
+  }
+ ]
+}

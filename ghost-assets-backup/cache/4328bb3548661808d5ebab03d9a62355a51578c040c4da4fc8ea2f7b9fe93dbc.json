@@ -1,0 +1,26 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_2415",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXX3312",
+   "amount": "5000",
+   "amount_kind": "premium",
+   "date": "2023-10-05",
+   "nominee": "not registered",
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-10-23 for SIP KAVERI MF Folio XXXXXX3312 -SBI"
+  },
+  {
+   "evidence_id": "sms_2444",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXX3312",
+   "amount": "5000",
+   "amount_kind": "premium",
+   "date": "2023-11-05",
+   "nominee": "not registered",
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-11-23 for SIP KAVERI MF Folio XXXXXX3312 -SBI"
+  }
+ ]
+}

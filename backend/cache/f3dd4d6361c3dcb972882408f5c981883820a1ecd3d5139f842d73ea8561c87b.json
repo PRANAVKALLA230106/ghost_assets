@@ -1,0 +1,169 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_2153",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 60.0,
+   "amount_kind": "debit",
+   "date": "2022-10-23",
+   "nominee": null,
+   "quote": "Rs.60.00 debited from A/c XX8812 on 23-10-22"
+  },
+  {
+   "evidence_id": "sms_2162",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 480.0,
+   "amount_kind": "debit",
+   "date": "2022-11-09",
+   "nominee": null,
+   "quote": "Rs.480.00 debited from A/c XX8812 on 09-11-22"
+  },
+  {
+   "evidence_id": "sms_2193",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 1840.0,
+   "amount_kind": "debit",
+   "date": "2022-12-26",
+   "nominee": null,
+   "quote": "Rs.1,840.00 debited from A/c XX8812 on 26-12-22"
+  },
+  {
+   "evidence_id": "sms_2196",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 350.0,
+   "amount_kind": "debit",
+   "date": "2022-12-28",
+   "nominee": null,
+   "quote": "Rs.350.00 debited from A/c XX8812 on 28-12-22"
+  },
+  {
+   "evidence_id": "sms_2235",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 2300.0,
+   "amount_kind": "debit",
+   "date": "2023-02-21",
+   "nominee": null,
+   "quote": "Rs.2,300.00 debited from A/c XX8812 on 21-02-23"
+  },
+  {
+   "evidence_id": "sms_2246",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 32500.0,
+   "amount_kind": "credit",
+   "date": "2023-03-01",
+   "nominee": null,
+   "quote": "Your a/c no. XX8812 is credited by Rs32,500.00 on 01-03-23 (PENSION CR)"
+  },
+  {
+   "evidence_id": "sms_2249",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 5000.0,
+   "amount_kind": "debit",
+   "date": "2023-03-05",
+   "nominee": null,
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-03-23 for SIP KAVERI MF Folio XXXXXX3312"
+  },
+  {
+   "evidence_id": "sms_2249",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": 5000.0,
+   "amount_kind": "sip_instalment",
+   "date": "2023-03-05",
+   "nominee": null,
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-03-23 for SIP KAVERI MF Folio XXXXXX3312"
+  },
+  {
+   "evidence_id": "sms_2250",
+   "institution_raw": "VM-KAVRMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": 5000.0,
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.5,000.00 in Kaveri Flexi Cap Fund - Growth, Folio XXXXXX3312 is processed"
+  },
+  {
+   "evidence_id": "sms_2266",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 480.0,
+   "amount_kind": "debit",
+   "date": "2023-03-23",
+   "nominee": null,
+   "quote": "Rs.480.00 debited from A/c XX8812 on 23-03-23 to VPA pharmacy.apollo@ybl"
+  },
+  {
+   "evidence_id": "sms_2267",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 350.0,
+   "amount_kind": "debit",
+   "date": "2023-03-23",
+   "nominee": null,
+   "quote": "Rs.350.00 debited from A/c XX8812 on 23-03-23 to VPA kirana.manju@ybl"
+  },
+  {
+   "evidence_id": "sms_2269",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 1200.0,
+   "amount_kind": "debit",
+   "date": "2023-03-27",
+   "nominee": null,
+   "quote": "Rs.1,200.00 debited from A/c XX8812 on 27-03-23 to VPA kirana.manju@ybl"
+  },
+  {
+   "evidence_id": "sms_2273",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 32500.0,
+   "amount_kind": "credit",
+   "date": "2023-04-01",
+   "nominee": null,
+   "quote": "your A/c XX8812 is credited by Rs.32,500.00 on 01-04-23 by PENSION"
+  },
+  {
+   "evidence_id": "sms_2275",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": 5000.0,
+   "amount_kind": "debit",
+   "date": "2023-04-05",
+   "nominee": null,
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-04-23 for SIP KAVERI MF Folio XXXXXX3312"
+  },
+  {
+   "evidence_id": "sms_2275",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": 5000.0,
+   "amount_kind": "sip_instalment",
+   "date": "2023-04-05",
+   "nominee": null,
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-04-23 for SIP KAVERI MF Folio XXXXXX3312"
+  }
+ ]
+}

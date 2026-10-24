@@ -1,0 +1,26 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0585",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "11200",
+   "amount_kind": "debit",
+   "date": "2021-07-09",
+   "nominee": "not registered",
+   "quote": "Rs.11,200.00 debited from A/c XX2290 on 09-07-21 towards LIC PREMIUM Policy XXXXX8841 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0584",
+   "institution_raw": "VM-LICIND",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX8841",
+   "amount": "11200",
+   "amount_kind": "premium",
+   "date": "2021-07-20",
+   "nominee": "not registered",
+   "quote": "LIC: Premium of Rs.11,200 for Policy No. XXXXX8841 is due on 20/07/2021. Pay online. Ignore if paid."
+  }
+ ]
+}

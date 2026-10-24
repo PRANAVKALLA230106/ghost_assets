@@ -1,0 +1,147 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_2367",
+   "institution_raw": "AD-SURKSH",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX0903",
+   "amount": "12450",
+   "amount_kind": "premium",
+   "date": "2023-09-05",
+   "nominee": null,
+   "quote": "premium of Rs 12,450.00 for policy XXXXX0903 (Suraksha Smart Protect) is due on 05-09-2023"
+  },
+  {
+   "evidence_id": "sms_2367",
+   "institution_raw": "AD-SURKSH",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "12450",
+   "amount_kind": "debit",
+   "date": "2023-09-05",
+   "nominee": null,
+   "quote": "premium of Rs 12,450.00 for policy XXXXX0903 (Suraksha Smart Protect) is due on 05-09-2023"
+  },
+  {
+   "evidence_id": "sms_2376",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "32500",
+   "amount_kind": "credit",
+   "date": "2023-09-01",
+   "nominee": null,
+   "quote": "your A/c XX8812 is credited by Rs.32,500.00 on 01-09-23 by PENSION"
+  },
+  {
+   "evidence_id": "sms_2384",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "5000",
+   "amount_kind": "debit",
+   "date": "2023-09-05",
+   "nominee": null,
+   "quote": "Rs 5000 debited from A/c XX8812 on 05-09-23 for SIP KAVERI MF Folio XXXXXX3312"
+  },
+  {
+   "evidence_id": "sms_2384",
+   "institution_raw": "AD-SBIINB",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": "5000",
+   "amount_kind": "sip_instalment",
+   "date": "2023-09-05",
+   "nominee": null,
+   "quote": "for SIP KAVERI MF Folio XXXXXX3312"
+  },
+  {
+   "evidence_id": "sms_2385",
+   "institution_raw": "VM-KAVRMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX3312",
+   "amount": "5000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.5,000.00 in Kaveri Flexi Cap Fund - Growth, Folio XXXXXX3312 is processed"
+  },
+  {
+   "evidence_id": "sms_2386",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "12450",
+   "amount_kind": "debit",
+   "date": "2023-09-05",
+   "nominee": null,
+   "quote": "INR 12450.00 debited from A/c XX8812 on 05-09-23 towards SURAKSHA LIFE premium policy XXXXX0903"
+  },
+  {
+   "evidence_id": "sms_2386",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX0903",
+   "amount": "12450",
+   "amount_kind": "premium",
+   "date": "2023-09-05",
+   "nominee": null,
+   "quote": "INR 12450.00 debited from A/c XX8812 on 05-09-23 towards SURAKSHA LIFE premium policy XXXXX0903"
+  },
+  {
+   "evidence_id": "sms_2389",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "480",
+   "amount_kind": "debit",
+   "date": "2023-09-08",
+   "nominee": null,
+   "quote": "Rs.480.00 debited from A/c XX8812 on 08-09-23 to VPA pharmacy.apollo@ybl"
+  },
+  {
+   "evidence_id": "sms_2395",
+   "institution_raw": "JD-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "120",
+   "amount_kind": "debit",
+   "date": "2023-09-15",
+   "nominee": null,
+   "quote": "Rs.120.00 debited from A/c XX8812 on 15-09-23 to VPA kirana.manju@ybl"
+  },
+  {
+   "evidence_id": "sms_2396",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "1200",
+   "amount_kind": "debit",
+   "date": "2023-09-16",
+   "nominee": null,
+   "quote": "Rs.1,200.00 debited from A/c XX8812 on 16-09-23 to VPA milk.nandini@ybl"
+  },
+  {
+   "evidence_id": "sms_2404",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "1200",
+   "amount_kind": "debit",
+   "date": "2023-09-23",
+   "nominee": null,
+   "quote": "Rs.1,200.00 debited from A/c XX8812 on 23-09-23 to VPA chaiwala@ybl"
+  },
+  {
+   "evidence_id": "sms_2410",
+   "institution_raw": "VM-SBIINB",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": "32500",
+   "amount_kind": "credit",
+   "date": "2023-10-01",
+   "nominee": null,
+   "quote": "your A/c XX8812 is credited by Rs.32,500.00 on 01-10-23 by PENSION"
+  }
+ ]
+}

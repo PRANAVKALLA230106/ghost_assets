@@ -1,0 +1,29 @@
+{
+ "text": "",
+ "tool_call": {
+  "id": "fc_711f13a1-856e-44f6-b5c0-9b88edc5084b",
+  "name": "ask_family",
+  "args": {
+   "asset_id": "as_02",
+   "options": [
+    "Yes, nominee is Ramesh Kumar's wife, Mrs. Sita Kumar",
+    "No, no nominee was designated"
+   ],
+   "question": "Does the fixed deposit in Canara Bank (ID XX4521) have a nominee? If yes, who is it?"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_711f13a1-856e-44f6-b5c0-9b88edc5084b",
+    "type": "function",
+    "function": {
+     "name": "ask_family",
+     "arguments": "{\"asset_id\":\"as_02\",\"options\":[\"Yes, nominee is Ramesh Kumar's wife, Mrs. Sita Kumar\",\"No, no nominee was designated\"],\"question\":\"Does the fixed deposit in Canara Bank (ID XX4521) have a nominee? If yes, who is it?\"}"
+    }
+   }
+  ]
+ }
+}

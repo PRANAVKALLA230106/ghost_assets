@@ -1,0 +1,24 @@
+{
+ "text": "",
+ "tool_call": {
+  "id": "fc_2218c7a1-b0a1-4804-935a-b37ab30767a3",
+  "name": "extract_clues",
+  "args": {
+   "source": "all"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_2218c7a1-b0a1-4804-935a-b37ab30767a3",
+    "type": "function",
+    "function": {
+     "name": "extract_clues",
+     "arguments": "{\"source\":\"all\"}"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0230",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "2100.00",
+   "amount_kind": "credit",
+   "date": "2015-08-18",
+   "nominee": "not registered",
+   "quote": "Your A/c XX2290 is credited by Rs.2,100.00 on 18-08-15 - VEL TEXTILES LTD DIV. Avl Bal Rs.41,583.56 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0287",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "2100.00",
+   "amount_kind": "credit",
+   "date": "2016-08-18",
+   "nominee": "not registered",
+   "quote": "Your A/c XX2290 is credited by Rs.2,100.00 on 18-08-16 - VEL TEXTILES LTD DIV. Avl Bal Rs.69,758.68 -HDFC Bank"
+  }
+ ]
+}

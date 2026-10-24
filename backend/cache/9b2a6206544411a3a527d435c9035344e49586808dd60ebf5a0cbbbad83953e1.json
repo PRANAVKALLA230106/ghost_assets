@@ -1,0 +1,9 @@
+{
+ "text": "{\"name\": \"finish<|channel|>commentary\", \"arguments\": {\"summary\":\"All claim packs generated for assets as_01 to as_07. Next step: submit each pack to the respective institution with required documents. The heir should track each claim’s progress and follow up within 30 days of submission.\"}}",
+ "reasoning": "",
+ "tool_call": null,
+ "raw": {
+  "role": "assistant",
+  "content": "{\"name\": \"finish<|channel|>commentary\", \"arguments\": {\"summary\":\"All claim packs generated for assets as_01 to as_07. Next step: submit each pack to the respective institution with required documents. The heir should track each claim’s progress and follow up within 30 days of submission.\"}}"
+ }
+}

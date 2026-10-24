@@ -1,0 +1,25 @@
+{
+ "text": "",
+ "reasoning": "",
+ "tool_call": {
+  "id": "fc_c90bf8d9-1adc-436b-abd5-841c7153d225",
+  "name": "finish",
+  "args": {
+   "summary": "We’ve …"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_c90bf8d9-1adc-436b-abd5-841c7153d225",
+    "type": "function",
+    "function": {
+     "name": "finish",
+     "arguments": "{\"summary\":\"We’ve …\"}"
+    }
+   }
+  ]
+ }
+}

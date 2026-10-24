@@ -1,0 +1,31 @@
+{
+ "text": "",
+ "reasoning": "We need ask family for nominee info for as_02, as_04, as_05.",
+ "tool_call": {
+  "id": "fc_7eddc670-5a61-4ce2-8331-b3300ee5bd69",
+  "name": "ask_family",
+  "args": {
+   "asset_id": "as_02",
+   "options": [
+    "Yes",
+    "No",
+    "Unknown"
+   ],
+   "question": "Is there a nominee named for the fixed deposit account XX4521 at Canara Bank?"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_7eddc670-5a61-4ce2-8331-b3300ee5bd69",
+    "type": "function",
+    "function": {
+     "name": "ask_family",
+     "arguments": "{\"asset_id\":\"as_02\",\"options\":[\"Yes\",\"No\",\"Unknown\"],\"question\":\"Is there a nominee named for the fixed deposit account XX4521 at Canara Bank?\"}"
+    }
+   }
+  ]
+ }
+}

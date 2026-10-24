@@ -1,0 +1,22 @@
+{
+ "text": "",
+ "tool_call": {
+  "id": "fc_e7f980a2-5c37-4f3f-b93c-dd29027359b9",
+  "name": "build_asset_map",
+  "args": {}
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_e7f980a2-5c37-4f3f-b93c-dd29027359b9",
+    "type": "function",
+    "function": {
+     "name": "build_asset_map",
+     "arguments": "{}"
+    }
+   }
+  ]
+ }
+}

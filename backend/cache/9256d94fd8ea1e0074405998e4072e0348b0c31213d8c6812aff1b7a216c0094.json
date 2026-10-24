@@ -1,0 +1,9 @@
+{
+ "text": "{\"name\":\"finish\",\"arguments\":{\"summary\":\"All assets have been identified, gaps checked, nominee status confirmed, claim rules applied, and claim packs generated for every asset. The heir now has the necessary documents to file claims for the SBI savings account, Canara Bank FD, LIC policies, Kaveri Mutual Fund, Suraksha Life Insurance, Ganga Tech shares via IEPF, and the transferred SBI account via DEA. All claim packs are ready for submission.\"}}",
+ "reasoning": "",
+ "tool_call": null,
+ "raw": {
+  "role": "assistant",
+  "content": "{\"name\":\"finish\",\"arguments\":{\"summary\":\"All assets have been identified, gaps checked, nominee status confirmed, claim rules applied, and claim packs generated for every asset. The heir now has the necessary documents to file claims for the SBI savings account, Canara Bank FD, LIC policies, Kaveri Mutual Fund, Suraksha Life Insurance, Ganga Tech shares via IEPF, and the transferred SBI account via DEA. All claim packs are ready for submission.\"}}"
+ }
+}

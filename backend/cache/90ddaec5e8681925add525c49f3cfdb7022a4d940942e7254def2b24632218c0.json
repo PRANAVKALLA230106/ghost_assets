@@ -1,0 +1,9 @@
+{
+ "text": "{\"name\": \"finish<|channel|>commentary\", \"arguments\": {\"summary\":\"All assets have been identified, gaps investigated, claim paths applied, and comprehensive claim packs generated for each asset. The heir can now submit the packs to the respective institutions to recover the full value of Ramesh Kumar’s financial holdings.\"}}",
+ "reasoning": "",
+ "tool_call": null,
+ "raw": {
+  "role": "assistant",
+  "content": "{\"name\": \"finish<|channel|>commentary\", \"arguments\": {\"summary\":\"All assets have been identified, gaps investigated, claim paths applied, and comprehensive claim packs generated for each asset. The heir can now submit the packs to the respective institutions to recover the full value of Ramesh Kumar’s financial holdings.\"}}"
+ }
+}

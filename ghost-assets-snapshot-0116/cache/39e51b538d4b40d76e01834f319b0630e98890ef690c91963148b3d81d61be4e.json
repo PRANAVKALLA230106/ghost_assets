@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "photo_passbook",
+   "institution_raw": "STATE BANK OF INDIA",
+   "asset_type": "savings_account",
+   "identifier": "XXXXXXX3307",
+   "amount": "72000.00",
+   "amount_kind": "balance",
+   "date": "2013-11-14",
+   "nominee": "not registered",
+   "quote": "BALANCE C/F 72,000.00"
+  }
+ ]
+}

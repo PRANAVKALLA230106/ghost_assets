@@ -1,0 +1,30 @@
+{
+ "text": "",
+ "reasoning": "Need to check other portals: shares Ganga Tech maybe in IEPF. Also need nominee info for as_02, as_04, as_05. Ask family. Also apply claim rules and generate pack.",
+ "tool_call": {
+  "id": "fc_26de3a39-26b5-4a45-8826-e0ad030491b3",
+  "name": "ask_family",
+  "args": {
+   "asset_id": "as_02",
+   "options": [
+    "Yes",
+    "No"
+   ],
+   "question": "Does the fixed deposit at Canara Bank have a nominee?"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_26de3a39-26b5-4a45-8826-e0ad030491b3",
+    "type": "function",
+    "function": {
+     "name": "ask_family",
+     "arguments": "{\"asset_id\":\"as_02\",\"options\":[\"Yes\",\"No\"],\"question\":\"Does the fixed deposit at Canara Bank have a nominee?\"}"
+    }
+   }
+  ]
+ }
+}

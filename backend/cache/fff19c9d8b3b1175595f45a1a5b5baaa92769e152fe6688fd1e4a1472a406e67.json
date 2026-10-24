@@ -1,0 +1,25 @@
+{
+ "text": "",
+ "reasoning": "We have all info. Now generate claim pack.",
+ "tool_call": {
+  "id": "fc_b6f3e0dd-3d11-4d73-aa1e-d6458f776b06",
+  "name": "generate_claim_pack",
+  "args": {
+   "asset_id": "all"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_b6f3e0dd-3d11-4d73-aa1e-d6458f776b06",
+    "type": "function",
+    "function": {
+     "name": "generate_claim_pack",
+     "arguments": "{\"asset_id\":\"all\"}"
+    }
+   }
+  ]
+ }
+}

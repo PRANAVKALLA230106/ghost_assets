@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "email_014",
+   "institution_raw": "alerts@sbi.example",
+   "asset_type": "savings_account",
+   "identifier": "XX8812",
+   "amount": null,
+   "amount_kind": null,
+   "date": null,
+   "nominee": "SUNITA KUMAR (Wife)",
+   "quote": "As requested, nomination has been registered for your savings account XX8812.\nNominee: SUNITA KUMAR (Wife)"
+  }
+ ]
+}

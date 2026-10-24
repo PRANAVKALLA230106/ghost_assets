@@ -1,0 +1,70 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0447",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": null,
+   "amount_kind": null,
+   "date": null,
+   "nominee": "RAJAGOPAL IYER",
+   "quote": "nomination for your savings account XX2290 is registered. Nominee: RAJAGOPAL IYER (Husband)."
+  },
+  {
+   "evidence_id": "sms_0464",
+   "institution_raw": "VM-LICIND",
+   "asset_type": "life_insurance",
+   "identifier": "Policy No. XXXXX8841",
+   "amount": 11200,
+   "amount_kind": "premium",
+   "date": "2019-07-20",
+   "nominee": null,
+   "quote": "Premium of Rs.11,200 for Policy No. XXXXX8841 is due on 20/07/2019."
+  },
+  {
+   "evidence_id": "sms_0466",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": 11200,
+   "amount_kind": "debit",
+   "date": "2019-07-12",
+   "nominee": null,
+   "quote": "Rs.11,200.00 debited from A/c XX2290 on 12-07-19 towards LIC PREMIUM Policy XXXXX8841 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0466",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "life_insurance",
+   "identifier": "Policy No. XXXXX8841",
+   "amount": 11200,
+   "amount_kind": "premium",
+   "date": "2019-07-12",
+   "nominee": null,
+   "quote": "Rs.11,200.00 debited from A/c XX2290 on 12-07-19 towards LIC PREMIUM Policy XXXXX8841 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0495",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": 880,
+   "amount_kind": "debit",
+   "date": "2020-02-22",
+   "nominee": null,
+   "quote": "Rs.880.00 debited from A/c XX2290 on 22-02-20 to VPA auto.suresh@ybl. UPI Ref 766079602283. -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0496",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": 1500,
+   "amount_kind": "debit",
+   "date": "2020-02-28",
+   "nominee": null,
+   "quote": "Rs.1,500.00 debited from A/c XX2290 on 28-02-20 to VPA metro@ybl. UPI Ref 106908689591. -HDFC Bank"
+  }
+ ]
+}

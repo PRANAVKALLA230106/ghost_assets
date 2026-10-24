@@ -1,0 +1,24 @@
+{
+ "text": "",
+ "tool_call": {
+  "id": "fc_246ae54c-34d1-4d69-a123-6af59bc0e101",
+  "name": "search_evidence",
+  "args": {
+   "query": "Ramesh Kumar SBI savings account nominee"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_246ae54c-34d1-4d69-a123-6af59bc0e101",
+    "type": "function",
+    "function": {
+     "name": "search_evidence",
+     "arguments": "{\"query\":\"Ramesh Kumar SBI savings account nominee\"}"
+    }
+   }
+  ]
+ }
+}
