@@ -1,0 +1,9 @@
+{
+ "text": "{\"name\": \"finish<|channel|>commentary\", \"arguments\": {\"summary\":\"All assets identified, gaps checked, claim rules applied, and claim packs generated for each asset. The heir now has the necessary documents to proceed with claims for the SBI savings account, Canara Bank FD, LIC policies, Kaveri Mutual Fund, Ganga Tech shares (IEPF refund), and the transferred SBI account (DEA claim).\"}}",
+ "reasoning": "",
+ "tool_call": null,
+ "raw": {
+  "role": "assistant",
+  "content": "{\"name\": \"finish<|channel|>commentary\", \"arguments\": {\"summary\":\"All assets identified, gaps checked, claim rules applied, and claim packs generated for each asset. The heir now has the necessary documents to proceed with claims for the SBI savings account, Canara Bank FD, LIC policies, Kaveri Mutual Fund, Ganga Tech shares (IEPF refund), and the transferred SBI account (DEA claim).\"}}"
+ }
+}

@@ -1,0 +1,158 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0782",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.6,000.00 in Aditya Flexi Fund - Growth, Folio XXXXXX7701 is processed."
+  },
+  {
+   "evidence_id": "sms_0782",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "6000",
+   "amount_kind": "debit",
+   "date": "2023-11-26",
+   "nominee": null,
+   "quote": "Rs.320.00 debited from A/c XX2290 on 26-11-23 to VPA bigbasket@ybl."
+  },
+  {
+   "evidence_id": "sms_0786",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "320",
+   "amount_kind": "debit",
+   "date": "2023-11-26",
+   "nominee": null,
+   "quote": "Rs.320.00 debited from A/c XX2290 on 26-11-23 to VPA bigbasket@ybl."
+  },
+  {
+   "evidence_id": "sms_0787",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "28000",
+   "amount_kind": "credit",
+   "date": "2023-12-01",
+   "nominee": null,
+   "quote": "your A/c XX2290 is credited by Rs.28,000.00 on 01-12-23 by PENSION."
+  },
+  {
+   "evidence_id": "sms_0790",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-12-23 for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0790",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "6000",
+   "amount_kind": "debit",
+   "date": "2023-12-07",
+   "nominee": null,
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-12-23 for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0791",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.6,000.00 in Aditya Flexi Fund - Growth, Folio XXXXXX7701 is processed."
+  },
+  {
+   "evidence_id": "sms_0791",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "6000",
+   "amount_kind": "debit",
+   "date": "2023-12-07",
+   "nominee": null,
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-12-23 for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0793",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "28000",
+   "amount_kind": "credit",
+   "date": "2024-01-01",
+   "nominee": null,
+   "quote": "your A/c XX2290 is credited by Rs.28,000.00 on 01-01-24 by PENSION."
+  },
+  {
+   "evidence_id": "sms_0795",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-01-24 for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0795",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "6000",
+   "amount_kind": "debit",
+   "date": "2024-01-07",
+   "nominee": null,
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-01-24 for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0796",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.6,000.00 in Aditya Flexi Fund - Growth, Folio XXXXXX7701 is processed."
+  },
+  {
+   "evidence_id": "sms_0796",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "6000",
+   "amount_kind": "debit",
+   "date": "2024-01-07",
+   "nominee": null,
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-01-24 for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0802",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "1500",
+   "amount_kind": "debit",
+   "date": "2024-01-27",
+   "nominee": null,
+   "quote": "Rs.1,500.00 debited from A/c XX2290 on 27-01-24 to VPA metro@ybl."
+  }
+ ]
+}

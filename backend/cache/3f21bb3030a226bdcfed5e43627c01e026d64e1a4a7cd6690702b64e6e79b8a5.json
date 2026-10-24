@@ -1,0 +1,48 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0501",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "1500",
+   "amount_kind": "debit",
+   "date": "2020-03-25",
+   "nominee": null,
+   "quote": "Rs.1,500.00 debited from A/c XX2290 on 25-03-20"
+  },
+  {
+   "evidence_id": "sms_0502",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "90",
+   "amount_kind": "debit",
+   "date": "2020-03-26",
+   "nominee": null,
+   "quote": "Rs.90.00 debited from A/c XX2290 on 26-03-20"
+  },
+  {
+   "evidence_id": "sms_0504",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "45",
+   "amount_kind": "debit",
+   "date": "2020-03-31",
+   "nominee": null,
+   "quote": "Rs.45.00 debited from A/c XX2290 on 31-03-20"
+  },
+  {
+   "evidence_id": "sms_0522",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "90",
+   "amount_kind": "debit",
+   "date": "2020-06-25",
+   "nominee": null,
+   "quote": "Rs.90.00 debited from A/c XX2290 on 25-06-20"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0308",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "other",
+   "identifier": "XX6034",
+   "amount": "1800.00",
+   "amount_kind": "credit",
+   "date": "2017-09-10",
+   "nominee": "not registered",
+   "quote": "INR 1,800.00 credited to A/c no. XX6034 on 10-09-17 - INDUS POLYMERS LTD FINAL DIV. Avl Bal INR 74,303.69 - Axis Bank"
+  }
+ ]
+}

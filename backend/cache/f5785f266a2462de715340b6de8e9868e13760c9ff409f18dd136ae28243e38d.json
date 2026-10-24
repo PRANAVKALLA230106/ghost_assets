@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0914",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.6,000.00 in Aditya Flexi Fund - Growth, Folio XXXXXX7701 is processed. Units: 61.243 @ NAV 97.97. -Aditya MF"
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0787",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "8000",
+   "amount_kind": "debit",
+   "date": "2024-07-10",
+   "nominee": "not registered",
+   "quote": "INR 8,000.00 debited from A/c no. XX6034 on 10-07-24 for SIP BANDHAN MF Folio XXXXXXX3390 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0787",
+   "institution_raw": "VM-BNDHMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXXX3390",
+   "amount": "8000",
+   "amount_kind": "sip_instalment",
+   "date": "2024-07-10",
+   "nominee": "not registered",
+   "quote": "SIP of Rs 8,000.00 in Bandhan Small Cap Fund - Direct Growth, Folio XXXXXXX3390 processed"
+  },
+  {
+   "evidence_id": "sms_0788",
+   "institution_raw": "VM-BNDHMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXXX3390",
+   "amount": "8000",
+   "amount_kind": "sip_instalment",
+   "date": "2024-07-10",
+   "nominee": "not registered",
+   "quote": "SIP of Rs 8,000.00 in Bandhan Small Cap Fund - Direct Growth, Folio XXXXXXX3390 processed"
+  },
+  {
+   "evidence_id": "sms_0789",
+   "institution_raw": "VM-EPFOHO",
+   "asset_type": "provident_fund",
+   "identifier": "UAN XXXXXXXX5521",
+   "amount": "14400",
+   "amount_kind": "premium",
+   "date": "2024-07",
+   "nominee": "not registered",
+   "quote": "contribution of Rs. 14,400 for 07/2024 received in your PF account linked to UAN XXXXXXXX5521"
+  },
+  {
+   "evidence_id": "sms_0789",
+   "institution_raw": "VM-EPFOHO",
+   "asset_type": "provident_fund",
+   "identifier": "UAN XXXXXXXX5521",
+   "amount": "750400",
+   "amount_kind": "balance",
+   "date": null,
+   "nominee": "not registered",
+   "quote": "Total PF balance Rs. 7,50,400"
+  },
+  {
+   "evidence_id": "sms_0791",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "60",
+   "amount_kind": "debit",
+   "date": "2024-07-21",
+   "nominee": "not registered",
+   "quote": "INR 60.00 debited from A/c no. XX6034 on 21-07-24 UPI/petrol.iocl@axl Ref 427078979289 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0792",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "120",
+   "amount_kind": "debit",
+   "date": "2024-07-22",
+   "nominee": "not registered",
+   "quote": "INR 120.00 debited from A/c no. XX6034 on 22-07-24 UPI/petrol.iocl@axl Ref 554108507089 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0793",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "112500",
+   "amount_kind": "credit",
+   "date": "2024-07-28",
+   "nominee": "not registered",
+   "quote": "INR 1,12,500.00 credited to A/c no. XX6034 on 28-07-24 by NEFT SALARY ORIONSOFT TECH. Avl Bal INR 1,52,477.50 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0795",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "249",
+   "amount_kind": "debit",
+   "date": "2024-07-29",
+   "nominee": "not registered",
+   "quote": "INR 249.00 debited from A/c no. XX6034 on 29-07-24 UPI/dmart@axl Ref 347611145814 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0797",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "2400",
+   "amount_kind": "debit",
+   "date": "2024-08-01",
+   "nominee": "not registered",
+   "quote": "INR 2,400.00 debited from A/c no. XX6034 on 01-08-24 UPI/uber@axl Ref 583603949692 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0800",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "8000",
+   "amount_kind": "debit",
+   "date": "2024-08-10",
+   "nominee": "not registered",
+   "quote": "INR 8,000.00 debited from A/c no. XX6034 on 10-08-24 for SIP BANDHAN MF Folio XXXXXXX3390 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0800",
+   "institution_raw": "VM-BNDHMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXXX3390",
+   "amount": "8000",
+   "amount_kind": "sip_instalment",
+   "date": "2024-08-10",
+   "nominee": "not registered",
+   "quote": "SIP of Rs 8,000.00 in Bandhan Small Cap Fund - Direct Growth, Folio XXXXXXX3390 processed"
+  },
+  {
+   "evidence_id": "sms_0801",
+   "institution_raw": "VM-BNDHMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXXX3390",
+   "amount": "8000",
+   "amount_kind": "sip_instalment",
+   "date": "2024-08-10",
+   "nominee": "not registered",
+   "quote": "SIP of Rs 8,000.00 in Bandhan Small Cap Fund - Direct Growth, Folio XXXXXXX3390 processed"
+  }
+ ]
+}

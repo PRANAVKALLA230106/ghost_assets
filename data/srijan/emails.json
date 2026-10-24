@@ -1,0 +1,212 @@
+[
+  {
+    "from": "investor.relations@induspolymers.example",
+    "date": "2014-08-20T10:00:00",
+    "subject": "Indus Polymers Ltd - Notice of 22nd AGM",
+    "body": "Dear Shareholder,\nNotice of the 22nd AGM of Indus Polymers Ltd on 26 Sep 2014.\nFolio No.: IP20774\nShareholder: SRIJAN MALHOTRA\nHolding: 600 equity shares of Rs 2 each.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@hindustantimes.example",
+    "date": "2016-08-08T22:41:49",
+    "subject": "Morning brief",
+    "body": "Top stories today.",
+    "attachment_text": ""
+  },
+  {
+    "from": "school@dpsrkp.example",
+    "date": "2016-11-22T01:17:15",
+    "subject": "PTM schedule",
+    "body": "Parent-teacher meeting on Saturday.",
+    "attachment_text": ""
+  },
+  {
+    "from": "school@dpsrkp.example",
+    "date": "2016-12-10T19:53:35",
+    "subject": "PTM schedule",
+    "body": "Parent-teacher meeting on Saturday.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@hindustantimes.example",
+    "date": "2017-06-11T03:31:18",
+    "subject": "Morning brief",
+    "body": "Top stories today.",
+    "attachment_text": ""
+  },
+  {
+    "from": "orders@shop.example",
+    "date": "2017-07-16T22:35:55",
+    "subject": "Order shipped",
+    "body": "Your order ships in 2 days.",
+    "attachment_text": ""
+  },
+  {
+    "from": "orders@shop.example",
+    "date": "2017-07-24T05:54:11",
+    "subject": "Order shipped",
+    "body": "Your order ships in 2 days.",
+    "attachment_text": ""
+  },
+  {
+    "from": "noreply@orionsoft.example",
+    "date": "2019-05-13T18:27:42",
+    "subject": "Town hall on Friday",
+    "body": "Join the all-hands at 4 PM.",
+    "attachment_text": ""
+  },
+  {
+    "from": "orders@shop.example",
+    "date": "2019-12-04T13:16:05",
+    "subject": "Order shipped",
+    "body": "Your order ships in 2 days.",
+    "attachment_text": ""
+  },
+  {
+    "from": "school@dpsrkp.example",
+    "date": "2020-03-09T21:10:52",
+    "subject": "PTM schedule",
+    "body": "Parent-teacher meeting on Saturday.",
+    "attachment_text": ""
+  },
+  {
+    "from": "noreply@orionsoft.example",
+    "date": "2020-05-16T21:47:09",
+    "subject": "Town hall on Friday",
+    "body": "Join the all-hands at 4 PM.",
+    "attachment_text": ""
+  },
+  {
+    "from": "orders@shop.example",
+    "date": "2020-10-12T04:30:22",
+    "subject": "Order shipped",
+    "body": "Your order ships in 2 days.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@hindustantimes.example",
+    "date": "2021-07-27T00:38:11",
+    "subject": "Morning brief",
+    "body": "Top stories today.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@hindustantimes.example",
+    "date": "2022-01-10T16:37:34",
+    "subject": "Morning brief",
+    "body": "Top stories today.",
+    "attachment_text": ""
+  },
+  {
+    "from": "school@dpsrkp.example",
+    "date": "2022-05-12T05:27:28",
+    "subject": "PTM schedule",
+    "body": "Parent-teacher meeting on Saturday.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@hindustantimes.example",
+    "date": "2022-05-12T10:51:28",
+    "subject": "Morning brief",
+    "body": "Top stories today.",
+    "attachment_text": ""
+  },
+  {
+    "from": "service@maxlifeinsurance.example",
+    "date": "2022-06-06T18:00:00",
+    "subject": "Your Max Life policy XXXXXX4472 is issued",
+    "body": "Dear Srijan Malhotra,\nPolicy No.: XXXXXX4472 (Max Life Smart Term Plan)\nSum Assured: Rs 25,00,000\nAnnual premium: Rs 21,600, due 5 June.",
+    "attachment_text": ""
+  },
+  {
+    "from": "school@dpsrkp.example",
+    "date": "2022-10-01T01:47:13",
+    "subject": "PTM schedule",
+    "body": "Parent-teacher meeting on Saturday.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@hindustantimes.example",
+    "date": "2023-09-23T10:16:37",
+    "subject": "Morning brief",
+    "body": "Top stories today.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@hindustantimes.example",
+    "date": "2023-09-24T05:28:33",
+    "subject": "Morning brief",
+    "body": "Top stories today.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@hindustantimes.example",
+    "date": "2023-11-13T13:09:31",
+    "subject": "Morning brief",
+    "body": "Top stories today.",
+    "attachment_text": ""
+  },
+  {
+    "from": "school@dpsrkp.example",
+    "date": "2024-03-11T17:59:07",
+    "subject": "PTM schedule",
+    "body": "Parent-teacher meeting on Saturday.",
+    "attachment_text": ""
+  },
+  {
+    "from": "school@dpsrkp.example",
+    "date": "2025-06-06T05:12:50",
+    "subject": "PTM schedule",
+    "body": "Parent-teacher meeting on Saturday.",
+    "attachment_text": ""
+  },
+  {
+    "from": "fd.advice@icicibank.example",
+    "date": "2025-07-05T09:00:00",
+    "subject": "FD XX8817 - renewal advice",
+    "body": "Dear Customer, the renewal advice for your fixed deposit ending 8817 is attached.",
+    "attachment_text": "ICICI BANK - FIXED DEPOSIT RENEWAL ADVICE\nFD A/c: XX8817\nDepositor: SRIJAN MALHOTRA\nRenewed on: 04-07-2025\nPrincipal: Rs 3,00,000.00\nMaturity date: 04-07-2026"
+  },
+  {
+    "from": "newsletter@hindustantimes.example",
+    "date": "2025-08-16T21:58:28",
+    "subject": "Morning brief",
+    "body": "Top stories today.",
+    "attachment_text": ""
+  },
+  {
+    "from": "orders@shop.example",
+    "date": "2025-09-22T16:31:27",
+    "subject": "Order shipped",
+    "body": "Your order ships in 2 days.",
+    "attachment_text": ""
+  },
+  {
+    "from": "noreply@orionsoft.example",
+    "date": "2026-02-23T14:11:07",
+    "subject": "Town hall on Friday",
+    "body": "Join the all-hands at 4 PM.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@hindustantimes.example",
+    "date": "2026-03-05T17:39:36",
+    "subject": "Morning brief",
+    "body": "Top stories today.",
+    "attachment_text": ""
+  },
+  {
+    "from": "statements@cas.example",
+    "date": "2026-03-08T07:00:00",
+    "subject": "Consolidated Account Statement - Feb 2026",
+    "body": "Dear Investor, your CAS for Feb 2026 is attached.",
+    "attachment_text": "CONSOLIDATED ACCOUNT STATEMENT - FEB 2026\nInvestor: SRIJAN MALHOTRA\nBandhan Small Cap Fund - Direct Growth | Folio XXXXXXX3390 | Market Value Rs 4,10,000.00"
+  },
+  {
+    "from": "newsletter@hindustantimes.example",
+    "date": "2026-03-09T00:10:27",
+    "subject": "Morning brief",
+    "body": "Top stories today.",
+    "attachment_text": ""
+  }
+]

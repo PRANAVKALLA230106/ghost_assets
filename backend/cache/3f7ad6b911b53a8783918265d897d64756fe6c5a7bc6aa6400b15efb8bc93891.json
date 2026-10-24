@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0585",
+   "institution_raw": "VM-ICICIB",
+   "asset_type": "fixed_deposit",
+   "identifier": "XX8817",
+   "amount": "275000",
+   "amount_kind": "principal",
+   "date": null,
+   "nominee": null,
+   "quote": "Fixed Deposit A/c XX8817 opened for Rs 2,75,000.00 for 3 years. -ICICI Bank"
+  }
+ ]
+}

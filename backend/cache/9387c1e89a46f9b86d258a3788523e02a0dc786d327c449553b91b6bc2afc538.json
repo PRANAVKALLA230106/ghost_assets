@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "photo_policy_bond",
+   "institution_raw": "LIC",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX8841",
+   "amount": "150000",
+   "amount_kind": "sum_assured",
+   "date": null,
+   "nominee": "RAJAGOPAL IYER (Husband)",
+   "quote": "Policy No. XXXXX8841\n\nLife Assured LAKSHMI IYER\n\nSum Assured Rs 1,50,000\n\nAnnual Premium Rs 11,200\n\nNominee RAJAGOPAL IYER (Husband)"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "text": "",
+ "reasoning": "Need to call build_asset_map with no args.",
+ "tool_call": {
+  "id": "fc_89a6d678-945d-45c9-bc6b-73c1b3127bfd",
+  "name": "build_asset_map",
+  "args": {}
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_89a6d678-945d-45c9-bc6b-73c1b3127bfd",
+    "type": "function",
+    "function": {
+     "name": "build_asset_map",
+     "arguments": "{}"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "text": "",
+ "reasoning": "Need apply_claim_rules all, generate_claim_pack all, finish.",
+ "tool_call": {
+  "id": "fc_ebeb150b-eaeb-43f3-a65d-99de35c7ed49",
+  "name": "apply_claim_rules",
+  "args": {
+   "asset_id": "all"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_ebeb150b-eaeb-43f3-a65d-99de35c7ed49",
+    "type": "function",
+    "function": {
+     "name": "apply_claim_rules",
+     "arguments": "{\"asset_id\":\"all\"}"
+    }
+   }
+  ]
+ }
+}

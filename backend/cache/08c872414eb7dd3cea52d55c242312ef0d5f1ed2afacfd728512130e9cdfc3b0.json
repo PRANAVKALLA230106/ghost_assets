@@ -1,0 +1,191 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0875",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "105874.18",
+   "amount_kind": "balance",
+   "date": "2024-10-01",
+   "nominee": null,
+   "quote": "Avl Bal Rs.1,05,874.18 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0875",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "28000.00",
+   "amount_kind": "credit",
+   "date": "2024-10-01",
+   "nominee": null,
+   "quote": "credited by Rs.28,000.00 on 01-10-24 by PENSION"
+  },
+  {
+   "evidence_id": "sms_0876",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "18000.00",
+   "amount_kind": "debit",
+   "date": "2024-10-01",
+   "nominee": null,
+   "quote": "debited from A/c XX2290 on 01-10-24 towards STAR HEALTH premium policy XXXXX3360"
+  },
+  {
+   "evidence_id": "sms_0876",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX3360",
+   "amount": "18000.00",
+   "amount_kind": "premium",
+   "date": "2024-10-01",
+   "nominee": null,
+   "quote": "towards STAR HEALTH premium policy XXXXX3360"
+  },
+  {
+   "evidence_id": "sms_0878",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "6000.00",
+   "amount_kind": "debit",
+   "date": "2024-10-07",
+   "nominee": null,
+   "quote": "debited from A/c XX2290 on 07-10-24 for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0878",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000.00",
+   "amount_kind": "sip_instalment",
+   "date": "2024-10-07",
+   "nominee": null,
+   "quote": "for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0879",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000.00",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.6,000.00 in Aditya Flexi Fund - Growth, Folio XXXXXX7701 is processed"
+  },
+  {
+   "evidence_id": "sms_0882",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "111623.26",
+   "amount_kind": "balance",
+   "date": "2024-11-01",
+   "nominee": null,
+   "quote": "Avl Bal Rs.1,11,623.26 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0882",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "28000.00",
+   "amount_kind": "credit",
+   "date": "2024-11-01",
+   "nominee": null,
+   "quote": "credited by Rs.28,000.00 on 01-11-24 by PENSION"
+  },
+  {
+   "evidence_id": "sms_0884",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "6000.00",
+   "amount_kind": "debit",
+   "date": "2024-11-07",
+   "nominee": null,
+   "quote": "debited from A/c XX2290 on 07-11-24 for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0884",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000.00",
+   "amount_kind": "sip_instalment",
+   "date": "2024-11-07",
+   "nominee": null,
+   "quote": "for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0885",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000.00",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.6,000.00 in Aditya Flexi Fund - Growth, Folio XXXXXX7701 is processed"
+  },
+  {
+   "evidence_id": "sms_0889",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "112142.01",
+   "amount_kind": "balance",
+   "date": "2024-12-01",
+   "nominee": null,
+   "quote": "Avl Bal Rs.1,12,142.01 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0889",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "28000.00",
+   "amount_kind": "credit",
+   "date": "2024-12-01",
+   "nominee": null,
+   "quote": "credited by Rs.28,000.00 on 01-12-24 by PENSION"
+  },
+  {
+   "evidence_id": "sms_0890",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "6000.00",
+   "amount_kind": "debit",
+   "date": "2024-12-07",
+   "nominee": null,
+   "quote": "debited from A/c XX2290 on 07-12-24 for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0890",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000.00",
+   "amount_kind": "sip_instalment",
+   "date": "2024-12-07",
+   "nominee": null,
+   "quote": "for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0891",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000.00",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.6,000.00 in Aditya Flexi Fund - Growth, Folio XXXXXX7701 is processed"
+  }
+ ]
+}

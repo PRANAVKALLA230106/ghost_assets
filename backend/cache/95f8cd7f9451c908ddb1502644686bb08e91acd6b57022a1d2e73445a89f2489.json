@@ -1,0 +1,48 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0628",
+   "institution_raw": "VM-BNDHMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXXX3390",
+   "amount": "8000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "SIP of Rs 8,000.00 in Bandhan Small Cap Fund - Direct Growth, Folio XXXXXXX3390 processed. Units 149.282 @ NAV 53.59. -Bandhan MF"
+  },
+  {
+   "evidence_id": "sms_0631",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "2400",
+   "amount_kind": "debit",
+   "date": "2023-03-19",
+   "nominee": null,
+   "quote": "INR 2,400.00 debited from A/c no. XX6034 on 19-03-23 UPI/zomato@axl Ref 877853741904 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0636",
+   "institution_raw": "VM-BNDHMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXXX3390",
+   "amount": "8000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "SIP of Rs 8,000.00 in Bandhan Small Cap Fund - Direct Growth, Folio XXXXXXX3390 processed. Units 158.197 @ NAV 50.57. -Bandhan MF"
+  },
+  {
+   "evidence_id": "sms_0640",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "2400",
+   "amount_kind": "debit",
+   "date": "2023-04-27",
+   "nominee": null,
+   "quote": "INR 2,400.00 debited from A/c no. XX6034 on 27-04-23 UPI/uber@axl Ref 736711923099 - Axis Bank"
+  }
+ ]
+}

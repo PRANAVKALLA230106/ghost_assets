@@ -1,0 +1,23 @@
+{
+ "text": "",
+ "reasoning": "Now build asset map.",
+ "tool_call": {
+  "id": "fc_f6e7871a-3de5-4ac2-904d-d8c4e654d3a8",
+  "name": "build_asset_map",
+  "args": {}
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_f6e7871a-3de5-4ac2-904d-d8c4e654d3a8",
+    "type": "function",
+    "function": {
+     "name": "build_asset_map",
+     "arguments": "{}"
+    }
+   }
+  ]
+ }
+}

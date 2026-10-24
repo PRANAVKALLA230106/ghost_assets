@@ -1,0 +1,59 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0598",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "540",
+   "amount_kind": "debit",
+   "date": "2021-09-29",
+   "nominee": null,
+   "quote": "Rs.540.00 debited from A/c XX2290 on 29-09-21 to VPA metro@ybl. UPI Ref 699964271845. -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0601",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "540",
+   "amount_kind": "debit",
+   "date": "2021-10-08",
+   "nominee": null,
+   "quote": "Rs.540.00 debited from A/c XX2290 on 08-10-21 to VPA metro@ybl. UPI Ref 377602675335. -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0606",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "45",
+   "amount_kind": "debit",
+   "date": "2021-10-17",
+   "nominee": null,
+   "quote": "Rs.45.00 debited from A/c XX2290 on 17-10-21 to VPA metro@ybl. UPI Ref 651014096081. -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0611",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "540",
+   "amount_kind": "debit",
+   "date": "2021-11-23",
+   "nominee": null,
+   "quote": "Rs.540.00 debited from A/c XX2290 on 23-11-21 to VPA milk.aavin@ybl. UPI Ref 797200602306. -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0612",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "540",
+   "amount_kind": "debit",
+   "date": "2021-11-23",
+   "nominee": null,
+   "quote": "Rs.540.00 debited from A/c XX2290 on 23-11-21 to VPA metro@ybl. UPI Ref 541601377431. -HDFC Bank"
+  }
+ ]
+}

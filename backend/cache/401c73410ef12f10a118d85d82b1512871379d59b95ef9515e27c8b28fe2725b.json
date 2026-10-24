@@ -1,0 +1,9 @@
+{
+ "text": "{\"name\": \"<|channel|>commentary\", \"arguments\": {\"summary\":\"All assets identified and claim packs generated. Please review the documents and provide any missing nominee info or additional evidence if needed. Good luck!\"}}",
+ "reasoning": "",
+ "tool_call": null,
+ "raw": {
+  "role": "assistant",
+  "content": "{\"name\": \"<|channel|>commentary\", \"arguments\": {\"summary\":\"All assets identified and claim packs generated. Please review the documents and provide any missing nominee info or additional evidence if needed. Good luck!\"}}"
+ }
+}

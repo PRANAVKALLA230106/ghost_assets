@@ -1,0 +1,114 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0997",
+   "institution_raw": "VM-BNDHMF",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXXX3390",
+   "amount": "8000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "SIP of Rs 8,000.00 in Bandhan Small Cap Fund - Direct Growth, Folio XXXXXXX3390 processed."
+  },
+  {
+   "evidence_id": "sms_0999",
+   "institution_raw": "JD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "A/c no. XX6034",
+   "amount": "2400",
+   "amount_kind": "debit",
+   "date": "2026-03-12",
+   "nominee": null,
+   "quote": "INR 2,400.00 debited from A/c no. XX6034 on 12-03-26 UPI/dmart@axl Ref 660714199263 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_1000",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "A/c no. XX6034",
+   "amount": "112500",
+   "amount_kind": "credit",
+   "date": "2026-03-28",
+   "nominee": null,
+   "quote": "INR 1,12,500.00 credited to A/c no. XX6034 on 28-03-26 by NEFT SALARY ORIONSOFT TECH. Avl Bal INR 1,40,000.00 - Axis Bank"
+  },
+  {
+   "evidence_id": "email_001",
+   "institution_raw": "investor.relations@induspolymers.example",
+   "asset_type": "shares",
+   "identifier": "Folio No.: IP20774",
+   "amount": "600",
+   "amount_kind": "unknown",
+   "date": "2014-09-26",
+   "nominee": "SRIJAN MALHOTRA",
+   "quote": "Folio No.: IP20774\nShareholder: SRIJAN MALHOTRA\nHolding: 600 equity shares of Rs 2 each."
+  },
+  {
+   "evidence_id": "email_017",
+   "institution_raw": "service@maxlifeinsurance.example",
+   "asset_type": "life_insurance",
+   "identifier": "Policy No.: XXXXXX4472",
+   "amount": "21600",
+   "amount_kind": "premium",
+   "date": null,
+   "nominee": "SRIJAN MALHOTRA",
+   "quote": "Policy No.: XXXXXX4472 (Max Life Smart Term Plan)\nSum Assured: Rs 25,00,000\nAnnual premium: Rs 21,600, due 5 June."
+  },
+  {
+   "evidence_id": "email_024",
+   "institution_raw": "fd.advice@icicibank.example",
+   "asset_type": "fixed_deposit",
+   "identifier": "FD A/c: XX8817",
+   "amount": "300000",
+   "amount_kind": "principal",
+   "date": "2025-07-04",
+   "nominee": "SRIJAN MALHOTRA",
+   "quote": "FD A/c: XX8817\nDepositor: SRIJAN MALHOTRA\nRenewed on: 04-07-2025\nPrincipal: Rs 3,00,000.00\nMaturity date: 04-07-2026"
+  },
+  {
+   "evidence_id": "email_029",
+   "institution_raw": "statements@cas.example",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXXX3390",
+   "amount": "410000",
+   "amount_kind": "market_value",
+   "date": "2026-02-01",
+   "nominee": "SRIJAN MALHOTRA",
+   "quote": "Bandhan Small Cap Fund - Direct Growth | Folio XXXXXXX3390 | Market Value Rs 4,10,000.00"
+  },
+  {
+   "evidence_id": "ais_01",
+   "institution_raw": "AIS",
+   "asset_type": "savings_account",
+   "identifier": "A/C XX6034",
+   "amount": "4100",
+   "amount_kind": "interest",
+   "date": null,
+   "nominee": null,
+   "quote": "1 | SFT-016(SB) | Interest from savings bank | AXIS BANK (A/C XX6034) | 4,100.00"
+  },
+  {
+   "evidence_id": "ais_02",
+   "institution_raw": "AIS",
+   "asset_type": "fixed_deposit",
+   "identifier": null,
+   "amount": "21000",
+   "amount_kind": "interest",
+   "date": null,
+   "nominee": null,
+   "quote": "2 | SFT-016(TD) | Interest from deposit | ICICI BANK | 21,000.00"
+  },
+  {
+   "evidence_id": "ais_03",
+   "institution_raw": "AIS",
+   "asset_type": "mutual_fund",
+   "identifier": null,
+   "amount": "96000",
+   "amount_kind": "unknown",
+   "date": null,
+   "nominee": null,
+   "quote": "3 | SFT-018 | Purchase of mutual fund units | BANDHAN MUTUAL FUND | 96,000.00"
+  }
+ ]
+}

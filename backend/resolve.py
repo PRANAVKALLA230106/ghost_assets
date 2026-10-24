@@ -19,7 +19,7 @@
 5. est_value priority: market_value > balance (latest) > maturity_value > sum_assured > principal;
    a deposit account with no balance clue takes the newest "Avl Bal Rs ..." in its own evidence text;
    SIP with no market value: instalment x count as a floor. Record value_basis.
-6. confidence = 0.4*identifier_strength + 0.3*min(distinct_source_types/3, 1) + 0.3*recency.
+6. confidence: confidence.explain (account number, independent sources, official record, repetition, recency).
 """
 from __future__ import annotations
 
@@ -31,6 +31,7 @@ from typing import Callable
 import networkx as nx
 from rapidfuzz import fuzz, process, utils
 
+from confidence import explain as explain_confidence
 from models import Asset, Clue, Evidence
 
 ALIASES: dict[str, str] = {
@@ -39,7 +40,6 @@ ALIASES: dict[str, str] = {
     "LIFE INSURANCE CORPORATION OF INDIA": "LIC", "PNBSMS": "Punjab National Bank", "HDFCBK": "HDFC Bank",
     "ICICIB": "ICICI Bank", "AXISBK": "Axis Bank", "KOTAKB": "Kotak Mahindra Bank", "BOBTXN": "Bank of Baroda",
     "EPFOHO": "EPFO", "SURKSH": "Suraksha Life Insurance", "KAVRMF": "Kaveri Mutual Fund",
-    "STRHLT": "Star Health", "ADTYMF": "Aditya Mutual Fund",
 }
 INSTITUTIONS: list[str] = [
     "State Bank of India", "Canara Bank", "Punjab National Bank", "Bank of Baroda", "Union Bank of India",
@@ -47,7 +47,6 @@ INSTITUTIONS: list[str] = [
     "Bank of Maharashtra", "Punjab & Sind Bank", "HDFC Bank", "ICICI Bank", "Axis Bank", "Kotak Mahindra Bank",
     "IndusInd Bank", "Yes Bank", "IDFC First Bank", "Federal Bank", "Karnataka Bank", "South Indian Bank",
     "India Post", "LIC", "Suraksha Life Insurance", "Kaveri Mutual Fund", "Ganga Tech Ltd", "EPFO",
-    "Star Health", "Aditya Mutual Fund", "Vel Textiles Ltd",
 ]
 # Institutions whose category is not obvious from the name; the rest are classified by keyword.
 CATEGORIES: dict[str, str] = {"LIC": "insurer", "EPFO": "epfo", "India Post": "post_office"}
@@ -100,9 +99,11 @@ def normalise_institution(raw: str) -> str:
     if cleaned.upper() in ALIASES:
         return ALIASES[cleaned.upper()]
     expanded = " ".join(EXPANSIONS.get(w.upper(), w) for w in cleaned.split())
-    best = process.extractOne(expanded, INSTITUTIONS, scorer=fuzz.WRatio, processor=utils.default_process)
-    if best and best[1] >= FUZZY_MIN:
-        return best[0]
+    first = utils.default_process(expanded).split()[0] if utils.default_process(expanded) else ""
+    for name, score, _ in process.extract(expanded, INSTITUTIONS, scorer=fuzz.WRatio, processor=utils.default_process, limit=5):
+        # a shared generic word ('Life', 'Bank') is not enough: 'Max Life' must not become 'Suraksha Life Insurance'
+        if score >= FUZZY_MIN and fuzz.ratio(first, utils.default_process(name).split()[0]) >= 80:
+            return name
     return cleaned.title()
 
 
@@ -191,13 +192,6 @@ def _value(clues: list[Clue], asset_type: str, ev_dates, ev_by_id) -> tuple[floa
     return None, None
 
 
-def _confidence(identifier: str | None, last: date | None, sources: set[str], as_of: date) -> float:
-    ident = 1.0 if _digits4(identifier) else (0.5 if identifier else 0.0)
-    years = (as_of - last).days / 365.25 if last else 10
-    recency = max(0.0, min(1.0, 1 - (years - 2) / 8))        # 1 within 2 years, 0 at 10+
-    return round(0.4 * ident + 0.3 * min(len(sources) / 3, 1) + 0.3 * recency, 2)
-
-
 def _chain(g: nx.Graph, ids: list[str]) -> None:
     for a, b in zip(ids, ids[1:]):
         g.add_edge(a, b)
@@ -271,9 +265,50 @@ def _attach_orphans(g: nx.Graph, block: list[Clue], ev_dates) -> None:
 
 # ---- main ------------------------------------------------------------------------------------
 
-def _pick_institution(cs: list[Clue]) -> str:
+CODE_RE = re.compile(r"^[A-Za-z]{4,15}$")
+WORD_RE = re.compile(r"[A-Za-z]+")
+
+
+def _is_subsequence(code: str, text: str) -> bool:
+    it = iter(text)
+    return all(ch in it for ch in code)
+
+
+def _expand_code(code: str, texts: list[str]) -> str | None:
+    """'STRHLT' + 'premium for STAR HEALTH policy' -> 'Star Health'. Indian SMS sender codes abbreviate
+    the institution by dropping letters, so the full name is the shortest 1-4 word phrase in the asset's
+    own messages whose letters contain the code in order, and whose word initials also appear in order."""
+    code = code.upper()
+    best: tuple[int, int, str] | None = None
+    for text in texts:
+        words = WORD_RE.findall(text or "")
+        for i, w in enumerate(words):
+            if w[0].upper() != code[0]:
+                continue
+            for j in range(i + 1, min(i + 4, len(words)) + 1):
+                span = words[i:j]
+                joined = "".join(span).upper()
+                if (joined == code and len(span) < 2) or not _is_subsequence(code, joined):
+                    continue
+                if not _is_subsequence("".join(x[0].upper() for x in span), code):
+                    continue
+                key = (len(span), len(joined), " ".join(span))
+                if best is None or key < best:
+                    best = key
+                break
+    if not best:
+        return None
+    phrase = " ".join(EXPANSIONS.get(w.upper(), w.title()) for w in best[2].split())
+    return normalise_institution(phrase)
+
+
+def _pick_institution(cs: list[Clue], ev_by_id: dict | None = None) -> str:
     non_bank = Counter(c.institution for c in cs if category(c.institution) != "bank")
-    return (non_bank or Counter(c.institution for c in cs)).most_common(1)[0][0]
+    name = (non_bank or Counter(c.institution for c in cs)).most_common(1)[0][0]
+    if name in INSTITUTIONS or not CODE_RE.match(name):
+        return name
+    texts = [c.quote for c in cs] + [ev_by_id[c.evidence_id].text for c in cs if ev_by_id and c.evidence_id in ev_by_id]
+    return _expand_code(name, texts) or name
 
 
 def build_assets(clues: list[Clue], evidence: list[Evidence] | None = None, as_of: date | None = None,
@@ -312,11 +347,13 @@ def build_assets(clues: list[Clue], evidence: list[Evidence] | None = None, as_o
         last = max(dates) if dates else None
         sources = {ev_by_id[c.evidence_id].source if c.evidence_id in ev_by_id else c.evidence_id.split("_")[0] for c in cs}
         value, basis = _value(cs, asset_type, ev_dates, ev_by_id)
-        assets.append(Asset(
-            id=f"as_{n:02d}", institution=_pick_institution(cs), asset_type=asset_type, identifier=identifier,
-            est_value=value, value_basis=basis, confidence=_confidence(identifier, last, sources, as_of),
+        asset = Asset(
+            id=f"as_{n:02d}", institution=_pick_institution(cs, ev_by_id), asset_type=asset_type, identifier=identifier,
+            est_value=value, value_basis=basis,
             last_activity=last.isoformat() if last else None, nominee=_nominee(cs, ev_dates), clue_ids=comp,
-        ))
+        )
+        asset.confidence = explain_confidence(asset, cs, ev_by_id, as_of)["score"]
+        assets.append(asset)
     print(f"[resolve] {len(clues)} clues -> {len(assets)} assets")
     if progress:
         progress("resolve", len(assets), len(clues))

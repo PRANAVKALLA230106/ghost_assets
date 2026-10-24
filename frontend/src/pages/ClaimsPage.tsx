@@ -2,7 +2,7 @@ import { useMemo } from "react";
 import { Link } from "react-router-dom";
 import { useGhostStore } from "../store";
 import { formatINR } from "../format";
-import { ASSET_TYPE_LABEL, STATUS_LABEL, claimPathLabel } from "../labels";
+import { ASSET_TYPE_LABEL, LEVEL_COLOR, STATUS_LABEL, claimPathLabel, confidenceLabel } from "../labels";
 import ClaimPackButton from "../components/ClaimPackButton";
 import { useCaseContext } from "./CaseLayout";
 
@@ -22,7 +22,10 @@ export default function ClaimsPage() {
 
   return (
     <div className="min-h-screen bg-page px-10 py-8 text-ink">
-      <Link to={`/case/${caseId}`} className="text-muted hover:text-accent">← Live map</Link>
+      <div className="flex gap-5 text-muted">
+        <Link to={`/case/${caseId}`} className="hover:text-accent">← Live map</Link>
+        <Link to={`/case/${caseId}/proof`} className="hover:text-accent">Proof: how sure are we? →</Link>
+      </div>
       <div className="mt-2 flex items-end justify-between gap-6">
         <div>
           <h1 className="text-4xl font-semibold">Claims{deceasedName && <span className="text-muted"> · {deceasedName}</span>}</h1>
@@ -61,7 +64,12 @@ export default function ClaimsPage() {
                           {ASSET_TYPE_LABEL[a.asset_type]}
                           {a.identifier && <> · <span className="font-mono">{a.identifier}</span></>}
                         </div>
-                        <div className="text-xs text-muted">{STATUS_LABEL[a.status]}</div>
+                        <div className="text-xs text-muted">
+                          {STATUS_LABEL[a.status]} ·{" "}
+                          <span style={{ color: LEVEL_COLOR[confidenceLabel(a.confidence)] }}>
+                            {confidenceLabel(a.confidence)} confidence ({Math.round(a.confidence * 100)}%)
+                          </span>
+                        </div>
                       </button>
                     </td>
                     <td className="px-5 py-4 text-right text-lg font-semibold tabular-nums text-accent">

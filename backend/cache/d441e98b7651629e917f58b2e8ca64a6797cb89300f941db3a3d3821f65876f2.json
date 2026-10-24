@@ -1,0 +1,92 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0803",
+   "institution_raw": "VM-EPFOHO",
+   "asset_type": "provident_fund",
+   "identifier": "UAN XXXXXXXX5521",
+   "amount": "14400",
+   "amount_kind": "principal",
+   "date": "2024-08",
+   "nominee": null,
+   "quote": "contribution of Rs. 14,400 for 08/2024 received in your PF account linked to UAN XXXXXXXX5521"
+  },
+  {
+   "evidence_id": "sms_0811",
+   "institution_raw": "JD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "8000",
+   "amount_kind": "debit",
+   "date": "2024-09-10",
+   "nominee": null,
+   "quote": "INR 8,000.00 debited from A/c no. XX6034 on 10-09-24 for SIP BANDHAN MF Folio XXXXXXX3390"
+  },
+  {
+   "evidence_id": "sms_0811",
+   "institution_raw": "JD-AXISBK",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXXX3390",
+   "amount": "8000",
+   "amount_kind": "sip_instalment",
+   "date": "2024-09-10",
+   "nominee": null,
+   "quote": "INR 8,000.00 debited from A/c no. XX6034 on 10-09-24 for SIP BANDHAN MF Folio XXXXXXX3390"
+  },
+  {
+   "evidence_id": "sms_0812",
+   "institution_raw": "VM-BNDHMF",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXXX3390",
+   "amount": "8000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "SIP of Rs 8,000.00 in Bandhan Small Cap Fund - Direct Growth, Folio XXXXXXX3390 processed"
+  },
+  {
+   "evidence_id": "sms_0813",
+   "institution_raw": "VM-EPFOHO",
+   "asset_type": "provident_fund",
+   "identifier": "UAN XXXXXXXX5521",
+   "amount": "14400",
+   "amount_kind": "principal",
+   "date": "2024-09",
+   "nominee": null,
+   "quote": "contribution of Rs. 14,400 for 09/2024 received in your PF account linked to UAN XXXXXXXX5521"
+  },
+  {
+   "evidence_id": "sms_0817",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "8000",
+   "amount_kind": "debit",
+   "date": "2024-10-10",
+   "nominee": null,
+   "quote": "INR 8,000.00 debited from A/c no. XX6034 on 10-10-24 for SIP BANDHAN MF Folio XXXXXXX3390"
+  },
+  {
+   "evidence_id": "sms_0817",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXXX3390",
+   "amount": "8000",
+   "amount_kind": "sip_instalment",
+   "date": "2024-10-10",
+   "nominee": null,
+   "quote": "INR 8,000.00 debited from A/c no. XX6034 on 10-10-24 for SIP BANDHAN MF Folio XXXXXXX3390"
+  },
+  {
+   "evidence_id": "sms_0818",
+   "institution_raw": "VM-BNDHMF",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXXX3390",
+   "amount": "8000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "SIP of Rs 8,000.00 in Bandhan Small Cap Fund - Direct Growth, Folio XXXXXXX3390 processed"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0861",
+   "institution_raw": "VM-EPFOHO",
+   "asset_type": "provident_fund",
+   "identifier": "UAN XXXXXXXX5521",
+   "amount": "14400",
+   "amount_kind": null,
+   "date": null,
+   "nominee": "not registered",
+   "quote": "contribution of Rs. 14,400 for 02/2025 received in your PF account linked to UAN XXXXXXXX5521. Total PF balance Rs. 8,54,400."
+  },
+  {
+   "evidence_id": "sms_0875",
+   "institution_raw": "VM-EPFOHO",
+   "asset_type": "provident_fund",
+   "identifier": "UAN XXXXXXXX5521",
+   "amount": "14400",
+   "amount_kind": null,
+   "date": null,
+   "nominee": "not registered",
+   "quote": "contribution of Rs. 14,400 for 03/2025 received in your PF account linked to UAN XXXXXXXX5521. Total PF balance Rs. 8,69,400."
+  }
+ ]
+}

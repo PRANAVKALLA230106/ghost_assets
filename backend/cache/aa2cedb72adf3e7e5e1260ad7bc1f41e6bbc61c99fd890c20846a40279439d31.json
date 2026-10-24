@@ -1,0 +1,103 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0580",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "60.00",
+   "amount_kind": "debit",
+   "date": "2022-06-14",
+   "nominee": "not registered",
+   "quote": "INR 60.00 debited from A/c no. XX6034 on 14-06-22 UPI/uber@axl Ref 280173691711 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0592",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "60.00",
+   "amount_kind": "debit",
+   "date": "2022-08-06",
+   "nominee": "not registered",
+   "quote": "INR 60.00 debited from A/c no. XX6034 on 06-08-22 UPI/chemist.apollo@axl Ref 840048886347 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0593",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "450.00",
+   "amount_kind": "debit",
+   "date": "2022-08-08",
+   "nominee": "not registered",
+   "quote": "INR 450.00 debited from A/c no. XX6034 on 08-08-22 UPI/uber@axl Ref 278054461132 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0599",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "other",
+   "identifier": null,
+   "amount": null,
+   "amount_kind": null,
+   "date": null,
+   "nominee": "not registered",
+   "quote": "845641 is your OTP for KYC. Valid 10 mins. Do not share."
+  },
+  {
+   "evidence_id": "sms_0605",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "60.00",
+   "amount_kind": "debit",
+   "date": "2022-11-03",
+   "nominee": "not registered",
+   "quote": "INR 60.00 debited from A/c no. XX6034 on 03-11-22 UPI/chemist.apollo@axl Ref 626965003810 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0606",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "450.00",
+   "amount_kind": "debit",
+   "date": "2022-11-03",
+   "nominee": "not registered",
+   "quote": "INR 450.00 debited from A/c no. XX6034 on 03-11-22 UPI/uber@axl Ref 583387672465 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0607",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "249.00",
+   "amount_kind": "debit",
+   "date": "2022-11-07",
+   "nominee": "not registered",
+   "quote": "INR 249.00 debited from A/c no. XX6034 on 07-11-22 UPI/zomato@axl Ref 726033088249 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0618",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "60.00",
+   "amount_kind": "debit",
+   "date": "2023-01-14",
+   "nominee": "not registered",
+   "quote": "INR 60.00 debited from A/c no. XX6034 on 14-01-23 UPI/uber@axl Ref 972341975459 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0619",
+   "institution_raw": "JD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "120.00",
+   "amount_kind": "debit",
+   "date": "2023-01-19",
+   "nominee": "not registered",
+   "quote": "INR 120.00 debited from A/c no. XX6034 on 19-01-23 UPI/zomato@axl Ref 899502255860 - Axis Bank"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "text": "",
+ "reasoning": "We need to apply claim rules for all assets, generate claim pack, then finish.",
+ "tool_call": {
+  "id": "fc_5be3dc1a-3609-454d-8a4d-0634b5aef062",
+  "name": "apply_claim_rules",
+  "args": {
+   "asset_id": "all"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_5be3dc1a-3609-454d-8a4d-0634b5aef062",
+    "type": "function",
+    "function": {
+     "name": "apply_claim_rules",
+     "arguments": "{\"asset_id\":\"all\"}"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "text": "",
+ "reasoning": "Need to ask family for nominee info for assets with unknown nominee: as_03, as_04, as_05, as_06, as_07? as_07 nominee unknown but portal shows transferred. as_08 unknown. Also as_09-12 are truncated? We need to generate claim pack after asking.",
+ "tool_call": {
+  "id": "fc_43283fa8-8f55-4955-9640-59d19a0852ba",
+  "name": "ask_family",
+  "args": {
+   "asset_id": "as_03",
+   "options": [
+    "Yes",
+    "No"
+   ],
+   "question": "Is there a nominee for the fixed deposit account FD A/c: XX8817 at ICICI Bank?"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_43283fa8-8f55-4955-9640-59d19a0852ba",
+    "type": "function",
+    "function": {
+     "name": "ask_family",
+     "arguments": "{\"asset_id\":\"as_03\",\"options\":[\"Yes\",\"No\"],\"question\":\"Is there a nominee for the fixed deposit account FD A/c: XX8817 at ICICI Bank?\"}"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "clues": [
+  {
+   "evidence_id": "ais_03",
+   "institution_raw": "ADITYA MUTUAL FUND",
+   "asset_type": "mutual_fund",
+   "identifier": null,
+   "amount": "72000",
+   "amount_kind": "debit",
+   "date": null,
+   "nominee": null,
+   "quote": "Purchase of mutual fund units | ADITYA MUTUAL FUND | 72,000.00"
+  },
+  {
+   "evidence_id": "ais_04",
+   "institution_raw": "HDFC BANK (PENSION)",
+   "asset_type": "provident_fund",
+   "identifier": null,
+   "amount": "336000",
+   "amount_kind": "unknown",
+   "date": null,
+   "nominee": null,
+   "quote": "TDS-192A | Pension | HDFC BANK (PENSION) | 3,36,000.00"
+  }
+ ]
+}

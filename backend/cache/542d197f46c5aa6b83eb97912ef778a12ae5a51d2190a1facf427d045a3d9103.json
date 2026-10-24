@@ -1,0 +1,125 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0993",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "28000",
+   "amount_kind": "credit",
+   "date": "2025-12-01",
+   "nominee": "not registered",
+   "quote": "your A/c XX2290 is credited by Rs.28,000.00 on 01-12-25 by PENSION"
+  },
+  {
+   "evidence_id": "sms_0994",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "6000",
+   "amount_kind": "debit",
+   "date": "2025-12-07",
+   "nominee": "not registered",
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-12-25 for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0994",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "sip_instalment",
+   "date": "2025-12-07",
+   "nominee": "not registered",
+   "quote": "for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0996",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": "not registered",
+   "quote": "Your SIP of Rs.6,000.00 in Aditya Flexi Fund - Growth, Folio XXXXXX7701 is processed"
+  },
+  {
+   "evidence_id": "sms_0997",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "540",
+   "amount_kind": "debit",
+   "date": "2025-12-12",
+   "nominee": "not registered",
+   "quote": "Rs.540.00 debited from A/c XX2290 on 12-12-25 to VPA milk.aavin@ybl"
+  },
+  {
+   "evidence_id": "email_001",
+   "institution_raw": "secretarial@veltextiles.example",
+   "asset_type": "shares",
+   "identifier": "VT55120",
+   "amount": "3500",
+   "amount_kind": "market_value",
+   "date": "2013-09-15",
+   "nominee": "LAKSHMI IYER",
+   "quote": "Folio No.: VT55120\nShareholder: LAKSHMI IYER\nHolding: 350 equity shares of Rs 10 each."
+  },
+  {
+   "evidence_id": "email_016",
+   "institution_raw": "deposits@hdfcbank.example",
+   "asset_type": "fixed_deposit",
+   "identifier": "XX5512",
+   "amount": "180000",
+   "amount_kind": "maturity_value",
+   "date": "2023-05-10",
+   "nominee": "LAKSHMI IYER",
+   "quote": "Matured on: 10-05-2023\nMaturity value: Rs 1,80,000.00"
+  },
+  {
+   "evidence_id": "email_019",
+   "institution_raw": "welcome@starhealth.example",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX3360",
+   "amount": "300000",
+   "amount_kind": "sum_assured",
+   "date": null,
+   "nominee": "Lakshmi Iyer",
+   "quote": "Policy No.: XXXXX3360\nSum Assured: Rs 3,00,000"
+  },
+  {
+   "evidence_id": "email_025",
+   "institution_raw": "statements@cas.example",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "220000",
+   "amount_kind": "market_value",
+   "date": "2025-12-01",
+   "nominee": "LAKSHMI IYER",
+   "quote": "Aditya Flexi Fund - Growth | Folio XXXXXX7701 | Market Value Rs 2,20,000.00"
+  },
+  {
+   "evidence_id": "ais_01",
+   "institution_raw": "AIS",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "2600",
+   "amount_kind": "interest",
+   "date": null,
+   "nominee": "not registered",
+   "quote": "Interest from savings bank | HDFC BANK (A/C XX2290) | 2,600.00"
+  },
+  {
+   "evidence_id": "ais_02",
+   "institution_raw": "AIS",
+   "asset_type": "fixed_deposit",
+   "identifier": "unknown",
+   "amount": "14500",
+   "amount_kind": "interest",
+   "date": null,
+   "nominee": "not registered",
+   "quote": "Interest from deposit | HDFC BANK | 14,500.00"
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0763",
+   "institution_raw": "JD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": 112500,
+   "amount_kind": "credit",
+   "date": "2024-05-28",
+   "nominee": null,
+   "quote": "INR 1,12,500.00 credited to A/c no. XX6034 on 28-05-24 by NEFT SALARY ORIONSOFT TECH. Avl Bal INR 1,59,372.55 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0767",
+   "institution_raw": "JD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": 21600,
+   "amount_kind": "debit",
+   "date": "2024-06-05",
+   "nominee": null,
+   "quote": "INR 21,600.00 debited from A/c no. XX6034 on 05-06-24 towards MAX LIFE premium policy XXXXXX4472 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0767",
+   "institution_raw": "JD-AXISBK",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXXX4472",
+   "amount": 21600,
+   "amount_kind": "premium",
+   "date": "2024-06-05",
+   "nominee": null,
+   "quote": "INR 21,600.00 debited from A/c no. XX6034 on 05-06-24 towards MAX LIFE premium policy XXXXXX4472 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0772",
+   "institution_raw": "JD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": 8000,
+   "amount_kind": "debit",
+   "date": "2024-06-10",
+   "nominee": null,
+   "quote": "INR 8,000.00 debited from A/c no. XX6034 on 10-06-24 for SIP BANDHAN MF Folio XXXXXXX3390 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0772",
+   "institution_raw": "JD-AXISBK",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXXX3390",
+   "amount": 8000,
+   "amount_kind": "sip_instalment",
+   "date": "2024-06-10",
+   "nominee": null,
+   "quote": "INR 8,000.00 debited from A/c no. XX6034 on 10-06-24 for SIP BANDHAN MF Folio XXXXXXX3390 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0774",
+   "institution_raw": "VM-BNDHMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXXX3390",
+   "amount": 8000,
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "SIP of Rs 8,000.00 in Bandhan Small Cap Fund - Direct Growth, Folio XXXXXXX3390 processed. Units 162.075 @ NAV 49.36. -Bandhan MF"
+  },
+  {
+   "evidence_id": "sms_0778",
+   "institution_raw": "VM-EPFOHO",
+   "asset_type": "provident_fund",
+   "identifier": "XXXXXXXX5521",
+   "amount": 14400,
+   "amount_kind": "credit",
+   "date": null,
+   "nominee": null,
+   "quote": "Dear Member, contribution of Rs. 14,400 for 06/2024 received in your PF account linked to UAN XXXXXXXX5521. Total PF balance Rs. 7,36,000. -EPFO"
+  },
+  {
+   "evidence_id": "sms_0783",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": 112500,
+   "amount_kind": "credit",
+   "date": "2024-06-28",
+   "nominee": null,
+   "quote": "INR 1,12,500.00 credited to A/c no. XX6034 on 28-06-24 by NEFT SALARY ORIONSOFT TECH. Avl Bal INR 1,57,309.05 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0784",
+   "institution_raw": "JD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": 60,
+   "amount_kind": "debit",
+   "date": "2024-06-30",
+   "nominee": null,
+   "quote": "INR 60.00 debited from A/c no. XX6034 on 30-06-24 UPI/dmart@axl Ref 877213342553 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0786",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": 450,
+   "amount_kind": "debit",
+   "date": "2024-07-10",
+   "nominee": null,
+   "quote": "INR 450.00 debited from A/c no. XX6034 on 10-07-24 UPI/chemist.apollo@axl Ref 539365275992 - Axis Bank"
+  }
+ ]
+}

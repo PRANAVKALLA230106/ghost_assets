@@ -1,0 +1,103 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0556",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": 2400,
+   "amount_kind": "debit",
+   "date": "2022-02-21",
+   "nominee": null,
+   "quote": "INR 2,400.00 debited from A/c no. XX6034 on 21-02-22"
+  },
+  {
+   "evidence_id": "sms_0562",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": 450,
+   "amount_kind": "debit",
+   "date": "2022-03-19",
+   "nominee": null,
+   "quote": "INR 450.00 debited from A/c no. XX6034 on 19-03-22"
+  },
+  {
+   "evidence_id": "sms_0576",
+   "institution_raw": "JD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": 249,
+   "amount_kind": "debit",
+   "date": "2022-05-30",
+   "nominee": null,
+   "quote": "INR 249.00 debited from A/c no. XX6034 on 30-05-22"
+  },
+  {
+   "evidence_id": "sms_0577",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": 21600,
+   "amount_kind": "debit",
+   "date": "2022-06-05",
+   "nominee": null,
+   "quote": "INR 21,600.00 debited from A/c no. XX6034 on 05-06-22 towards MAX LIFE premium policy XXXXXX4472"
+  },
+  {
+   "evidence_id": "sms_0577",
+   "institution_raw": "AD-MAXLIF",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXXX4472",
+   "amount": 21600,
+   "amount_kind": "premium",
+   "date": "2022-06-05",
+   "nominee": null,
+   "quote": "INR 21,600.00 debited from A/c no. XX6034 on 05-06-22 towards MAX LIFE premium policy XXXXXX4472"
+  },
+  {
+   "evidence_id": "sms_0574",
+   "institution_raw": "AD-MAXLIF",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXXX4472",
+   "amount": 21600,
+   "amount_kind": "premium",
+   "date": "2022-06-05",
+   "nominee": null,
+   "quote": "Renewal premium of Rs 21,600 for your Max Life term policy XXXXXX4472 is due on 05-06-2022"
+  },
+  {
+   "evidence_id": "sms_0574",
+   "institution_raw": "AD-MAXLIF",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXXX4472",
+   "amount": 2500000,
+   "amount_kind": "sum_assured",
+   "date": "2022-06-05",
+   "nominee": null,
+   "quote": "Sum assured Rs 25,00,000."
+  },
+  {
+   "evidence_id": "sms_0578",
+   "institution_raw": "JD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": 120,
+   "amount_kind": "debit",
+   "date": "2022-06-07",
+   "nominee": null,
+   "quote": "INR 120.00 debited from A/c no. XX6034 on 07-06-22"
+  },
+  {
+   "evidence_id": "sms_0579",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": 60,
+   "amount_kind": "debit",
+   "date": "2022-06-08",
+   "nominee": null,
+   "quote": "INR 60.00 debited from A/c no. XX6034 on 08-06-22"
+  }
+ ]
+}

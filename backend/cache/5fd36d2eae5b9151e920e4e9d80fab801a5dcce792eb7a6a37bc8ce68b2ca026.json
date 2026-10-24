@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "photo_passbook",
+   "institution_raw": "CANARA BANK",
+   "asset_type": "savings_account",
+   "identifier": "XXXXXXX4418",
+   "amount": "65000.00",
+   "amount_kind": "balance",
+   "date": "2013-09-30",
+   "nominee": "not registered",
+   "quote": "BALANCE C/F 65,000.00"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "text": "",
+ "reasoning": "Need to investigate gaps: as_03 nominee unknown, as_04 unknown, as_05 nominee unknown, as_06 nominee unknown, as_07 shares need portal check, as_08 duplicate. Also check UDGAM for bank accounts silent 10+ years: none. Shares dividends stopped 7+ years: as_07 last activity 2014. So check portal. Also need nominee info for as_03, as_04, as_05, as_06. Ask family. Also check UDGAM for any silent accounts? none. So proceed.",
+ "tool_call": {
+  "id": "fc_672d9fb8-414b-4b37-99ec-b02921caa265",
+  "name": "check_portal",
+  "args": {
+   "institution": "Indus Polymers",
+   "name": "Srijan Malhotra",
+   "portal": "IEPF"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_672d9fb8-414b-4b37-99ec-b02921caa265",
+    "type": "function",
+    "function": {
+     "name": "check_portal",
+     "arguments": "{\"institution\":\"Indus Polymers\",\"name\":\"Srijan Malhotra\",\"portal\":\"IEPF\"}"
+    }
+   }
+  ]
+ }
+}

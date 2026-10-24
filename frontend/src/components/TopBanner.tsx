@@ -25,6 +25,12 @@ export default function TopBanner({ deceasedName, caseId }: { deceasedName?: str
           {deceasedName && <div className="text-lg text-muted">Estate of {deceasedName}</div>}
         </div>
         <Link
+          to={`/case/${caseId}/proof`}
+          className="rounded-lg border border-muted/30 px-5 py-3 text-lg font-semibold text-muted transition hover:text-accent"
+        >
+          Proof
+        </Link>
+        <Link
           to={`/case/${caseId}/claims`}
           className={`rounded-lg px-5 py-3 text-lg font-semibold transition ${
             done ? "bg-accent text-page hover:brightness-110" : "border border-muted/30 text-muted hover:text-accent"

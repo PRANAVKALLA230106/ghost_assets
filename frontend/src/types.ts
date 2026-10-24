@@ -94,6 +94,30 @@ export interface AssetDetail {
   claim: Claim | null;
   quotes: EvidenceQuote[];
   has_claim_pack: boolean;
+  confidence?: ConfidenceDetail; // older backends omit it
+}
+
+// ---- confidence breakdown (backend/confidence.py) ----
+
+export type ConfidenceFactorKey = "identifier" | "sources" | "official" | "repeated" | "alive";
+export type ProofSource = "sms" | "email" | "ais" | "photo" | "portal";
+
+export interface ConfidenceFactor {
+  key: ConfidenceFactorKey;
+  label: string;
+  points: number;
+  max: number;
+  detail: string;
+}
+
+export interface ConfidenceDetail {
+  score: number; // 0..1
+  level: "High" | "Medium" | "Low";
+  summary: string;
+  factors: ConfidenceFactor[];
+  sources: Partial<Record<ProofSource, number>>;
+  evidence_count: number;
+  verified_quotes: number;
 }
 
 // ---- SSE events: {"type": <name>, "data": <payload>} ----

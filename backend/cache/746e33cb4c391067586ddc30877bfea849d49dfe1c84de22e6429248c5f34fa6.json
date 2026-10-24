@@ -1,0 +1,26 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0198",
+   "institution_raw": "JD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "1800.00",
+   "amount_kind": "credit",
+   "date": "2015-09-10",
+   "nominee": "not registered",
+   "quote": "INR 1,800.00 credited to A/c no. XX6034 on 10-09-15 - INDUS POLYMERS LTD FINAL DIV. Avl Bal INR 55,157.50 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0250",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "1800.00",
+   "amount_kind": "credit",
+   "date": "2016-09-10",
+   "nominee": "not registered",
+   "quote": "INR 1,800.00 credited to A/c no. XX6034 on 10-09-16 - INDUS POLYMERS LTD FINAL DIV. Avl Bal INR 88,240.09 - Axis Bank"
+  }
+ ]
+}

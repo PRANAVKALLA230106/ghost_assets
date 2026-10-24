@@ -1,0 +1,70 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0627",
+   "institution_raw": "JD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "8000",
+   "amount_kind": "debit",
+   "date": "2023-03-10",
+   "nominee": null,
+   "quote": "INR 8,000.00 debited from A/c no. XX6034 on 10-03-23 for SIP BANDHAN MF Folio XXXXXXX3390 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0627",
+   "institution_raw": "VM-BNDHMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXXX3390",
+   "amount": "8000",
+   "amount_kind": "sip_instalment",
+   "date": "2023-03-10",
+   "nominee": null,
+   "quote": "SIP of Rs 8,000.00 in Bandhan Small Cap Fund - Direct Growth, Folio XXXXXXX3390 processed. Units 149.282 @ NAV 53.59. -Bandhan MF"
+  },
+  {
+   "evidence_id": "sms_0635",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "8000",
+   "amount_kind": "debit",
+   "date": "2023-04-10",
+   "nominee": null,
+   "quote": "INR 8,000.00 debited from A/c no. XX6034 on 10-04-23 for SIP BANDHAN MF Folio XXXXXXX3390 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0635",
+   "institution_raw": "VM-BNDHMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXXX3390",
+   "amount": "8000",
+   "amount_kind": "sip_instalment",
+   "date": "2023-04-10",
+   "nominee": null,
+   "quote": "SIP of Rs 8,000.00 in Bandhan Small Cap Fund - Direct Growth, Folio XXXXXXX3390 processed. Units 158.197 @ NAV 50.57. -Bandhan MF"
+  },
+  {
+   "evidence_id": "sms_0638",
+   "institution_raw": "VM-EPFOHO",
+   "asset_type": "provident_fund",
+   "identifier": "XXXXXXXX5521",
+   "amount": "14400",
+   "amount_kind": "credit",
+   "date": "2023-04",
+   "nominee": "not registered",
+   "quote": "contribution of Rs. 14,400 for 04/2023 received in your PF account linked to UAN XXXXXXXX5521. Total PF balance Rs. 5,26,500. -EPFO"
+  },
+  {
+   "evidence_id": "sms_0641",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": "112500",
+   "amount_kind": "credit",
+   "date": "2023-04-28",
+   "nominee": null,
+   "quote": "INR 1,12,500.00 credited to A/c no. XX6034 on 28-04-23 by NEFT SALARY ORIONSOFT TECH. Avl Bal INR 1,27,543.51 - Axis Bank"
+  }
+ ]
+}

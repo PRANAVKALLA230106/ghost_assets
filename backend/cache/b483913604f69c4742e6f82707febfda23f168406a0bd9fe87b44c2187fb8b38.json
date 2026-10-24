@@ -1,0 +1,114 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0971",
+   "institution_raw": "AD-STRHLT",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX3360",
+   "amount": "18000.00",
+   "amount_kind": "premium",
+   "date": "2025-10-01",
+   "nominee": "not registered",
+   "quote": "premium of Rs 18,000.00 for policy XXXXX3360 (Star Health Smart ULIP) is due on 01-10-2025."
+  },
+  {
+   "evidence_id": "sms_0974",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "28000.00",
+   "amount_kind": "credit",
+   "date": "2025-10-01",
+   "nominee": "not registered",
+   "quote": "your A/c XX2290 is credited by Rs.28,000.00 on 01-10-25 by PENSION. Avl Bal Rs.98,829.13 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0975",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX3360",
+   "amount": "18000.00",
+   "amount_kind": "premium",
+   "date": "2025-10-01",
+   "nominee": "not registered",
+   "quote": "INR 18000.00 debited from A/c XX2290 on 01-10-25 towards STAR HEALTH premium policy XXXXX3360 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0977",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000.00",
+   "amount_kind": "sip_instalment",
+   "date": "2025-10-07",
+   "nominee": "not registered",
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-10-25 for SIP ADITYA MF Folio XXXXXX7701 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0978",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000.00",
+   "amount_kind": "sip_instalment",
+   "date": "2025-10-07",
+   "nominee": "not registered",
+   "quote": "Your SIP of Rs.6,000.00 in Aditya Flexi Fund - Growth, Folio XXXXXX7701 is processed. Units: 59.406 @ NAV 101.0. -Aditya MF"
+  },
+  {
+   "evidence_id": "sms_0981",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "1500.00",
+   "amount_kind": "debit",
+   "date": "2025-10-15",
+   "nominee": "not registered",
+   "quote": "Rs.1,500.00 debited from A/c XX2290 on 15-10-25 to VPA pharmacy.med@ybl. UPI Ref 539796360227. -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0984",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "28000.00",
+   "amount_kind": "credit",
+   "date": "2025-11-01",
+   "nominee": "not registered",
+   "quote": "your A/c XX2290 is credited by Rs.28,000.00 on 01-11-25 by PENSION. Avl Bal Rs.95,790.17 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0985",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000.00",
+   "amount_kind": "sip_instalment",
+   "date": "2025-11-07",
+   "nominee": "not registered",
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-11-25 for SIP ADITYA MF Folio XXXXXX7701 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0986",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000.00",
+   "amount_kind": "sip_instalment",
+   "date": "2025-11-07",
+   "nominee": "not registered",
+   "quote": "Your SIP of Rs.6,000.00 in Aditya Flexi Fund - Growth, Folio XXXXXX7701 is processed. Units: 43.24 @ NAV 138.76. -Aditya MF"
+  },
+  {
+   "evidence_id": "sms_0991",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "540.00",
+   "amount_kind": "debit",
+   "date": "2025-11-21",
+   "nominee": "not registered",
+   "quote": "Rs.540.00 debited from A/c XX2290 on 21-11-25 to VPA pharmacy.med@ybl. UPI Ref 503617468490. -HDFC Bank"
+  }
+ ]
+}

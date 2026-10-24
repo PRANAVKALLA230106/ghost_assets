@@ -1,0 +1,125 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0841",
+   "institution_raw": "VM-EPFOHO",
+   "asset_type": "provident_fund",
+   "identifier": "UAN XXXXXXXX5521",
+   "amount": 14400,
+   "amount_kind": "principal",
+   "date": null,
+   "nominee": null,
+   "quote": "contribution of Rs. 14,400 for 12/2024 received in your PF account linked to UAN XXXXXXXX5521"
+  },
+  {
+   "evidence_id": "sms_0843",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "A/c no. XX6034",
+   "amount": 799,
+   "amount_kind": "debit",
+   "date": "2024-12-28",
+   "nominee": null,
+   "quote": "INR 799.00 debited from A/c no. XX6034 on 28-12-24 UPI/uber@axl Ref 528601007992"
+  },
+  {
+   "evidence_id": "sms_0844",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "A/c no. XX6034",
+   "amount": 112500,
+   "amount_kind": "credit",
+   "date": "2024-12-28",
+   "nominee": null,
+   "quote": "INR 1,12,500.00 credited to A/c no. XX6034 on 28-12-24 by NEFT SALARY ORIONSOFT TECH"
+  },
+  {
+   "evidence_id": "sms_0847",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "A/c no. XX6034",
+   "amount": 2400,
+   "amount_kind": "debit",
+   "date": "2025-01-07",
+   "nominee": null,
+   "quote": "INR 2,400.00 debited from A/c no. XX6034 on 07-01-25 UPI/chemist.apollo@axl Ref 569925483826"
+  },
+  {
+   "evidence_id": "sms_0848",
+   "institution_raw": "JD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "A/c no. XX6034",
+   "amount": 8000,
+   "amount_kind": "debit",
+   "date": "2025-01-10",
+   "nominee": null,
+   "quote": "INR 8,000.00 debited from A/c no. XX6034 on 10-01-25 for SIP BANDHAN MF Folio XXXXXXX3390"
+  },
+  {
+   "evidence_id": "sms_0848",
+   "institution_raw": "VM-BNDHMF",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXXX3390",
+   "amount": 8000,
+   "amount_kind": "sip_instalment",
+   "date": "2025-01-10",
+   "nominee": null,
+   "quote": "SIP of Rs 8,000.00 in Bandhan Small Cap Fund - Direct Growth, Folio XXXXXXX3390 processed"
+  },
+  {
+   "evidence_id": "sms_0849",
+   "institution_raw": "VM-BNDHMF",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXXX3390",
+   "amount": 8000,
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "SIP of Rs 8,000.00 in Bandhan Small Cap Fund - Direct Growth, Folio XXXXXXX3390 processed"
+  },
+  {
+   "evidence_id": "sms_0850",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "A/c no. XX6034",
+   "amount": 450,
+   "amount_kind": "debit",
+   "date": "2025-01-10",
+   "nominee": null,
+   "quote": "INR 450.00 debited from A/c no. XX6034 on 10-01-25 UPI/petrol.iocl@axl Ref 627244299486"
+  },
+  {
+   "evidence_id": "sms_0851",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "A/c no. XX6034",
+   "amount": 2400,
+   "amount_kind": "debit",
+   "date": "2025-01-11",
+   "nominee": null,
+   "quote": "INR 2,400.00 debited from A/c no. XX6034 on 11-01-25 UPI/zomato@axl Ref 517802536304"
+  },
+  {
+   "evidence_id": "sms_0852",
+   "institution_raw": "VM-EPFOHO",
+   "asset_type": "provident_fund",
+   "identifier": "UAN XXXXXXXX5521",
+   "amount": 14400,
+   "amount_kind": "principal",
+   "date": null,
+   "nominee": null,
+   "quote": "contribution of Rs. 14,400 for 01/2025 received in your PF account linked to UAN XXXXXXXX5521"
+  },
+  {
+   "evidence_id": "sms_0855",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "A/c no. XX6034",
+   "amount": 112500,
+   "amount_kind": "credit",
+   "date": "2025-01-28",
+   "nominee": null,
+   "quote": "INR 1,12,500.00 credited to A/c no. XX6034 on 28-01-25 by NEFT SALARY ORIONSOFT TECH"
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+ "text": "{\"name\": \"generate_claim_pack<|channel|>commentary\", \"arguments\": {\"asset_id\":\"all\"}}",
+ "reasoning": "",
+ "tool_call": null,
+ "raw": {
+  "role": "assistant",
+  "content": "{\"name\": \"generate_claim_pack<|channel|>commentary\", \"arguments\": {\"asset_id\":\"all\"}}"
+ }
+}

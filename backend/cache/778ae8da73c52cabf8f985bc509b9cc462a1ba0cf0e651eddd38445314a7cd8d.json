@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "photo_maxlife_policy",
+   "institution_raw": "Max Life Insurance",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXXX4472",
+   "amount": "2500000",
+   "amount_kind": "sum_assured",
+   "date": null,
+   "nominee": "NEHA MALHOTRA",
+   "quote": "Policy No. XXXXXX4472\n\nLife Assured SRIJAN MALHOTRA\n\nPlan Smart Term Plan\n\nSum Assured Rs 25,00,000\n\nAnnual Premium Rs 21,600\n\nNominee NEHA MALHOTRA (Spouse)"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "text": "",
+ "reasoning": "Now check portal for as_06.",
+ "tool_call": {
+  "id": "fc_019fc2b7-29d0-4f3f-a9a6-d82693884754",
+  "name": "check_portal",
+  "args": {
+   "institution": "Vel Textiles Ltd",
+   "name": "Lakshmi",
+   "portal": "IEPF"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_019fc2b7-29d0-4f3f-a9a6-d82693884754",
+    "type": "function",
+    "function": {
+     "name": "check_portal",
+     "arguments": "{\"institution\":\"Vel Textiles Ltd\",\"name\":\"Lakshmi\",\"portal\":\"IEPF\"}"
+    }
+   }
+  ]
+ }
+}

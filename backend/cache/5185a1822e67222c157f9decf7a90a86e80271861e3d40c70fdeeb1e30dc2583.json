@@ -1,0 +1,136 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0841",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.6,000.00 in Aditya Flexi Fund - Growth, Folio XXXXXX7701 is processed."
+  },
+  {
+   "evidence_id": "sms_0845",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "28000",
+   "amount_kind": "credit",
+   "date": "2024-07-01",
+   "nominee": null,
+   "quote": "your A/c XX2290 is credited by Rs.28,000.00 on 01-07-24 by PENSION. Avl Bal Rs.1,08,206.01"
+  },
+  {
+   "evidence_id": "sms_0846",
+   "institution_raw": "VM-LICIND",
+   "asset_type": "life_insurance",
+   "identifier": "Policy No. XXXXX8841",
+   "amount": "11200",
+   "amount_kind": "premium",
+   "date": "2024-07-20",
+   "nominee": null,
+   "quote": "LIC: Premium of Rs.11,200 for Policy No. XXXXX8841 is due on 20/07/2024."
+  },
+  {
+   "evidence_id": "sms_0848",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "540",
+   "amount_kind": "debit",
+   "date": "2024-07-06",
+   "nominee": null,
+   "quote": "Rs.540.00 debited from A/c XX2290 on 06-07-24 to VPA bigbasket@ybl."
+  },
+  {
+   "evidence_id": "sms_0849",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "6000",
+   "amount_kind": "debit",
+   "date": "2024-07-07",
+   "nominee": null,
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-07-24 for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0849",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "sip_instalment",
+   "date": "2024-07-07",
+   "nominee": null,
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-07-24 for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0850",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.6,000.00 in Aditya Flexi Fund - Growth, Folio XXXXXX7701 is processed."
+  },
+  {
+   "evidence_id": "sms_0851",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "11200",
+   "amount_kind": "debit",
+   "date": "2024-07-08",
+   "nominee": null,
+   "quote": "Rs.11,200.00 debited from A/c XX2290 on 08-07-24 towards LIC PREMIUM Policy XXXXX8841"
+  },
+  {
+   "evidence_id": "sms_0851",
+   "institution_raw": "VM-LICIND",
+   "asset_type": "life_insurance",
+   "identifier": "Policy XXXXX8841",
+   "amount": "11200",
+   "amount_kind": "premium",
+   "date": "2024-07-08",
+   "nominee": null,
+   "quote": "Rs.11,200.00 debited from A/c XX2290 on 08-07-24 towards LIC PREMIUM Policy XXXXX8841"
+  },
+  {
+   "evidence_id": "sms_0852",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "1500",
+   "amount_kind": "debit",
+   "date": "2024-07-14",
+   "nominee": null,
+   "quote": "Rs.1,500.00 debited from A/c XX2290 on 14-07-24 to VPA milk.aavin@ybl."
+  },
+  {
+   "evidence_id": "sms_0853",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "540",
+   "amount_kind": "debit",
+   "date": "2024-07-25",
+   "nominee": null,
+   "quote": "Rs.540.00 debited from A/c XX2290 on 25-07-24 to VPA pharmacy.med@ybl."
+  },
+  {
+   "evidence_id": "sms_0854",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "45",
+   "amount_kind": "debit",
+   "date": "2024-07-25",
+   "nominee": null,
+   "quote": "Rs.45.00 debited from A/c XX2290 on 25-07-24 to VPA milk.aavin@ybl."
+  }
+ ]
+}

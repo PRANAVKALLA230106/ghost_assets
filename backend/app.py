@@ -30,7 +30,7 @@ from sse_starlette.sse import EventSourceResponse
 
 from agent import run_agent
 from models import Case, Event, EventType
-from tools import CaseState, asset_quotes
+from tools import CaseState, asset_quotes, confidence_detail
 
 ROOT = Path(__file__).resolve().parents[1]
 load_dotenv(ROOT / ".env")
@@ -230,7 +230,14 @@ async def asset_detail(case_id: str, asset_id: str) -> dict:
         ev = ev_by_id.get(q["evidence_id"])
         q["source"], q["sender"], q["text"] = (ev.source, ev.sender, ev.text) if ev else (None, None, None)
     return {"asset": asset.model_dump(), "claim": claim.model_dump() if claim else None, "quotes": quotes,
-            "has_claim_pack": asset_id in rec.state.claim_packs}
+            "has_claim_pack": asset_id in rec.state.claim_packs, "confidence": confidence_detail(rec.state, asset)}
+
+
+@app.get("/cases/{case_id}/confidence")
+async def case_confidence(case_id: str) -> dict:
+    """Confidence breakdown for every asset, for the Proof screen."""
+    rec = get_record(case_id)
+    return {a.id: confidence_detail(rec.state, a) for a in rec.state.assets}
 
 
 @app.get("/cases/{case_id}/assets/{asset_id}/claimpack.docx")

@@ -27,6 +27,7 @@ from rapidfuzz import fuzz, utils
 import extract
 import rules
 from claimpack import build_claim_pack
+from confidence import explain as explain_confidence
 from ingest import load_case
 from models import Asset, Case, Claim, Clue, Evidence
 from resolve import ALIASES, build_assets, normalise_institution
@@ -138,6 +139,18 @@ def _asset_key(a: Asset) -> tuple:
 
 def _find_asset(state: CaseState, asset_id: str) -> Optional[Asset]:
     return next((a for a in state.assets if a.id == asset_id), None)
+
+
+def confidence_detail(state: CaseState, asset: Asset) -> dict:
+    """Explainable confidence for one asset (see confidence.py), using its portal record if found."""
+    ev_by_id = {e.id: e for e in state.evidence}
+    return explain_confidence(asset, state.clues, ev_by_id, state.as_of, state.portal_hits.get(asset.id))
+
+
+def _rescore(state: CaseState, asset: Asset) -> Asset:
+    updated = asset.model_copy(update={"confidence": confidence_detail(state, asset)["score"]})
+    _replace_asset(state, updated)
+    return updated
 
 
 def _replace_asset(state: CaseState, asset: Asset) -> None:
@@ -301,7 +314,10 @@ async def build_asset_map(state: CaseState) -> dict:
     # Assets that exist only because a portal reported them (no clues) are kept across rebuilds.
     keys = {_asset_key(a) for a in assets}
     assets += [a for a in state.assets if not a.clue_ids and _asset_key(a) not in keys]
-    state.assets = assets = mark_known_assets(state, assets)
+    state.assets = mark_known_assets(state, assets)
+    for a in list(state.assets):
+        _rescore(state, a)
+    assets = state.assets
     for a in assets:
         await _emit(state, "asset", a.model_dump())
     total = sum(a.est_value or 0 for a in assets)
@@ -393,6 +409,7 @@ async def check_portal(state: CaseState, portal: str, name: str, institution: st
                 state.assets.append(asset)
             asset = _set_override(state, asset, **fields)
             state.portal_hits[asset.id] = {"portal": portal, **r}
+            asset = _rescore(state, asset)
             await _emit(state, "asset", asset.model_dump())
             row.update(asset_id=asset.id, status=asset.status)
         elif asset is not None:

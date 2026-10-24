@@ -1,4 +1,4 @@
-import type { AssetDetail, EventType, GhostEvent } from "./types";
+import type { AssetDetail, ConfidenceDetail, EventType, GhostEvent } from "./types";
 
 // The ONLY place the backend URL lives.
 export const API_BASE = "http://localhost:8080"; // matches `uvicorn app:app --port 8080 --reload` (run from backend/)
@@ -69,6 +69,13 @@ export async function getAssetDetail(caseId: string, assetId: string): Promise<A
 }
 
 /** Fetches the .docx and saves it. Throws with the server's reason (e.g. pack not generated yet). */
+/** GET /cases/{id}/confidence: breakdown for every asset, keyed by asset id. */
+export async function getConfidence(caseId: string): Promise<Record<string, ConfidenceDetail>> {
+  const res = await fetch(`${API_BASE}/cases/${caseId}/confidence`);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  return res.json();
+}
+
 export async function downloadClaimPack(caseId: string, assetId: string, filename: string): Promise<void> {
   const res = await fetch(`${API_BASE}/cases/${caseId}/assets/${assetId}/claimpack.docx`);
   if (!res.ok) {

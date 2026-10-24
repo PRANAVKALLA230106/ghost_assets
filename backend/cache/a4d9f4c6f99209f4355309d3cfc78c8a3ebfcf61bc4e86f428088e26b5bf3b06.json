@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0363",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "XX6034",
+   "amount": null,
+   "amount_kind": null,
+   "date": null,
+   "nominee": "NEHA MALHOTRA (Spouse)",
+   "quote": "Nomination updated for A/c no. XX6034. Nominee: NEHA MALHOTRA (Spouse). - Axis Bank"
+  }
+ ]
+}

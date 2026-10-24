@@ -1,0 +1,26 @@
+{
+ "clues": [
+  {
+   "evidence_id": "email_001",
+   "institution_raw": "Vel Textiles Ltd",
+   "asset_type": "shares",
+   "identifier": "VT55120",
+   "amount": null,
+   "amount_kind": "unknown",
+   "date": "2013-09-15",
+   "nominee": "not registered",
+   "quote": "Folio No.: VT55120\nShareholder: LAKSHMI IYER\nHolding: 350 equity shares of Rs 10 each."
+  },
+  {
+   "evidence_id": "ais_02",
+   "institution_raw": "HDFC BANK",
+   "asset_type": "fixed_deposit",
+   "identifier": null,
+   "amount": 14500.0,
+   "amount_kind": "interest",
+   "date": null,
+   "nominee": null,
+   "quote": "Interest from deposit | HDFC BANK | 14,500.00"
+  }
+ ]
+}

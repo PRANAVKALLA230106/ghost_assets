@@ -7,6 +7,7 @@ import CasePage from "./pages/CasePage";
 import ClaimsPage from "./pages/ClaimsPage";
 import DevPage from "./pages/DevPage";
 import NewCasePage from "./pages/NewCasePage";
+import ProofPage from "./pages/ProofPage";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
@@ -16,6 +17,7 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
         <Route path="/case/:id" element={<CaseLayout />}>
           <Route index element={<CasePage />} />
           <Route path="claims" element={<ClaimsPage />} />
+          <Route path="proof" element={<ProofPage />} />
         </Route>
         <Route path="/dev" element={<DevPage />} />
       </Routes>

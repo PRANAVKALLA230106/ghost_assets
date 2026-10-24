@@ -42,3 +42,18 @@ export function confidenceLabel(c: number): "High" | "Medium" | "Low" {
 
 export const claimPackFilename = (institution: string, assetId: string) =>
   `claimpack_${institution.replace(/\s+/g, "_")}_${assetId}.docx`;
+
+/** Colour per confidence level, used by the gauge, bars and Proof screen. */
+export const LEVEL_COLOR: Record<"High" | "Medium" | "Low", string> = {
+  High: "#7bd88f",
+  Medium: "#ffb54d",
+  Low: "#ff7a6b",
+};
+
+export const PROOF_SOURCE_LABEL = {
+  sms: "SMS",
+  email: "Email",
+  ais: "Tax record (AIS)",
+  photo: "Photo",
+  portal: "Govt portal",
+} as const;

@@ -1,0 +1,9 @@
+{
+ "text": "{\"name\":\"finish\",\"arguments\":{\"summary\":\"All assets identified and claim packs generated. Nominee status confirmed for FD123, KAVERI 2025 MF, and Suraksha Life Insurance – none have nominees. Claim paths: \\n• SBI savings (as_01) – nominee claim.\\n• Canara Bank FD (as_02) – simplified no‑nominee claim.\\n• LIC policy (as_03) – insurance death claim.\\n• Kaveri MF (as_04) – transmission claim.\\n• Suraksha Life (as_05) – insurance death claim.\\n• Ganga Tech shares (as_06) – IEPF refund claim.\\n• SBI old savings (as_07) – DEA claim via bank.\\nAll claim packs are ready for submission. Please review the documents and proceed with filing. Good luck!\"}}",
+ "reasoning": "",
+ "tool_call": null,
+ "raw": {
+  "role": "assistant",
+  "content": "{\"name\":\"finish\",\"arguments\":{\"summary\":\"All assets identified and claim packs generated. Nominee status confirmed for FD123, KAVERI 2025 MF, and Suraksha Life Insurance – none have nominees. Claim paths: \\n• SBI savings (as_01) – nominee claim.\\n• Canara Bank FD (as_02) – simplified no‑nominee claim.\\n• LIC policy (as_03) – insurance death claim.\\n• Kaveri MF (as_04) – transmission claim.\\n• Suraksha Life (as_05) – insurance death claim.\\n• Ganga Tech shares (as_06) – IEPF refund claim.\\n• SBI old savings (as_07) – DEA claim via bank.\\nAll claim packs are ready for submission. Please review the documents and proceed with filing. Good luck!\"}}"
+ }
+}

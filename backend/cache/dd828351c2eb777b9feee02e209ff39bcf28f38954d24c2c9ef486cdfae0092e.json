@@ -1,0 +1,114 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0918",
+   "institution_raw": "JD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "A/c no. XX6034",
+   "amount": "2400.00",
+   "amount_kind": "debit",
+   "date": "2025-06-20",
+   "nominee": null,
+   "quote": "INR 2,400.00 debited from A/c no. XX6034 on 20-06-25 UPI/zomato@axl Ref 361996820561 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0923",
+   "institution_raw": "JD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "A/c no. XX6034",
+   "amount": "112500.00",
+   "amount_kind": "credit",
+   "date": "2025-06-28",
+   "nominee": null,
+   "quote": "INR 1,12,500.00 credited to A/c no. XX6034 on 28-06-25 by NEFT SALARY ORIONSOFT TECH. Avl Bal INR 1,66,624.51 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0925",
+   "institution_raw": "AD-ICICIB",
+   "asset_type": "fixed_deposit",
+   "identifier": "A/c XX8817",
+   "amount": "300000.00",
+   "amount_kind": "principal",
+   "date": "2026-07-04",
+   "nominee": null,
+   "quote": "Your FD A/c XX8817 has matured and is renewed for 1 year. Renewed principal Rs 3,00,000.00. Maturity date 04-07-2026. -ICICI Bank"
+  },
+  {
+   "evidence_id": "sms_0926",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "A/c no. XX6034",
+   "amount": "8000.00",
+   "amount_kind": "debit",
+   "date": "2025-07-10",
+   "nominee": null,
+   "quote": "INR 8,000.00 debited from A/c no. XX6034 on 10-07-25 for SIP BANDHAN MF Folio XXXXXXX3390 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0926",
+   "institution_raw": "VM-BNDHMF",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXXX3390",
+   "amount": "8000.00",
+   "amount_kind": "sip_instalment",
+   "date": "2025-07-10",
+   "nominee": null,
+   "quote": "SIP of Rs 8,000.00 in Bandhan Small Cap Fund - Direct Growth, Folio XXXXXXX3390 processed. Units 209.15 @ NAV 38.25. -Bandhan MF"
+  },
+  {
+   "evidence_id": "sms_0928",
+   "institution_raw": "VM-EPFOHO",
+   "asset_type": "provident_fund",
+   "identifier": "UAN XXXXXXXX5521",
+   "amount": "14400.00",
+   "amount_kind": "credit",
+   "date": null,
+   "nominee": null,
+   "quote": "contribution of Rs. 14,400 for 07/2025 received in your PF account linked to UAN XXXXXXXX5521. Total PF balance Rs. 9,29,000. -EPFO"
+  },
+  {
+   "evidence_id": "sms_0929",
+   "institution_raw": "VM-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "A/c no. XX6034",
+   "amount": "112500.00",
+   "amount_kind": "credit",
+   "date": "2025-07-28",
+   "nominee": null,
+   "quote": "INR 1,12,500.00 credited to A/c no. XX6034 on 28-07-25 by NEFT SALARY ORIONSOFT TECH. Avl Bal INR 1,60,719.94 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0931",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "A/c no. XX6034",
+   "amount": "2400.00",
+   "amount_kind": "debit",
+   "date": "2025-08-08",
+   "nominee": null,
+   "quote": "INR 2,400.00 debited from A/c no. XX6034 on 08-08-25 UPI/zomato@axl Ref 729944347475 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0932",
+   "institution_raw": "AD-AXISBK",
+   "asset_type": "savings_account",
+   "identifier": "A/c no. XX6034",
+   "amount": "8000.00",
+   "amount_kind": "debit",
+   "date": "2025-08-10",
+   "nominee": null,
+   "quote": "INR 8,000.00 debited from A/c no. XX6034 on 10-08-25 for SIP BANDHAN MF Folio XXXXXXX3390 - Axis Bank"
+  },
+  {
+   "evidence_id": "sms_0932",
+   "institution_raw": "VM-BNDHMF",
+   "asset_type": "mutual_fund",
+   "identifier": "Folio XXXXXXX3390",
+   "amount": "8000.00",
+   "amount_kind": "sip_instalment",
+   "date": "2025-08-10",
+   "nominee": null,
+   "quote": "SIP of Rs 8,000.00 in Bandhan Small Cap Fund - Direct Growth, Folio XXXXXXX3390 processed. Units 209.15 @ NAV 38.25. -Bandhan MF"
+  }
+ ]
+}

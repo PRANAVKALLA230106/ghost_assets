@@ -1,0 +1,30 @@
+{
+ "text": "",
+ "reasoning": "Need investigate gaps: as_02 nominee unknown, as_04 nominee unknown, as_05 nominee unknown, as_06 shares need portal check, as_07 and as_08 incomplete. Also check UDGAM for silent accounts >10 years? none. Check IEPF for shares. Also need nominee info. Ask family for nominee for those assets.",
+ "tool_call": {
+  "id": "fc_a51e5116-c3d8-43cf-810b-b55b92505a1e",
+  "name": "ask_family",
+  "args": {
+   "asset_id": "as_02",
+   "options": [
+    "Yes",
+    "No"
+   ],
+   "question": "Is there a nominee named for the fixed deposit account XX5512 at HDFC Bank?"
+  }
+ },
+ "raw": {
+  "role": "assistant",
+  "content": "",
+  "tool_calls": [
+   {
+    "id": "fc_a51e5116-c3d8-43cf-810b-b55b92505a1e",
+    "type": "function",
+    "function": {
+     "name": "ask_family",
+     "arguments": "{\"asset_id\":\"as_02\",\"options\":[\"Yes\",\"No\"],\"question\":\"Is there a nominee named for the fixed deposit account XX5512 at HDFC Bank?\"}"
+    }
+   }
+  ]
+ }
+}

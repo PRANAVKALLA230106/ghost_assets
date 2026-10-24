@@ -5,6 +5,7 @@ import { formatINR } from "../format";
 import { ASSET_TYPE_LABEL, STATUS_LABEL, claimPathLabel, confidenceLabel } from "../labels";
 import type { AssetDetail, EvidenceQuote } from "../types";
 import ClaimPackButton from "./ClaimPackButton";
+import ConfidenceBreakdown from "./ConfidenceBreakdown";
 
 type Load =
   | { state: "loading" }
@@ -136,6 +137,8 @@ export default function AssetDrawer({ caseId, assetId, onClose }: { caseId: stri
               <div className="mt-6">
                 <ClaimPackButton caseId={caseId} asset={asset} />
               </div>
+
+              {load.state === "ok" && load.detail.confidence && <ConfidenceBreakdown detail={load.detail.confidence} />}
 
               <h3 className="mt-8 text-sm uppercase tracking-wide text-muted">
                 Evidence ({quotes.length})

@@ -1,0 +1,15 @@
+{
+ "clues": [
+  {
+   "evidence_id": "photo_pnb_passbook",
+   "institution_raw": "PUNJAB NATIONAL BANK",
+   "asset_type": "savings_account",
+   "identifier": "XXXXXXX2045",
+   "amount": "48000.00",
+   "amount_kind": "balance",
+   "date": "2014-03-11",
+   "nominee": "not registered",
+   "quote": "A/c No: XXXXXXX2045\nName: SRIJAN MALHOTRA   Nomination: ___ (not registered)\n\nDate Particulars Withdrawal Deposit Balance\n14-06-2012 BY CASH 25,000.00 25,000.00\n02-01-2013 BY CLG 18,000.00 43,000.00\n30-09-2013 INT CREDIT 1,200.00 44,200.00\n11-03-2014 BY TRANSFER 3,800.00 48,000.00"
+  }
+ ]
+}

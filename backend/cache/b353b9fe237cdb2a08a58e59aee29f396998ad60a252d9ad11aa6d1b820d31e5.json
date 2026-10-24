@@ -1,0 +1,136 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0957",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "11200",
+   "amount_kind": "debit",
+   "date": "2025-07-15",
+   "nominee": null,
+   "quote": "Rs.11,200.00 debited from A/c XX2290 on 15-07-25 towards LIC PREMIUM Policy XXXXX8841 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0957",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "life_insurance",
+   "identifier": "XXXXX8841",
+   "amount": "11200",
+   "amount_kind": "premium",
+   "date": "2025-07-15",
+   "nominee": null,
+   "quote": "Rs.11,200.00 debited from A/c XX2290 on 15-07-25 towards LIC PREMIUM Policy XXXXX8841 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0959",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "150",
+   "amount_kind": "debit",
+   "date": "2025-07-21",
+   "nominee": null,
+   "quote": "Rs.150.00 debited from A/c XX2290 on 21-07-25 to VPA bigbasket@ybl. UPI Ref 829434262349. -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0961",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "28000",
+   "amount_kind": "credit",
+   "date": "2025-08-01",
+   "nominee": null,
+   "quote": "Dear Customer, your A/c XX2290 is credited by Rs.28,000.00 on 01-08-25 by PENSION. Avl Bal Rs.99,425.31 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0962",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "6000",
+   "amount_kind": "debit",
+   "date": "2025-08-07",
+   "nominee": null,
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-08-25 for SIP ADITYA MF Folio XXXXXX7701 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0962",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "sip_instalment",
+   "date": "2025-08-07",
+   "nominee": null,
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-08-25 for SIP ADITYA MF Folio XXXXXX7701 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0963",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.6,000.00 in Aditya Flexi Fund - Growth, Folio XXXXXX7701 is processed. Units: 57.737 @ NAV 103.92. -Aditya MF"
+  },
+  {
+   "evidence_id": "sms_0965",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "28000",
+   "amount_kind": "credit",
+   "date": "2025-09-01",
+   "nominee": null,
+   "quote": "Dear Customer, your A/c XX2290 is credited by Rs.28,000.00 on 01-09-25 by PENSION. Avl Bal Rs.95,366.98 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0967",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "6000",
+   "amount_kind": "debit",
+   "date": "2025-09-07",
+   "nominee": null,
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-09-25 for SIP ADITYA MF Folio XXXXXX7701 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0967",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "sip_instalment",
+   "date": "2025-09-07",
+   "nominee": null,
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-09-25 for SIP ADITYA MF Folio XXXXXX7701 -HDFC Bank"
+  },
+  {
+   "evidence_id": "sms_0968",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "sip_instalment",
+   "date": null,
+   "nominee": null,
+   "quote": "Your SIP of Rs.6,000.00 in Aditya Flexi Fund - Growth, Folio XXXXXX7701 is processed. Units: 48.263 @ NAV 124.32. -Aditya MF"
+  },
+  {
+   "evidence_id": "sms_0970",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "90",
+   "amount_kind": "debit",
+   "date": "2025-09-16",
+   "nominee": null,
+   "quote": "Rs.90.00 debited from A/c XX2290 on 16-09-25 to VPA bigbasket@ybl. UPI Ref 835352903342. -HDFC Bank"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+[
+  {
+    "from": "secretarial@veltextiles.example",
+    "date": "2013-08-18T10:00:00",
+    "subject": "Vel Textiles Ltd - Notice of 18th AGM",
+    "body": "Dear Shareholder,\nNotice of the 18th AGM of Vel Textiles Ltd on 15 Sep 2013.\nFolio No.: VT55120\nShareholder: LAKSHMI IYER\nHolding: 350 equity shares of Rs 10 each.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@thehindu.example",
+    "date": "2016-09-28T11:42:46",
+    "subject": "Morning digest",
+    "body": "Top stories today.",
+    "attachment_text": ""
+  },
+  {
+    "from": "temple@kapaleeshwarar.example",
+    "date": "2016-10-21T04:51:53",
+    "subject": "Donation receipt",
+    "body": "Thank you for your donation.",
+    "attachment_text": ""
+  },
+  {
+    "from": "temple@kapaleeshwarar.example",
+    "date": "2016-12-03T09:53:35",
+    "subject": "Donation receipt",
+    "body": "Thank you for your donation.",
+    "attachment_text": ""
+  },
+  {
+    "from": "temple@kapaleeshwarar.example",
+    "date": "2017-06-19T05:39:27",
+    "subject": "Donation receipt",
+    "body": "Thank you for your donation.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@thehindu.example",
+    "date": "2017-11-21T21:27:19",
+    "subject": "Morning digest",
+    "body": "Top stories today.",
+    "attachment_text": ""
+  },
+  {
+    "from": "temple@kapaleeshwarar.example",
+    "date": "2018-10-14T04:08:44",
+    "subject": "Donation receipt",
+    "body": "Thank you for your donation.",
+    "attachment_text": ""
+  },
+  {
+    "from": "orders@shop.example",
+    "date": "2018-12-20T11:54:48",
+    "subject": "Order shipped",
+    "body": "Your order ships in 3 days.",
+    "attachment_text": ""
+  },
+  {
+    "from": "temple@kapaleeshwarar.example",
+    "date": "2019-07-03T20:19:16",
+    "subject": "Donation receipt",
+    "body": "Thank you for your donation.",
+    "attachment_text": ""
+  },
+  {
+    "from": "temple@kapaleeshwarar.example",
+    "date": "2019-10-04T00:10:51",
+    "subject": "Donation receipt",
+    "body": "Thank you for your donation.",
+    "attachment_text": ""
+  },
+  {
+    "from": "temple@kapaleeshwarar.example",
+    "date": "2020-01-06T11:21:59",
+    "subject": "Donation receipt",
+    "body": "Thank you for your donation.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@thehindu.example",
+    "date": "2021-06-02T09:49:39",
+    "subject": "Morning digest",
+    "body": "Top stories today.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@thehindu.example",
+    "date": "2021-11-17T21:02:14",
+    "subject": "Morning digest",
+    "body": "Top stories today.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@thehindu.example",
+    "date": "2021-12-08T20:06:21",
+    "subject": "Morning digest",
+    "body": "Top stories today.",
+    "attachment_text": ""
+  },
+  {
+    "from": "orders@shop.example",
+    "date": "2022-09-11T23:10:37",
+    "subject": "Order shipped",
+    "body": "Your order ships in 3 days.",
+    "attachment_text": ""
+  },
+  {
+    "from": "deposits@hdfcbank.example",
+    "date": "2023-05-11T09:00:00",
+    "subject": "Term Deposit XX5512 - maturity advice",
+    "body": "Dear Customer, advice for your term deposit ending 5512 attached.",
+    "attachment_text": "HDFC BANK - TERM DEPOSIT ADVICE\nDeposit A/c: XX5512\nDepositor: LAKSHMI IYER\nMatured on: 10-05-2023\nMaturity value: Rs 1,80,000.00\nAction: auto-renewed"
+  },
+  {
+    "from": "orders@shop.example",
+    "date": "2023-07-12T22:54:13",
+    "subject": "Order shipped",
+    "body": "Your order ships in 3 days.",
+    "attachment_text": ""
+  },
+  {
+    "from": "temple@kapaleeshwarar.example",
+    "date": "2023-09-14T11:30:40",
+    "subject": "Donation receipt",
+    "body": "Thank you for your donation.",
+    "attachment_text": ""
+  },
+  {
+    "from": "welcome@starhealth.example",
+    "date": "2023-09-25T18:00:00",
+    "subject": "Welcome to Star Health - Policy XXXXX3360",
+    "body": "Dear Lakshmi Iyer,\nPolicy No.: XXXXX3360\nSum Assured: Rs 3,00,000\nAnnual premium: Rs 18,000, due 1 October.",
+    "attachment_text": ""
+  },
+  {
+    "from": "newsletter@thehindu.example",
+    "date": "2024-04-29T17:01:55",
+    "subject": "Morning digest",
+    "body": "Top stories today.",
+    "attachment_text": ""
+  },
+  {
+    "from": "orders@shop.example",
+    "date": "2024-07-22T23:56:41",
+    "subject": "Order shipped",
+    "body": "Your order ships in 3 days.",
+    "attachment_text": ""
+  },
+  {
+    "from": "orders@shop.example",
+    "date": "2024-09-15T17:14:09",
+    "subject": "Order shipped",
+    "body": "Your order ships in 3 days.",
+    "attachment_text": ""
+  },
+  {
+    "from": "orders@shop.example",
+    "date": "2024-12-20T16:20:47",
+    "subject": "Order shipped",
+    "body": "Your order ships in 3 days.",
+    "attachment_text": ""
+  },
+  {
+    "from": "temple@kapaleeshwarar.example",
+    "date": "2025-07-06T07:02:02",
+    "subject": "Donation receipt",
+    "body": "Thank you for your donation.",
+    "attachment_text": ""
+  },
+  {
+    "from": "statements@cas.example",
+    "date": "2026-01-05T07:00:00",
+    "subject": "Consolidated Account Statement - Dec 2025",
+    "body": "Dear Investor, your CAS for Dec 2025 attached.",
+    "attachment_text": "CONSOLIDATED ACCOUNT STATEMENT - DEC 2025\nInvestor: LAKSHMI IYER\nAditya Flexi Fund - Growth | Folio XXXXXX7701 | Market Value Rs 2,20,000.00"
+  }
+]

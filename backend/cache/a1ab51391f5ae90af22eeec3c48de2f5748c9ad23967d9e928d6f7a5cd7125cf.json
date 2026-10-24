@@ -1,0 +1,114 @@
+{
+ "clues": [
+  {
+   "evidence_id": "sms_0805",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "28000",
+   "amount_kind": "credit",
+   "date": "2024-02-01",
+   "nominee": "not registered",
+   "quote": "your A/c XX2290 is credited by Rs.28,000.00 on 01-02-24 by PENSION"
+  },
+  {
+   "evidence_id": "sms_0807",
+   "institution_raw": "JD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "6000",
+   "amount_kind": "debit",
+   "date": "2024-02-07",
+   "nominee": "not registered",
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-02-24 for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0807",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "debit",
+   "date": "2024-02-07",
+   "nominee": "not registered",
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-02-24 for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0813",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "320",
+   "amount_kind": "debit",
+   "date": "2024-02-25",
+   "nominee": "not registered",
+   "quote": "Rs.320.00 debited from A/c XX2290 on 25-02-24 to VPA pharmacy.med@ybl"
+  },
+  {
+   "evidence_id": "sms_0816",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "28000",
+   "amount_kind": "credit",
+   "date": "2024-03-01",
+   "nominee": "not registered",
+   "quote": "your A/c XX2290 is credited by Rs.28,000.00 on 01-03-24 by PENSION"
+  },
+  {
+   "evidence_id": "sms_0819",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "6000",
+   "amount_kind": "debit",
+   "date": "2024-03-07",
+   "nominee": "not registered",
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-03-24 for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0819",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "debit",
+   "date": "2024-03-07",
+   "nominee": "not registered",
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-03-24 for SIP ADITYA MF Folio XXXXXX7701"
+  },
+  {
+   "evidence_id": "sms_0820",
+   "institution_raw": "VM-ADTYMF",
+   "asset_type": "mutual_fund",
+   "identifier": "XXXXXX7701",
+   "amount": "6000",
+   "amount_kind": "debit",
+   "date": "2024-04-07",
+   "nominee": "not registered",
+   "quote": "Your SIP of Rs.6,000.00 in Aditya Flexi Fund - Growth, Folio XXXXXX7701 is processed"
+  },
+  {
+   "evidence_id": "sms_0822",
+   "institution_raw": "AD-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "28000",
+   "amount_kind": "credit",
+   "date": "2024-04-01",
+   "nominee": "not registered",
+   "quote": "your A/c XX2290 is credited by Rs.28,000.00 on 01-04-24 by PENSION"
+  },
+  {
+   "evidence_id": "sms_0825",
+   "institution_raw": "VM-HDFCBK",
+   "asset_type": "savings_account",
+   "identifier": "XX2290",
+   "amount": "6000",
+   "amount_kind": "debit",
+   "date": "2024-04-07",
+   "nominee": "not registered",
+   "quote": "Rs 6000 debited from A/c XX2290 on 07-04-24 for SIP ADITYA MF Folio XXXXXX7701"
+  }
+ ]
+}
