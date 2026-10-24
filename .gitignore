@@ -11,4 +11,3 @@ data/uploads/
 # demo recordings are too large for GitHub (100 MB limit); share via link instead
 *.mp4
 *.mov
-Screen Recording*
