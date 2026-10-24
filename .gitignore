@@ -7,3 +7,8 @@ out/
 data/uploads/
 *.pyc
 # backend/cache/ is NOT ignored on purpose: commit it before the demo
+
+# demo recordings are too large for GitHub (100 MB limit); share via link instead
+*.mp4
+*.mov
+Screen Recording*
